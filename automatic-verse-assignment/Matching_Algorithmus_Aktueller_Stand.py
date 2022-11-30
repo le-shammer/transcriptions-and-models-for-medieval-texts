@@ -2,18 +2,24 @@ import csv
 from Levenshtein import distance
 import pandas as pd
 
+# Die beiden txt-Dateien der Handschriften sollen im gleichen Ordner liegen, sodass die Variable 'path' für beide Dateien gilt
+# Passe Variablen 'path', 'filename_hs1' und 'filename_hs2' an
+path = '/Users/kiarahart/PycharmProjects/Marienleben/texte/' # Pfad zum Ordner, in dem die beiden unter 'filename_hs1' und 'filename_hs1' gespeicherteb txt-Dateien liegen
+filename_hs1 = 'hsb.txt' # Dateiname der Handschrift mit größerer Anzahl an Versen (hsb, nibel_1)
+filename_hs2 = 'hsl.txt' # Dateiname der Handschrift mit kleinerer Anzahl an Versen (hsl, nibel_2)
+
 # Texte in Liste einzelner Verse verwandeln
 def preparing_text_verse_level(text: list):
     prep_text = list(filter(None, [t.replace('\n', '') for t in text]))
     return prep_text
 
 # Text als Liste einlesen (notwendig für Funktion 'preparing_text_verse_level')
-def open_text_as_list_of_lines(path):
-    with open('/Users/kiarahart/PycharmProjects/Marienleben/texte/' + path, mode='r', encoding='utf-8-sig') as f: # Pfad anpassen
+def open_text_as_list_of_lines(path=path, filename_hs):
+    with open(path + filename_hs, mode='r', encoding='utf-8-sig') as f:
         return f.readlines()
 
-hs1 = preparing_text_verse_level(open_text_as_list_of_lines('hsb.txt'))#Name der txt-Datei mit größerer Anzahl an Versen (hsb, nibel_1)
-hs2 = preparing_text_verse_level(open_text_as_list_of_lines('hsl.txt'))#Name der txt-Datei mit kleinerer Anzahl an Versen (hsl, nibel_2)
+hs1 = preparing_text_verse_level(open_text_as_list_of_lines(filename_hs1)) #Einlesen der txt-Datei von hs1
+hs2 = preparing_text_verse_level(open_text_as_list_of_lines(filename_hs2)) #Einlesen der txt-Datei von hs2
 
 def levenshtein_distance(str1, str2):
     return (1 - distance(str1, str2)/max(len(str1), len(str2)))
