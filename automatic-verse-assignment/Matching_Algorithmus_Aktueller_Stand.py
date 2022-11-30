@@ -14,7 +14,7 @@ def preparing_text_verse_level(text: list):
     return prep_text
 
 # Text als Liste einlesen (notwendig für Funktion 'preparing_text_verse_level')
-def open_text_as_list_of_lines(path=path, filename_hs):
+def open_text_as_list_of_lines(filename_hs, path=path):
     with open(path + filename_hs, mode='r', encoding='utf-8-sig') as f:
         return f.readlines()
 
