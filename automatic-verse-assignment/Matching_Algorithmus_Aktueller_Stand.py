@@ -2,11 +2,14 @@ import csv
 from Levenshtein import distance
 import pandas as pd
 
-# Die beiden txt-Dateien der Handschriften sollen im gleichen Ordner liegen, sodass die Variable 'path' für beide Dateien gilt
-# Passe Variablen 'path', 'filename_hs1' und 'filename_hs2' an
 path = '/Users/kiarahart/PycharmProjects/Marienleben/texte/' # Pfad zum Ordner, in dem die beiden unter 'filename_hs1' und 'filename_hs1' gespeicherteb txt-Dateien liegen
 filename_hs1 = 'hsb.txt' # Dateiname der Handschrift mit größerer Anzahl an Versen (hsb, nibel_1)
 filename_hs2 = 'hsl.txt' # Dateiname der Handschrift mit kleinerer Anzahl an Versen (hsl, nibel_2)
+
+# Verstellbare Parameter
+Suchbereich_erste_Iteration = 50 # +/- 50 Verse ausgehend von der Position des Verses in Hss1, die in Hss2 auf Ähnlichkeit zum Vers in Hss1 überprüft werden
+#bei hsb/hsc: 200
+#bei hsb/hsl: 50
 
 # Texte in Liste einzelner Verse verwandeln
 def preparing_text_verse_level(text: list):
@@ -19,17 +22,17 @@ def open_text_as_list_of_lines(filename_hs, path=path):
         return f.readlines()
 
 hs1 = preparing_text_verse_level(open_text_as_list_of_lines(filename_hs1)) #Einlesen der txt-Datei von hs1
-hs2 = preparing_text_verse_level(open_text_as_list_of_lines(filename_hs2)) #Einlesen der txt-Datei von hs2
+hs2 = preparing_text_verse_level(open_text_as_list_of_lines(filename_hs2))#Einlesen der txt-Datei von hs2
 
 def levenshtein_distance(str1, str2):
     return (1 - distance(str1, str2)/max(len(str1), len(str2)))
 
-def compare_verses(vers_id_hs1: int, vers_hs_1: str, hs1: list, hs2:list):
+def compare_verses(vers_id_hs1: int, vers_hs_1: str, hs2:list, Suchbereich_erste_Iteration=Suchbereich_erste_Iteration):
     vers_id_hs1 = int(vers_id_hs1)
     if vers_id_hs1 > len(hs2)-1:
         vers_id_hs1 = len(hs2)-1
-    start_near_verses = max([0, vers_id_hs1-50])#bei hsb/hsc: 200
-    end_near_verses = min([len(hs2)-1, vers_id_hs1 + 50])#bei hsb/hsc: 200
+    start_near_verses = max([0, vers_id_hs1-Suchbereich_erste_Iteration])
+    end_near_verses = min([len(hs2)+1, vers_id_hs1 + Suchbereich_erste_Iteration])
     near_verses = hs2[start_near_verses:end_near_verses]
     corresp_v = levenshtein_distance(vers_hs_1, hs2[vers_id_hs1])
     sim = [levenshtein_distance(vers_hs_1, vers) for vers in near_verses]
@@ -48,7 +51,7 @@ with csv_file:
     writer.writeheader()
     # writing data row-wise into the csv file
     for vers in hs1:
-        result = compare_verses(hs1.index(vers), vers, hs1, hs2)
+        result = compare_verses(hs1.index(vers), vers, hs2)
         writer.writerow({'Vers_ID': hs1.index(vers),
                          'Vers': vers,
                          'Vorschlag_Zuordnung_Vers': result[0],
@@ -88,7 +91,7 @@ def correction(df):
     lst_2 = list(df['Vorschlag_Zuordnung_Vers'])
     Vorschlag_Zuordnung_Vers_ID = list(pd.Series(lst,index=df['Vorschlag_Zuordnung_Vers']).items())
     for i, e in enumerate(Vorschlag_Zuordnung_Vers_ID):
-        if i < len(hs2):#bei hsb / hsc: len(lst)-1
+        if i < len(lst)-1:
             int_before = [x for x in lst[:i] if type(x) == int] # Liste der ID's der zugeordneten Verse vor dem aktuellen Vers
             int_after = [x for x in lst[i:] if type(x) == int] # Liste der ID's der zugeordneten Verse nach dem aktuellen Vers
             if len(int_before) == 0:
@@ -96,7 +99,7 @@ def correction(df):
             else:
                 index_before = int_before[-1]
             if len(int_after) == 0:
-                index_after = 1#len(hs2)
+                index_after = 1
             else:
                 index_after = int_after[0]
             if isinstance(e[1], str):
@@ -162,10 +165,11 @@ for index, row in df.iterrows():
                 df.loc[df['Vers_ID'] == index, ['Vorschlag_Zuordnung_Vers', 'Vorschlag_Zuordnung_Vers_ID', 'Ähnlichkeitsmaß']] = 'n.a.'
 df.to_csv('uebersicht.csv', index=False)
 
-# Liste aller nicht zugeordneten Hss2-Verse
-not_found = sorted(set(list([i for i in range(len(hs2))])).difference(list(df['Vorschlag_Zuordnung_Vers_ID'])))
 # Liste der ID's aller zugeordneten Hss2-Verse (inkl. 'n.a.'-Einträge)
 indices = df['Vorschlag_Zuordnung_Vers_ID'].tolist()
+
+# Liste aller nicht zugeordneten Hss2-Verse (=Unterschied zwischen Liste aller Versnummern von Hss2 und aller in der Spalte 'Vorschlag_Zuordnung_Vers_ID' zugeordneten Versnummern aus Hss2
+not_found = sorted(set(list([i for i in range(len(hs2))])).difference(indices))
 
 # Zuordnen bislang nicht zugeordneter Verse
 def not_found_v(not_found, indices):
@@ -184,11 +188,9 @@ def not_found_v(not_found, indices):
 result_not_v = not_found_v(not_found, indices)# Anwenden der Funktion 'not_found_v' auf die Daten des Dataframes
 
 # Schreibe die in 'result_not_v' gespeicherten Ergebnisse in den Dataframe
-for k, v in result_not_v.items():
-    if isinstance(v[-1], str):
-        df.loc[df['Vers_ID'] == k, ['Vorschlag_Zuordnung_Vers', 'Vorschlag_Zuordnung_Vers_ID', 'Anmerkung', 'Ähnlichkeitsmaß']] = v[0], v[1], v[-1], levenshtein_distance(hs1[k],v[0])
-    else:
-        df.loc[df['Vers_ID'] == k, ['Vorschlag_Zuordnung_Vers', 'Vorschlag_Zuordnung_Vers_ID']] = v[0], v[1]
+# Erläuterung von 'Vers_VersnummerInHss2_GrundFuerEinsortierung': hierbei handelt es sich um eine Liste, welche die drei Elemente 1) Vers 2) VersnummerInHss2 und 3) GrundFuerEinsortierung enthält, auf die im folgenden über die Indices 0,1 und 2 zugegriffen wird
+for Vers_ID_bei_welcher_Vers_eingehaengt_wird, Vers_VersnummerInHss2_GrundFuerEinsortierung in result_not_v.items():
+        df.loc[df['Vers_ID'] == Vers_ID_bei_welcher_Vers_eingehaengt_wird, ['Vorschlag_Zuordnung_Vers', 'Vorschlag_Zuordnung_Vers_ID', 'Anmerkung', 'Ähnlichkeitsmaß']] = Vers_VersnummerInHss2_GrundFuerEinsortierung[0], Vers_VersnummerInHss2_GrundFuerEinsortierung[1], Vers_VersnummerInHss2_GrundFuerEinsortierung[-1], levenshtein_distance(hs1[Vers_ID_bei_welcher_Vers_eingehaengt_wird], Vers_VersnummerInHss2_GrundFuerEinsortierung[0])
 df.to_csv('uebersicht.csv', index=False)
 
 # Regelt die Grenzwerte für Ls-Wert und die korrespondierende Färbung der Felder in der Excel-Tabelle
@@ -209,19 +211,19 @@ def color_rule(val):
 df.loc[df['Vorschlag_Zuordnung_Vers_ID']== 'n.a.', ['Vorschlag_Zuordnung_Vers', 'Vorschlag_Zuordnung_Vers_ID', 'Ähnlichkeitsmaß', 'Anmerkung']] = "n.a."
 df.to_csv('uebersicht.csv', index=False)
 
-# Liste aller nicht zugeordneten Hss2-Verse (aktualisierte Version von 'not_found')
-not_found_2 = sorted(set(list([i for i in range(len(hs2))])).difference(list(df['Vorschlag_Zuordnung_Vers_ID'])))
 # Liste der ID's aller zugeordneten Hss2-Verse (inkl. 'n.a.'-Einträge) (aktualisierte Version von 'indices')
 indices_2 = df['Vorschlag_Zuordnung_Vers_ID'].tolist()
+# Liste aller nicht zugeordneten Hss2-Verse (aktualisierte Version von 'not_found')
+not_found_2 = sorted(set(list([i for i in range(len(hs2))])).difference(indices_2))
 
 # Quelle für folgende Funktion: https://stackoverflow.com/questions/46146197/count-all-sequences-in-a-list
 # Filtert Objekte in 'not_found_2' in zwei Gruppen: einzelne Fehlverse und zusammenhängende Fehlverse
 # einzelne Fehlverse werden in eine gemeinsame Liste 'singles' sortiert
 # zusammenhängende Fehlverse werden in eine Liste sortiert, die wiederum in die Liste 'groups' sortiert wird
-def not_found_2_return_lists(not_found_2, indices_2):
+def not_found_2_return_lists(not_found_2):
     singles = []
     groups = [[]]
-    for item1, item2 in zip(not_found, not_found[1:]):  # pairwise iteration
+    for item1, item2 in zip(not_found_2, not_found_2[1:]):  # pairwise iteration
         if item2 - item1 == 1:
             if not groups[-1]:
                 groups[-1].extend((item1, item2))
@@ -236,7 +238,7 @@ def not_found_2_return_lists(not_found_2, indices_2):
     return singles, groups
 
 # Output der Funktion 'not_found_2_return_lists' sind die zwei Listen 'groups' und 'singles'
-groups, singles = not_found_2_return_lists(not_found_2, indices_2)[1], not_found_2_return_lists(not_found, indices_2)[0]
+groups, singles = not_found_2_return_lists(not_found_2)[1], not_found_2_return_lists(not_found_2)[0]
 
 # Füge Anmerkung bei dem Vers hinzu, nach dem der nicht zugeordnete Vers der Versreihenfolge in Hss2 folgend kommen müsste
 singles_dict = {s: hs2[s] for s in singles}
@@ -245,7 +247,8 @@ for k, v in singles_dict.items():
         df.loc[df['Vers_ID'] == 0, ['Anmerkung']] = f'In Folgezeile nicht zugeordneter Vers Nr.{k} aus Hss2: {v}'
     else:
         df.loc[df['Vers_ID'] == list(df['Vorschlag_Zuordnung_Vers_ID']).index(k-1), ['Anmerkung']] = f'In Folgezeile nicht zugeordneter Vers Nr.{k} aus Hss2: {v}'
-
+print(singles)
+print(len(hs2))
 # Füge Anmerkung bei dem Vers hinzu, nach dem die nicht zugeordneten Verse der Versreihenfolge in Hss2 folgend kommen müssten
 for re in groups:
     groups_dict = {x: hs2[x] for x in re}
@@ -300,4 +303,4 @@ df.to_csv('uebersicht.csv', index=False)
 
 # Wende die Funktion 'color_rule' auf den Dataframe an
 col_df = df.style.apply(color_rule, axis=1, subset=['Ähnlichkeitsmaß'])
-#col_df.to_excel(r'styled.xlsx')
+col_df.to_excel(r'styled.xlsx')
