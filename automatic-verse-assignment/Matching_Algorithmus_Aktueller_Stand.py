@@ -247,8 +247,7 @@ for k, v in singles_dict.items():
         df.loc[df['Vers_ID'] == 0, ['Anmerkung']] = f'In Folgezeile nicht zugeordneter Vers Nr.{k} aus Hss2: {v}'
     else:
         df.loc[df['Vers_ID'] == list(df['Vorschlag_Zuordnung_Vers_ID']).index(k-1), ['Anmerkung']] = f'In Folgezeile nicht zugeordneter Vers Nr.{k} aus Hss2: {v}'
-print(singles)
-print(len(hs2))
+
 # Füge Anmerkung bei dem Vers hinzu, nach dem die nicht zugeordneten Verse der Versreihenfolge in Hss2 folgend kommen müssten
 for re in groups:
     groups_dict = {x: hs2[x] for x in re}
