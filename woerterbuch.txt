@@ -126346,5 +126346,4 @@ us	uz
 salt	solt
 lute	liute
 sal	sol
-zuo	ze
 
