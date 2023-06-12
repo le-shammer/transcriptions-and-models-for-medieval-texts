@@ -1,0 +1,253 @@
+abe	ab
+fir	fur
+undr	unde
+uch	iuch
+jesu	jesus
+zn	ze
+nicht	niht
+hern	herren
+bie	bi
+us	uz
+salt	solt
+lute	liute	
+allez	alles
+dach	tac
+dime	dine
+frauowe	vrouwe
+frauwe	vrouwe
+founden	vunden
+geborn	geboren
+alles	allez 
+fuoren	vuoren 
+himele	himel
+ihe	jesus
+mime	mine
+nuo	nu
+quaeme	kaeme
+suon	sun
+un	unde
+varn	varen 
+wueeste	wüeste 
+
+
+alein̂	alein
+anedaht	andaht
+arebeit	arbeit
+armez	armes
+begvnde	begunde 
+begvnden	begunden
+beleib	beleip 
+berait	bereit
+bezeichenet	bezeichnet
+bin̂	bin 
+bravt	brout
+brovt	brout
+chaêm	kaem 
+chaême	kaeme 
+chaêmen	kaemen 
+cham	kam 
+chamen	kamen
+cheren	keren
+cherte	kerte
+chevsch	kiusch
+chevschikeit	kiuschekeit
+chinde	kinde
+chindelin	kindelin
+chine	kine
+chint	kint
+chlag	klag
+chlagen	klagen
+chlain	klein 
+chlanc	klanc
+chneht	kneht
+chom	kom
+chomas	komas
+chomen	komen
+chone	kone
+chranz	kranz
+chrevz	kriuc
+chrevzes	kriuces
+chron	kron
+chrone	krone
+chruoc	kruoc
+chunde	kunde
+chunden	kunden
+chuneginne	kuneginne
+chunt	kunt
+churzweil	kurzweil
+darvmbe	darumbe
+dein̂	din
+dermit	darmit
+don	ton
+dones	tones
+ein̂	ein
+elyzabet	elisabet
+enchein	enkein
+ercham	erkam
+erchanden	erkanden
+erchant	erkant
+erchorn	erkorn
+ewichlich	ewiclich
+ez	es
+fruht	vruht
+frumen	vrumen
+funden	vunden
+fuor	vuor
+fuort	vuort
+furt	vurt
+galyle	galile
+gebvnden	gebunden
+geborn	geboren
+gemain̂	gemein
+gebvnden	gebunden
+gebvrde	geburde
+gedanc	gedank
+gehaizen	geheizen
+gelait	geleit
+gemain	gemein
+genade	gnade
+genaden	gnaden
+geschah	geschach
+gesvnt	gesunt
+grab	grap
+grozez	grozes
+grueenez	grüenes
+hart	harte
+helf	helfe
+here	herre
+hevt	hiut
+hevte	hiute
+hin̂	hin
+hov̂s	hous
+hovs	hous
+huob	huop
+iesn	iesus
+iesns	iesus
+ihin	iesus
+im̂	im
+in̂	in
+irlm	ierusalem
+ivden	iuden
+ivgent	iugent
+jahen	iahen
+jakobes	iakobes
+jakop	iakop
+jamer	iamer
+jamerliche	iamerliche
+jamers	iamers
+jar	iar
+jerusalem	ierusalem
+jesu	iesu
+jesum	iesum
+jesus	iesus
+joachim	ioachim
+johan	iohan
+johannes	iohannes
+joseph	ioseph
+josephes	iosephes
+judas	iudas
+jude	iude
+juden	iuden
+jungen	iungen
+junger	iunger
+jungern	iungern
+kuenige	kunige
+kuenege	kunige
+laide	leide
+lait̂	leit
+laiten	leiten
+levt	liut
+levte	liute
+lev̂t	liut
+liebez	liebes
+lieffen	liefen
+lob	lop
+mag	mac
+me	man
+mein̂	min
+min̂	min
+mit̂	mit
+moyse	moise
+nan	nam
+nazarech	nazareth
+ovgen	ougen
+ovz	uz
+phlag	plac
+pilato	pilatus
+rain̂	rein
+raine	reine
+rein̂	rein
+reinez	reines
+rainikeit	reinikeit
+schin̂	schin
+sein̂	sin
+sit̂	sit
+sueeze	sueze
+sueezer	suezer
+sûs	sus
+suze	sueze
+suzem	suezem
+tag	tac
+tepel	tempel
+tovgen	tougen
+tovgenlich	tougenlich
+treib	treip
+troest	trost
+truog	truoc
+unz	uns
+urev	vreu
+urevd	vreud
+urevde	vreude
+urevden	vreuden
+urevnden	vriunden
+urevnt	vriunt
+urevt	vreut
+urevten	vreuten
+urid	vrid
+urist	vrist
+uro	vro
+urone	vrone
+urow	vrow
+urowe	vrouwe
+urowen	vrouwen
+varn	varen
+verlovgen	verlougen
+vertraib	vertreip
+vertraip	vertreip
+vertreib	vertreip
+vrowe	vrouwe
+vrowen	vrouwen
+vueeren	vüeren
+vueert	vüert
+vz	uz
+wainen	weinen
+wib	wip
+willecom	willekom
+wird	wirt
+wueeste	wüeste
+wunnechlich	wunneclich
+zwels	zwelf
+zwa	zwene
+zwo	zwene
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
