@@ -126575,8 +126575,6 @@ wunnechlich	wunneclich
 zwels	zwelf
 zwa	zwene
 zwo	zwene
-
-H-6
 alz	als
 bi	bei
 cheusch	kiusch
@@ -126677,4 +126675,48 @@ vieng	vienc
 vroeuwe	vrouwe
 vroeuwet	vreuet
 vroeuweten	vreueten
+ê	e
+vurn	vuren
+gab	gap
+geb	gaebe
+geborn	geboren
+gepurde	geburt
+gueete	güete
+ja	ia
+jahen	iahen
+jamer	iamer
+jar	iar
+jare	iare
+jarn	iarn
+jehen	iehen
+jesu	iesu
+jesum	iesum
+jesus	iesus
+joachim	ioachim
+johanne	iohanne
+joseph	ioseph
+juden	iuden
+junger	iunger
+jungern	iungern
+lesn	iesu
+lesu	iesu
+mimmer	nimmer
+mueezen	müezen 
+ongen	ougen
+oylatus	pilatus
+sueeze	süeze
+sueezen	süezen 
+suende	sünde
+suenden	sünden
+tievel	tiuvel
+tuere	türe
+ueber	über
+unst	stunt 
+vueeze	vüeze
+vueezen	vüezen
+wueeste	wüeste
+laere	lere
+untz	unz
+pinder	bruoder
+hiete	haete
 
