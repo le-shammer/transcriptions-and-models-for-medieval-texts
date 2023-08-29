@@ -127220,7 +127220,7 @@ johanne	iohanne
 joseph	ioseph
 juden	iuden
 kuenege	künige
-maht mac	
+maht	mac
 maris	maria
 meder	nieder
 medin magedin
@@ -127237,9 +127237,9 @@ sterre	sterne
 sueezen	süezen
 sueezer	süezer
 ummer	immer
-vreude	vroide	
+vreude	vroide
 werlte	werlde
-wernde wunder
+wernde	wunder
 wernder	wunder
 werrde	werde
 werrdin	werden
