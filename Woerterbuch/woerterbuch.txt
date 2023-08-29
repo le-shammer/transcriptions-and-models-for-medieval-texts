@@ -127262,7 +127262,7 @@ by	bi
 cam	kam
 came	kame
 camen	kamen
-cand	kant	
+cand	kant
 canden	kanten
 caren	koren
 ceren	keren
