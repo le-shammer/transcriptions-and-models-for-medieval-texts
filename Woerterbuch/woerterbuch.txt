@@ -127254,7 +127254,7 @@ bade	gebote
 bleff	bleib
 blinen	bliben
 bo	be
-boc	buoch?
+boc	buoch
 bod	bot
 boden	boten
 brud	bruoder
@@ -127335,7 +127335,7 @@ lick	lich
 licke	liche
 licken	lichen
 liff	lip
-lik	lich	
+lik	lich
 linie	libe
 lozet	loeset
 lude	liute
@@ -127344,7 +127344,7 @@ mader	muoter
 mede	mite
 meyne	mine
 mi	min	
-mote	muot	
+mote	muot
 mu	nu	
 myck	mich
 myk	mich
@@ -127361,7 +127361,7 @@ ock	ouch
 offer	opfer
 ogen	ougen
 owy	owe
-plach	phlac(?)
+plach	phlac
 plegen	phlegen
 prester	priester
 qwam	kam
@@ -127390,7 +127390,7 @@ stemene	stimme
 temppel	tempel
 tid	zit
 tiden	ziten
-tungen	zungen	
+tungen	zungen
 unze	unsere
 unzen	unseren
 upp	uf
@@ -127404,7 +127404,7 @@ vnge	unge
 wedder	wider
 wiff	wip
 wueeste	wüeste
-wynen	winen	
+wynen	winen
 yamer	iamer
 yegen	iahen
 yesum	iesum
