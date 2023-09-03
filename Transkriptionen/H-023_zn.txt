@@ -1,7 +1,3 @@
-
-
-### 0001
-
 MAria muder kuniginnen
 Aller der wernde loserinnen
 uerlich mir soliche sunne
@@ -64,10 +60,6 @@ uber alle die sie sahin
 In noden unde die auch siech lagen
 Daz ander deil daz geschuffin sie
 An godis huser daz man da bi
-
-
-### 0002
-
 Godis huoser schone zierte
 Got unde die heilgin mede erte
 Ir notdorft uon deme dritten deil
@@ -94,7 +86,7 @@ Daz er uf den elter legin wolde
 Mit rechter andacht als er solde
 Ein prister hiez her ysachar
 Der wart sin schire gewar
-Er spᷓch nuo hore mich ioachim
+Er sprach nuo hore mich ioachim
 Un duo mȳ rede rechte uernim
 Duo salt uoz deme tenpel gen
 Un salt davor uon rechte sten
@@ -129,10 +121,6 @@ Da von daz ir lieber man
 Leit so groz ungemach
 Da unme weint sie nacht unde dac
 unde ruofin of zuo gode beide
-
-
-### 0003
-
 Daz er yn ir grozze leyde
 vn auch ir ungemach beneme
 vn yn schir zuo helfe queme
@@ -192,10 +180,6 @@ RAphahel der engil hiez
 den sante got unde in daz hiez
 Daz er queme zu ioachim
 In die woste unde sp̃che zuo yme
-
-
-### 0004
-
 Frauowe dich lieber ioachim
 un min rede rechte vernym
 Got hat mich her gesant
@@ -237,7 +221,7 @@ Ioachim gen Jherusalen
 zuo erst fuor unde dar nach heim
 Da der engil schiet uon dannen
 Da quam er zuo sente annen
-Er gruoste sie unde spᷓch zuo ir
+Er gruoste sie unde sprach zuo ir
 Godis friede si mit dir
 Duo bist ein vil selic wip
 Selich ist din sele unde din lip
@@ -258,10 +242,6 @@ Alle die inder wernde sint
 Die werdint uon deme kinde irlost
 Auch wirt iz der engil trost
 Maria sal daz kindelin
-
-
-### 0005
-
 heizin mit deme namen sin
 Iz sal auch umer blibin mat
 Als ysavas uon ir sat
@@ -299,14 +279,14 @@ Ich lobin dich wan ich minen man
 Sehin mit minen augin an
 Drade sie eme engene ginc
 Frolich sie in unme vinc wirt
-Sie spᷓch willekunme lieber
+Sie sprach willekunme lieber
 Allis mines leidis nu eyn ende wirt
 Alliz min trurin hat ein ende
 wan ich dich uon deme elende
 Enpangin han lieber herre
 Mir ist leit din goze swere
 Do ioachin sine frauwin sach
-Mit grozzin freudin er zuo ir spᷓch
+Mit grozzin freudin er zuo ir sprach
 Nuo lobin ich got uon hiemelrich
 Daz ich liebe frauwe dich
 Gesuont unde lebindik fundin han
@@ -323,10 +303,6 @@ Do sie fuorin of der strazsen
 Do mochtin sie nyt gelazzen
 Ir itweder det den andern kunt
 wie sie dez heilgin engils munt
-
-
-### 0006
-
 hatte getiet daz sie gewinnen
 Sulten ein kint uon reiner minnen
 Un daz kint ein docter werde
@@ -387,10 +363,6 @@ uon der suonde wart daz liebe
 kint in siner muoder libe
 Mit dem heilgin geiste gereinegit
 un wart sie auch uon eme geheils
-
-
-### 0007
-
 Do ergangin waz die frist
 als der frauwin siede noch ist
 un die zit auch kunmen waz
@@ -449,10 +421,6 @@ vn al sine rede warin also
 Daz iz ie zuo gode zo
 Do dru iar daz kindelin
 waz alt na der geburt sin
-
-
-### 0008
-
 Frauo anne unde auch ioachim
 Iz fuorten zuo iherusalem
 Ein opper sie mit ime auch namen
@@ -515,10 +483,6 @@ Die muoter lerte auch ir dochter
 waz sie sie lerin mochte
 Daz sie habe liebe zuo gode
 unde lebete gar nach sinem gebod
-
-
-### 0009
-
 Daz sie we kusch unde rein
 Gedede sunde nmer kein
 Sie lerte sie schon unde rechte lebin
@@ -580,10 +544,6 @@ Sie dintin gode flizlich
 Mit rechtein lebine kuschlich
 Die frauwin indez prister huode
 warin uon dez tenpils guode
-
-
-### 0010
-
 Ezzin drinkin unde gewant
 Glich gap man m allen samt
 Sie warin bu dem tenpil huos
@@ -645,10 +605,6 @@ In allen rechte demuodeclich
 Erbot mit dinste truowelich
 unde dinten in allen suonderlich
 wanne der swester eine
-
-
-### 0011
-
 Datte arbeit die sie nit alleme
 Gedran mochte da waz bereit
 Maria unde ir die arbeit
@@ -711,10 +667,6 @@ nuonmer meman sie vermerte
 Maria waz kusch unde rein
 Maria druc die crone allein
 voz allen medin m grozzer duogint
-
-
-### 0012
-
 In ir alder unde ir iugent
 Sie waz geduldik unde demudik
 zuo allen zidin huote sie sich
@@ -728,7 +680,7 @@ Als der lichfe morgin sterre
 Dschinet in die wn verre
 die lude lobint al gemeninne
 Marien die suozzen unde die reine
-Sie spᷓchin ir alle kuneginnen
+Sie sprachin ir alle kuneginnen
 Daz dadin sie mit rechte sinnen
 Da von daz buch ein mere sat
 wie iner die reyne mat
@@ -776,10 +728,6 @@ wol unde hiezzin sie alle kuneginnen
 gemein unde auch meisterinnen
 An allin dogindin do
 Nam maria die mat zuo
-
-
-### 0013
-
 Mit grozze flisze dinte sie gode
 vn lebete gar na sime gebode
 Sie waz in den tenpil stede
@@ -842,10 +790,6 @@ zuo iherusalem in der sie bat
 Marien daz sie zuo ir ginge
 vn uon ein ander trost enphinge
 wa maris die mat waz
-
-
-### 0014
-
 Sie irzuchte nie vergaz
 zu allen zidin habit sie sich
 Als rechte duginclich
@@ -907,10 +851,6 @@ Ir munt der waz wonnenclich
 un an zuo sehin minnenclich
 Ir glef rot unde rosen var
 Sein unde an gebrestin gar
-
-
-### 0015
-
 Alle glich unde wol gerecht
 Ir zene warin vil slecht
 wiz unde slecht unde gar rein
@@ -965,17 +905,13 @@ Dohiezzen die prister gemein
 Daz maria die mat rein
 Einen man ir neme
 der irme lebin rechte gezeine
-Sie spᷓchin maria duo mat here
+Sie sprachin maria duo mat here
 Got hat dir goz chrz ze ere
 zuo sele unde zuo libe gegebin
 wan er hat gehohit din lebin
 Mit mangerhande duogint
 Suo hast verdienet in diner iergint
 Daz die werlt dir alle holt ist
-
-
-### 0016
-
 un got auch uon hiemel holt ist
 Dar unme biden wir frauwe dich
 un manen dich guotlich
@@ -994,12 +930,12 @@ wen sie matdunnis ie begert
 In irme hertzin duogentlich
 Gat sie got uon hiemelrich
 Daz er sie beiisin wolde
-waz sie dar zuo spᷓchen sulde
+waz sie dar zuo sprachen sulde
 Sie stunt of unde sprach
 un dez offiubar iach
 Daz sie min mer of erdin
 Manns wip wolde werdin
-Sie spᷓch ich han einenman erkorn
+Sie sprach ich han einenman erkorn
 daz hoher t o man nie wart ge
 Gf all dir wen re erdin
 Als edel unde als werde
@@ -1038,10 +974,6 @@ unde suoze harpin clant
 Die engil in den selin singint
 die selin mit den engelin springint
 Manger hande seiten spil
-
-
-### 0017
-
 Da ist suozzes donis vil
 Lirm harpin unde gigin
 nye man mat do lobis geswigin
@@ -1089,7 +1021,7 @@ Daz maria die mat iunge
 So wise wort ier ir zuonge
 volbrengin machte unde si dz kunde
 So schone rede mit irme munde
-Sie spᷓchin maris reine mat
+Sie sprachin maris reine mat
 die schrift uns daz weder sat
 Daz uon allen unsuer wibin
 keine mat suolde blibin
@@ -1102,18 +1034,14 @@ welch frauowe oder mat
 nyt gewinnet kindis frucht
 Die ist vor gode gar verfluocht
 Maria spch dez fluchis geschicht
-
-
-### 0018
-
 Erffetzuo der selen nicht
 wan er triffet vil mere
 In libis freude unde der werlde ere
-Die prister spᷓchen duo wilt da mede
+Die prister sprachen duo wilt da mede
 Vf brengin einen muoen sieden
 der noch nie wart gehort
 Da vnste wirtmit gestort
-Maria spᷓch min mageduom
+Maria sprach min mageduom
 wyt schadin makader uch getuon
 hen mak uerwere nitzuo storen
 Ir solt ab got wil daz gehoren
@@ -1132,7 +1060,7 @@ Die aneman wollent blibin
 Die werdent bilde reinen dar ane
 Daz sie gar uersmehen die man
 Ein luode stunt marien mede
-er spᷓch ir in wizzet nit den siede
+er sprach ir in wizzet nit den siede
 Der in der e geschribin ist
 Mich duonkit daz ir dez nit en wist
 Moyses buch uns rechte daz sat
@@ -1149,7 +1077,7 @@ Ir kuosche die muoz sie leistin
 wan ir vader daz also liez
 Ane wieder rede da her iz gefrisch
 Er hat sie vil nie gebundin
-Edie mat spᷓchin kuonde
+Edie mat sprachin kuonde
 Da hat er siezil einer bruot
 Got geheizin verber luot
 Darunme gebe ich uch den rat
@@ -1165,10 +1093,6 @@ Daz dieluode dez nit elizzen
 unde sie dui dage fastin solden
 Daz in got zengen wolde
 unde auch die lere gebin
-
-
-### 0019
-
 wie maria solde lebin
 Do fastin sie alle zil gode
 Biefin daz er sinen bodin
@@ -1190,7 +1114,7 @@ Mit eime zeichin gar gewisse
 unde mochte erkennen auch dabi
 Ein iegelich gerte wes die si
 Dar uober sal erauch den segin
-Spᷓchin unde zuo den elter legin
+Sprachin unde zuo den elter legin
 welch gete dan beginnet
 Sluomen dran unde laup gewinnet
 Der heilge von hiemelrich
@@ -1231,16 +1155,12 @@ Ob sie mochtin daz gesehin
 Ergangin warin fuonf dage
 Sie kein zeichin da geschach
 Got sie aber alle badin
-
-
-### 0020
-
 Daz er sie mit siner gnadin
 zu irmegebede wolde neigin
 un noch daz zeichin erzeigin
 Aber die godis stunme erschal
 In den tenpil uber al
-Sie spᷓchin der reine godis truc
+Sie sprachin der reine godis truc
 Den maris zuo einer bruot
 Sal unde auch zuo einer kuonegin werden
 Iz en ist nitkomen noch sin gerte
@@ -1296,10 +1216,6 @@ Er waz kuomk an all duogint
 Der hat er uon siner nlgint
 Geplegin mit grozzer kuoscheit
 unde mit sines hertzin reinekeit
-
-
-### 0021
-
 Sin hertze waz kuosch unde sele
 vn an aller slachte mele
 Alle sine werk unde sin gebere
@@ -1357,19 +1273,15 @@ dz er marien die reinen mat her
 zuo wibe neme unde daz er wer
 Ein huoder irre kuscheit
 unde ir auch eliche truowe erzeigit
-Sie spᷓchim ioseph heilger man
+Sie sprachim ioseph heilger man
 got hat dir grozze ere gedan
 Mit diesin zeichin nuo
-
-
-### 0022
-
 Dar unme gebiedin wir daz duo
 Marien zuo einen wibe nemist
 Becht unde elich mit irlebist
 Do ioseph dise rede uernan
 Da von vil harte er quam
-Er spᷓch ir herren alle glich
+Er sprach ir herren alle glich
 Die rede duonkit mich wernder lich
 Daz ir mir aldin manne
 wolt so ning kint anspannen
@@ -1379,7 +1291,7 @@ Ob ich wib dan nemen sulde
 So duogentlich matichintin werlde
 nemen als maris die mat rein
 Ir zumit nit wol gemein
-Die pft spᷓchin iz muoz nuo sin
+Die pft sprachin iz muoz nuo sin
 uns waz unkuntdz lebin din
 Got hat uns gezeigit dich
 Mit eime zeichin wernderlich
@@ -1387,7 +1299,7 @@ Ioseph der heilge man
 In sime gebede rufit er an
 Got uon hiemel daz er eine
 In der not zuo helfe queme
-Er spᷓch herre vader min
+Er sprach herre vader min
 Sende mir nuo die helfedin
 Duo bist aller wisheide vol
 unde erkennns alle herzen wol
@@ -1402,7 +1314,7 @@ un bit dich daz duo helfis mir
 Daz ich der reinen mede lip
 nunmer geruoren noch ander wip
 Do ioseph an sime gebede lac
-ein engil quan unde zuo eine spᷓch
+ein engil quan unde zuo eine sprach
 Ioseph lieber godis knecht
 Deme gebede daz ist recht
 Got der hat uon hiemel mich
@@ -1424,10 +1336,6 @@ genomen undeir magetiom
 un ir kuscheit hat sie eme geheizen
 Sie wil sie auch gne leistin
 Ir ist kusch unde reinekeit
-
-
-### 0023
-
 Als liep als dir ir sit auch leit
 Aller slachte gelust fleislich
 un waz zuo suondin mac geheschin
@@ -1471,7 +1379,7 @@ Die selige unde die reine maria
 zuo gode begunde von herzin schrien
 Daz er ir zuo helfe queme
 vn ir die grozse notbeneme
-Sie spᷓch herre vader myn
+Sie sprach herre vader myn
 Daz mich dir beuolen sin
 hilf mir zuo dirre not
 Ader la mich ligin dor
@@ -1488,10 +1396,6 @@ wan duo alleine myn trost bist
 Duo bist min vader duo bist myn bruoder
 Duo bist min suoster unde myn muoder
 Duo bist myn man duo bist myn herre
-
-
-### 0024
-
 duo bist myn helfe duobist min trost
 An dich werde ich nit erlost
 Duo bist myn bruodegam
@@ -1530,7 +1434,7 @@ Noch nit eiuerlese mine kuschel
 unde minis hertzin reinekeit
 Emengil zuo manen quam
 der sie troste unde ir benam
-Al ir swere unde spᷓch zuo ir
+Al ir swere unde sprach zuo ir
 Godis fride sy frauowe mit dir
 Got uon hiemelrich hat mich
 her gesant dz ich ner dich
@@ -1553,10 +1457,6 @@ unde salt auch sin frauowe sin
 hsal sin geheizzin der wirt din
 er mmer gendir gedenket
 Goser dinge noch dich becrenkel
-
-
-### 0025
-
 An dineme reinen mageduom
 Sicher uon gode ich dich des duon
 wan er ist kusch unde rein
@@ -1620,10 +1520,6 @@ Gofr dinge die mat marien
 Die perster santin dohin heim
 Marien uon iherusalen
 Gen nazarecht zuo ir muoder
-
-
-### 0026
-
 Die siebin mede fuoren mit ir
 Da in do henme waz
 Allis dez sie plat waz daz
@@ -1658,7 +1554,7 @@ Die mede sazzin biden brunne
 Daz sie den selbin engil sahin
 uon gozzer vochte sie ir schrackin
 Maria stunt anir gebede
-zuo ir der engil spᷓch die rede
+zuo ir der engil sprach die rede
 Maria mat frauwe dich
 Got der hat uon hiemelrich
 Freude unde ere dir erbodin
@@ -1688,10 +1584,6 @@ Daz en mak verleschen nit
 Duo salt werdin ein kerzen stal
 Daz in die werlt luchtet uber al
 Da wirt auch auch der engil schar
-
-
-### 0027
-
 In deme hiemele ir fullet gar
 uon dir wirt alle die werlit irlost
 un alliz adanis kunne getrost
@@ -1722,7 +1614,7 @@ Ein munwiz daz ich ich sage
 geschach in die guode aeme waz
 mirre kamen unde da saz
 rs werkis siemit fulse plak
-Ir gebet die wile spᷓch
+Ir gebet die wile sprach
 Die mede warin alle da fuor
 uz wert an der dur
 Die auch irs werkis plagin
@@ -1733,7 +1625,7 @@ Die zwirnete sie zuo samene
 Do quam zuo ir indaz gadem
 Ein engil gabriel genant
 Marien er alleine vant
-Er spᷓch zuo ir ich gruozzen dich
+Er sprach zuo ir ich gruozzen dich
 Maria mat duoginlich
 Aller dogint bist duo vol
 got unmer mit dir wesin sal
@@ -1744,7 +1636,7 @@ vil harte sie da von er quam
 Sie beguonde lange drachtin
 In irme hertze welcher slachte
 Der gruoz dez selbiz engils wer
-Der engil spᷓch ane swer
+Der engil sprach ane swer
 unde ane fochte duo wesin salt
 Got uon hiemel ist dir holt
 Er ist dir genedit wordin
@@ -1754,10 +1646,6 @@ Daz wirt herre of alder erdin
 un daz kint sal werdin eyn suon
 Den salt duo heizzen ihesim
 Auch wirt er godis suon genant
-
-
-### 0028
-
 Geweldir uber alle lant
 Mit gozzer ere wirt sin lebin
 Er hohit got wil eine gebin
@@ -1767,13 +1655,13 @@ Er wirt auch mit allein rechte
 kuome in iacobis geslechte
 Daz riche sal an ende stan
 unde mat auch nunmme zuogan
-Maria zuo deme engle spᷓch
+Maria zuo deme engle sprach
 wie geschehin dz umer mac
 Daz ich muoge ane man
 kint gewinnen ich megewan
 Muot noch willen zuo keinen man
 wie sal ich kint gewinnen dan
-Der engil spᷓch uon hiemelrich
+Der engil sprach uon hiemelrich
 Der heilge geist sal in dicher
 kunmen unde erfullen dich
 Mit sinen gnadin duogentlich
@@ -1821,10 +1709,6 @@ Godis vern durch di oren quam
 In die nat unde an sich nam
 unse craike menscheit
 unde unseinmature brodekeit
-
-
-### 0029
-
 un er in ir ir mende bleip
 Die wile wus der cleme lip
 un wus dz er so michil wart
@@ -1855,7 +1739,7 @@ zuo elyzabet ire muomen
 Elizabet da sie sach kunmen
 Marien ir gene ging
 Mit groszen freuodensi sie enphinc
-Sio spᷓch zuoir wol mich nuo wart
+Sio sprach zuoir wol mich nuo wart
 wol mich der liebin vart
 Daz du zuo mir kimen bist
 ni ftil myn andirre frist
@@ -1879,7 +1763,7 @@ wan duo glaubit hast den worten
 Dez engels davon ist wordin
 Gotzuo menschen dez salt duo nuo werden
 hoch gelobit of der erdin
-Da spᷓch got hat sich
+Da sprach got hat sich
 Nuo erbarmet uober mich
 Erhat mir grozse gnade gedan
 Groz ere ich uon eme enpangin han
@@ -1889,10 +1773,6 @@ Auima man maginficat
 Dim min sele die hat
 zuo lobin got uon hiemelrich
 waner hat geneigit sich
-
-
-### 0030
-
 Mit siner gotlicher minne
 zuo mir sine dienerinne
 Durch minis hertzen demuodekeit
@@ -1956,15 +1836,11 @@ Daz ir uon gode enbodin waz
 Mit dem engele gabriele
 Aller dinge die fleischlich werin
 Dieman zuo sundin mochte kerin
-
-
-### 0031
-
 Auch die siebin mede do
 Der reinen manen stundin zuo
 Die gabin ir uerrkunde
 Daz sie were gar ane suonde
-Sie spᷓchin ioseph heilger man
+Sie sprachin ioseph heilger man
 Maria ist aller suondin an
 wir duon din alle gemeine kunt
 Daz marien reiner munt
@@ -2016,7 +1892,7 @@ In durch sine gude wlde
 wie er sine dinge dun sulde
 Ein engil da zuo ioseph quan
 Der eine sine sorge benam
-Er spᷓch ioseph davidis suon
+Er sprach ioseph davidis suon
 kunt ich dir uon gode duon
 Duo salt manen nitbegebin
 un salt mit truwen bit ir lebin
@@ -2024,10 +1900,6 @@ Sie ist einis kindis wordin swere
 Daz hat gemachit unser herre
 Got uon hiemel an irme lte
 Sie ist die heilgeste aller wibe
-
-
-### 0032
-
 un ist auch reine mat
 Als ich dir eauch han gesat
 Ir lip ist kusch ir sele ist rein
@@ -2067,7 +1939,7 @@ Da sie fuoren offe deme wege
 Daz waz irbeider plege
 von der heilgin schrift sie retin
 unde auch underwilen betin
-Maria zuo ioseph spᷓch
+Maria zuo ioseph sprach
 daz gelazzin ich mtin mac
 Ich in sage dir godis daugin
 Die got gezeugit hat minenanginl
@@ -2079,9 +1951,9 @@ Die iden weintin unde clagetin
 Mit gzen freudin die heidin lachtin
 unfroo waz sie die Iuodeschaft
 Frolich waz die heidinschaft
-Io seph spᷓch weist duo waz
+Io seph sprach weist duo waz
 Frauowe bezeichin moge daz
-Maria spᷓch an mime kinde
+Maria sprach an mime kinde
 Als ich in mime sinne vinde
 Die zeichin sullin geschin
 Als ich sie vor hangesien
@@ -2091,10 +1963,6 @@ ez waz ie zuo worden nacht
 un als diezit waz volbracht
 Daz got geborn werdin wolde
 Den in geberin solde
-
-
-### 0033
-
 Engil da von hiemel quam
 Den esil bi deme britel nam
 Da die mat offe saz
@@ -2158,10 +2026,6 @@ wan sie nit als ander wip
 Iris heilgin kindis genas
 Ir reiner maduom ungestort waz
 Smerzen we unde ungemach
-
-
-### 0034
-
 Der reiner mat nie geschach
 Do sie irs reinen kindis genas
 wan als die sunne durch dz glas
@@ -2186,20 +2050,20 @@ uon deme wirt die wernt erlost
 Do herioseph wieder quan
 an sime herzin hart er quan
 Do er dez lichtis schin sach
-Maria rief eine unde spᷓch
+Maria rief eine unde sprach
 kuom her ioseph lieber herre
 Duo salt wesin ane swe
 Sich daz liebekindelin
 Dez ich min genesin bin
 Do ioseph dz kint gesach
-Mit gzin freuodin zuo eine spᷓch
+Mit gzin freuodin zuo eine sprach
 wol mich der liebin zit
 wol mich daz min angin sehint
 Minen got unde minen herren
 Minen trost unde minen schepper
 Frolich erzuo deme kinde ginc
 An sine hende er iz enphinc
-un spᷓch willekum kuomc min
+un sprach willekum kuomc min
 In dz kuomcriche din
 willekunme herre in din lant
 wol eine deme duo wirdistbekant
@@ -2224,10 +2088,6 @@ Mit reinen windelin sie ez bant
 In ir trippen legete sie daz
 Da ir beider ve uoz az
 Desil unde daz selberint
-
-
-### 0035
-
 Er kanten daz selbe kint
 Irn schepper unde irn herren we
 Vme irbuodin als sie mochtin ere
@@ -2267,7 +2127,7 @@ Dannedean den reinen lip
 Maria grisfin wlde daz wip
 Sie erschrak unde sere erquam
 Da sie fant daz sie waz lam
-weinende unde claginde spᷓch
+weinende unde claginde sprach
 we mir daz mir ie geschach
 Die docheit daz ich die vil reine
 griffen die an mannis gemeine
@@ -2277,7 +2137,7 @@ Sie begunde die mat manen
 Faste an rufin unde schrien
 Daz sie ir zuo helfe queme
 vn ir ungemach beneme
-Maria spᷓch myn kint du salt
+Maria sprach myn kint du salt
 biedin daz ez dir die scholt
 Durch sine kincheit wersle vergebin
 un dir verlie gessindiz lebin
@@ -2291,13 +2151,9 @@ Daz sie waz wol gesuont
 wordinin der selbin stuont
 Daz selbe wip hiez salome
 Die ander geheizzen waz rache
-
-
-### 0036
-
 In die stat sie drade lief
 Den luden allen zuosamen rief
-Sie spᷓchin wir han gesien
+Sie sprachin wir han gesien
 wonder groz daz ist geschin
 Ein mat hat ein kint gewonnen
 Mit an ir gemirken kundin
@@ -2331,7 +2187,7 @@ uon hiemel einen engil sahin
 Ein groz liecht sie v̄me vinc
 der selbe engil zuo in ginc
 Da von ingozze fochte geschach
-Focht uch nit der engil spᷓch
+Focht uch nit der engil sprach
 grozse freuode dun ich uch kunt
 die ist geschin an diser stuont
 Der werlde herre ist geborn
@@ -2356,10 +2212,6 @@ Die vehirten nit en liezzen
 zuo betlehein sin drade liefin
 Daz selbe kindelin sie fundin
 Daz waz in ein wlen twelen gebin
-
-
-### 0037
-
 In einen crippin waz iz gelacht
 Als en der engil hat gesat
 Marien unde ioseph sahin
@@ -2416,13 +2268,9 @@ waz uon den zeichin solde geschin
 daz der keisir hatte gesien
 Eine alde frauwe do dar quan
 Fribilla waz der frauwin name
-Sie spᷓch er geborn nyn ist
+Sie sprach er geborn nyn ist
 uon emer mat der heilge crist
 Den hat no eine mat reine
-
-
-### 0038
-
 Gewonnen an mannis gemeine
 Gedran hatein mat ein kint
 Dez alle kuomicriche sint
@@ -2470,7 +2318,7 @@ unde vil inder uf die erdin
 Do got geborn wolde werdin
 Do man daz huos hatte angevagin
 zuo machin ein altis wip quange
-unde zuo allen den luoden spᷓch
+unde zuo allen den luoden sprach
 Do sie daz bedehtis ane sach
 Der tenpil sal nit lange stan
 Er sal schire zuo gan
@@ -2486,10 +2334,6 @@ Der rede alle die lachten
 unde einen spot do von machten
 Als dz naier mochte geschin
 Dez daz alde wip hat geiehin
-
-
-### 0039
-
 Sie hiezzen schribin of die dur
 un grabin an den stein da fuor
 wan ein mat swan ger wirt
@@ -2550,10 +2394,6 @@ In den ungenemen sundin
 Der suondin sich der duofil schamt
 Als erden menschin dez gemant
 Daz her den di suonde vil begen
-
-
-### 0040
-
 So beginnet er uon mie flien
 Den engil auch die sunde uerdribet
 Daz erbiden namer blibet
@@ -2614,10 +2454,6 @@ un alle zuo ein ander quamen
 Mitim konechten unde irme gesin
 unde fuoren hin zuo deme kinde
 Nuo hebit sich alhie eine frage
-
-
-### 0041
-
 Daz uch der it bedrage
 wanne der stre schinen beguonde
 Der dez kindis waz urkuonde
@@ -2637,7 +2473,7 @@ Do von ein heilger schriber uns
 Dist geheiszin Erisostom
 her heizzit Iohannes guldin munt
 An sinen buoche dut her uns kunt
-un spᷓchit also der heilge man
+un sprachit also der heilge man
 Santter erisostomer iohan
 Do got uoz sins vader schoz
 uon hiemel fuor unde sich besloz
@@ -2682,10 +2518,6 @@ Dez maria die mat genaz
 Die dri kuonege quamen hin
 In die stat zuo iherusalem
 un uragetin wa geborn we
-
-
-### 0042
-
 Der uodin kunc undeir herre
 Da sie diese rede uernamen
 Die iuodin da von erquamen
@@ -2699,7 +2531,7 @@ gewisagit unde geschriebin were
 An welcher stat der werdin herre
 vn kimit solde geborn werdin
 Der herre werrde of al der erdin
-Sie spᷓchin unde sagetin in
+Sie sprachin unde sagetin in
 Inder stat zuo betlehein
 Da wirt geborn godis suon crist
 Als in den buoche geschribin ist
@@ -2711,7 +2543,7 @@ Die kuonege di zit unde die stunde
 Daz der sterre schinen begunde
 Den kuomic herodes beschiedin
 un wanne sie uoz weren geriedin
-her odes spᷓch zuo in uuo fart
+her odes sprach zuo in uuo fart
 unde suochit daz kint unde ervart
 wa daz si unde auch mir
 wen daz wil ich auch als ir
@@ -2750,10 +2582,6 @@ Do die konege den kindelin
 Ir opper buodin unde irme herren
 hende uof huop in engegin
 Alsiz in gebe sinen segen
-
-
-### 0043
-
 Sie gabin auch dez kindis muder
 Dreinen unde guodin
 uon golde silber unde sydin
@@ -2786,7 +2614,7 @@ Vrlaup die kunege von deme
 namen unde auch ir gesinde kinde
 wien der z uo lande siehuobin sich
 Ein engil quan uon hiemelrich
-Der spᷓch zuo in dez uch bewart
+Der sprach zuo in dez uch bewart
 Daz ir nuo ncht wider e vart
 zuo herode wen erhat
 uf uch gewinen bosin rat
@@ -2818,10 +2646,6 @@ Der keiser hat daz gebodin
 Daz kunic hodes in sinen bodin
 Daz er drade zuo rome queme
 unde eme clage of sie uerneme
-
-
-### 0044
-
 Do die iuodin of si die dadin
 wan er hatsie uerradin
 un hart hat er sie beswert
@@ -2855,14 +2679,14 @@ Daz er so lange solde lebin
 Mit dz got mensche werrde
 unde yn sehe nach sin gebuorte
 Do er ihin daz kint gesach
-Drade er ginc unde zuo eine spᷓch
+Drade er ginc unde zuo eine sprach
 wol mich dz ich den dak
 Mit minen augin ie gesach
 Daz got mensche wordin ist
 Denich mo sehen godis crist
 urolich zuo deme kinde ginc
 An sine arme er iz enphinc
-Er spᷓch willekome herre myn
+Er sprach willekome herre myn
 Indaz kuomeriche din
 An sin iere daz kinttwang
 un huober auch an unde sang
@@ -2878,17 +2702,13 @@ Ich hangesien der wlde trost
 uon den wir werdin alleirlost
 Der werlde liecht han ich gesien
 Da von gnade vns sal geschin
-Er auch zuo manen spᷓch
+Er auch zuo manen sprach
 Auwe dez kindez ungemach
 un die martil die ez sal lidin
 Daz sal direch din hertze sindin
 Als man derch dine sele steche
 Ein swert da von din hertze brech
 Dosie begingin alliz daz
-
-
-### 0045
-
 Mit deme opper daz da was
 Geschribin in der aldine
 nach deme gebode moyse
@@ -2914,7 +2734,7 @@ Sinen engil do von hiemel got
 zuo ioseph sante unde eine gebot
 Daz er ingiptin lande
 Mit deme kinde fure zuo hande
-Der engil spᷓch davidis sun
+Der engil sprach davidis sun
 Ioseph uon gode kunt ich dir duon
 Daz duo nemest daz kindelin
 un manen die muoder sin
@@ -2952,10 +2772,6 @@ Die sime brante sie uob dat
 Dez nachtis in arch we geschach
 uon froste unde k aldit windin
 Der muode daz heilge gesinde
-
-
-### 0046
-
 Fif ren unde weder schuor
 Macht in auch inbeiter suor
 Eunes dagis in waz zuo ruonnen
@@ -3018,10 +2834,6 @@ Daz sie dez obezis als vil neme
 Als sie wlde unde ir rechte weine
 So zuohant der baidin sich neigete
 Mit gehorsam dz erzeigete
-
-
-### 0047
-
 Daz daz selbe kint we
 Aller creaturen herrin
 Da iner daz gesach
@@ -3084,10 +2896,6 @@ Dasie sahin alle daz
 Sie lobetin got unde fur sich baz
 Fur dz heilge gesinde
 Mit ihesu deme liebin kinde
-
-
-### 0048
-
 DA quamen zuo dem wege balde
 Alle die dir diein den walde
 warin zuo deme selbin kinde
@@ -3128,14 +2936,14 @@ Mit ein ander zuo in quamen
 Sie wandin iz were ir fruome
 Sie hattin allin iren sin
 Dar gesatz of gewin
-Sie spᷓchin wir sin nuo beradin
+Sie sprachin wir sin nuo beradin
 gen in sie balde draden
 Do sie gesahin da an
 Ioseph daz der alde man
 Furte mit eine ein so iunge frauwen
 Sie begundin alle schauwen
 Daz sie waz so wol gedan
-Sie spᷓchin der alde man
+Sie sprachin der alde man
 Er hat die schonen frauwen uerstolen
 unde hat sie uoz gefuort nir holen
 wir sollen in zuo dode slahin
@@ -3149,10 +2957,6 @@ Der indeme selbin walde saz
 er hat gemacht ein huos verholin
 Deme selbin werrdin siebevolin
 Daz er die wile sie haldin soldin
-
-
-### 0049
-
 Diz sie den raup deillen wolden
 Der alde schecher sich zuo hant
 Der gevangin under want
@@ -3178,7 +2982,7 @@ Sie gruozete sie alle mnencliche
 Auch beguonde sie abestrichin
 Deme schecher sin ungemuode
 Daz wart gekerte in eme guode
-Er spᷓch zuo ioseph lieber man
+Er sprach zuo ioseph lieber man
 Duo salt sorgin wesin an
 Dir in sal nit leidis hie geschin
 Ich wil alleine daz under sten
@@ -3217,10 +3021,6 @@ wan die hattin sich gewert
 un deilten mit in die swert
 Sie warin alle von blude rot
 unde sere gewont biz in den dot
-
-
-### 0050
-
 Einer zuo deme schiffe drat
 Do daz kint hatte imne gebat
 un wolde mit den wazzer weschen
@@ -3283,10 +3083,6 @@ Daz sie dez in liezzen nit
 weinende sie von in schiet
 Aber fuor daz godiz gesinde
 Mit ihn demeliebin kinde
-
-
-### 0051
-
 Gen ogiptin lande
 Manic strasze vnbekante
 Do von daz vil reine gemuode
@@ -3296,7 +3092,7 @@ wan sie den wer nit wol kundin
 Noch gedribin strazin fundin
 Doch troste er sie wie er mochte
 vn half m alleine als dz dochte
-Do spᷓch der reine unde der guode
+Do sprach der reine unde der guode
 Ioseph zuo dez kindis muoder
 Sage nir frauwe waz ist din rat
 Diese straze nit in hat
@@ -3340,7 +3136,7 @@ Do von erschrat der heilge man
 weinen er mit ir began
 Daz waz sines hertzin ungemach
 Daz er dieliebin weinen sach
-Er spᷓch vil liebe frauwe min
+Er sprach vil liebe frauwe min
 waz mennt dz groze weinen din
 Nuo sagemir suosze marie
 waz duttet din weinen unde din schrien
@@ -3351,12 +3147,8 @@ Schone in nit nie in weine
 Din weinen dut mime hertzin we
 Frauowe min nuo weine nit me
 Din weinen machit mime hertzen
-
-
-### 0052
-
 Groz swer unde starkin smertzin
-Maris spᷓch vil lieb herre
+Maris sprach vil lieb herre
 Ich weinen nit unme min swere
 noch durch kein ungemach
 Daz mir ie von dir geschach
@@ -3396,11 +3188,11 @@ Daz kint mit siner hant greif
 unde siner muoder abe streich
 Die nazzin zeher die er hangin
 Sach an siner muoder walgin
-Ioseph spᷓch nuo sage mir
+Ioseph sprach nuo sage mir
 Frauowe waz gevellit dir
 welchin wer wir sullin keren
 Diesen oder zuo den mere
-Maria spᷓch vil lieber herre
+Maria sprach vil lieber herre
 wir sollen kerin zuo den mere
 Na dinen rade sollen wir lazzen
 Dch die woste die strafzin
@@ -3408,7 +3200,7 @@ Do sie aber woldin farin
 Ein engil quanzuo in dar
 Der gap in trost unde guode lere
 vn machte geringe mir swere
-Er spᷓch ioseph vil heilger man
+Er sprach ioseph vil heilger man
 virzagin duo nit in salt dar an
 Far vuor dich mit dime gesinde
 Die muoder fuoreinit deme kinde
@@ -3418,10 +3210,6 @@ Ich wil wesin uerwer geleide
 Daz ir art dage weide
 In driner dagin uober vart
 Ich kuortzen uch die vart
-
-
-### 0053
-
 Eines dagis of dem wege fuoren
 Do begundis vaste schuren
 Stack wint unde bose weder
@@ -3483,10 +3271,6 @@ noch meinan dez erbiedin kuondin
 Der siedie nacht behaldin woldin
 Sie in wistin war sie kerin soldin
 Inder stat ein bethuos was
-
-
-### 0054
-
 Aller aptgode kirche waz daz
 By deme bechuos was ein porte
 vn ein leuobe dar in sie sich
@@ -3549,10 +3333,6 @@ Lagin uf deme esterich
 Deme eine waz sin halgin zwei
 Der ander lat ane heubit da byn
 Einer stunt noch halber da
-
-
-### 0055
-
 Daz ander deil lat andirswa
 Deme einen warin abe die hende
 Die fuozze stecketin in der wende
@@ -3574,7 +3354,7 @@ Gestrecket an deme esterich
 undegevallen lesterlich
 Sie beguondin iemerlich
 weinen clagin alle glich
-Sie spᷓchen we vns unmer we
+Sie sprachen we vns unmer we
 Auowe waz wil uns nuo geschien
 uns sal leit geschin also
 Als uncne kuonge pharao
@@ -3586,7 +3366,7 @@ Daz er in deme roden mere
 Erdranc mit allin sime her
 Also fochtin wir dz versinkin
 Sal diese stat unde wir erdrinkin
-Die andner spᷓchin kunmen her
+Die andner sprachin kunmen her
 Sint ander gode mit gzir wer
 Sie zuo brochin unser verriede
 Mit unsner godin hant sie gestriden
@@ -3614,10 +3394,6 @@ Mit starcker stinme faste schrei
 waz ist diz auowe auowe
 hie ist eyn zeichin gz geschin
 Auowe wie sal iz uns irgen
-
-
-### 0056
-
 wer mat der got so starkir sin
 Dez gewalt so grozsin
 Mit unsner godin hat begangin
@@ -3654,7 +3430,7 @@ Erfrade von welchen lande sie weren
 wasie hin woldin keren
 un wa sie hin woldin faren
 Die ilge frauowe iner irme barn
-Ioseph spᷓch do wir sin her
+Ioseph sprach do wir sin her
 uon iuerdischem lande kunmen her
 Der herre beguode sich verften
 Daz dz zeichin wer geschen
@@ -3681,10 +3457,6 @@ Erschein indie werlt verre
 Mit siner lere gebin schin
 unde auch mit zeichin sin
 Uon diesim kinde ie ierennas
-
-
-### 0057
-
 Der in daz lant uerdribin waz
 unde einer heizzit ysaias
 Dauch ein wisage waz
@@ -3739,24 +3511,20 @@ Ist komen mit deme kinde
 In diese stat do sint gevallen
 unse gode meder alle
 Der herzoge sach do ioseph an
-unde spᷓch vil selig man
+unde sprach vil selig man
 die wacheit uon deme kindelin
 unde uon deme uungin frauowelin
 Ioseph marien ane sach
-uer holen in ir ore spᷓch
+uer holen in ir ore sprach
 Sa mir frauowe waz dir gevalle
 Sal ich vor den ludin allen
 uon deme kinde unde uon dir
 Die warheit san unde uon mir
-Maria spᷓch die godis dauogin
-
-
-### 0058
-
+Maria sprach die godis dauogin
 Der en mac man nit verlaukenen
 Sage die warheit als sie ist
 Daz min kint ist godis crist
-Ioseph spᷓch do offinbar
+Ioseph sprach do offinbar
 Verre die rede ist alle war
 Die duo hast mit diner zuongen
 gesat uon dieseme kinde iungen
@@ -3773,10 +3541,10 @@ An all hande mannes minne
 unde ane geluost der fleischlich we
 Solde sie kindis werdin swere
 Dez kindis name solde sin ihers
-Do spᷓch enfrodosuns
+Do sprach enfrodosuns
 hie ist komen an min rede
 Als ir gehort hat die ich dede
-Ioseph spᷓch non hore mich mere
+Ioseph sprach non hore mich mere
 Sie druoc dz kint ane alle swere
 vn ane we sie dez genas
 un doch eine reine mat was
@@ -3817,10 +3585,6 @@ Frolich unde minnenclich
 Gehalden in mit sime gesinde
 Die muoder auch mit irme kinde
 her burgeten unde in huos gabin
-
-
-### 0059
-
 un waz sie doinne soldin habin
 Des drugen sie ingmuc dar in
 Mit der kost auch holfin in
@@ -3884,10 +3648,6 @@ der selbe roc wos also
 An dez kindis libis ihesus
 Daz er eine wart allezut
 Lant gemuot unde rechte wit
-
-
-### 0060
-
 Der selbe rok nie wart
 weder zuo brochin ader zuo zart
 Erbleib also daz kein
@@ -3923,7 +3683,7 @@ Allentalbin wol ginc
 Dar nach doer ane vient
 zuo redin wort mit siner zuongin
 Er indede nit als die ulgen
-kint uon ersten als sie spᷓchen
+kint uon ersten als sie sprachen
 Lernit die wort balde brechin
 Sine wort unde sine rede
 Mit gantzen redin alle dede
@@ -3950,14 +3710,10 @@ Daz diekint diebieme warin
 vol geten alle sinen siedin
 Siner gemeine sich gnee metin
 Siner geselle schaft alle vro
-
-
-### 0061
-
 warin unde ertin in ho
 Sie iahin er we ein godelin
 Inpiter were der vader sin
-Sie spᷓchen er were ein iager got
+Sie sprachen er were ein iager got
 Ane falsch unde ane spot
 Alle die kint zuo samen quamen
 Ihin zuo eime kinege namen
@@ -3979,7 +3735,7 @@ Do von gze clage geschach
 Do ihert daz kint gesach
 zuo deme kinde schiere ginc
 un ez bit der hant gevient
-Er spᷓch stant of unde gant ner mir
+Er sprach stant of unde gant ner mir
 Ich wil spilin gan mit dir
 Duo salt gesuont drade vf stan
 zuo andn kindn mit mir gan
@@ -3995,7 +3751,7 @@ Daz sie mit deme kinde gesant
 Gothatte inegipten lant
 Do quan hern ioseph ein bode
 Ein engil wart gesant uon gode
-Er spᷓch ioseph davidis suon
+Er sprach ioseph davidis suon
 uon hiemel ich dir kuont duon
 Nim ihin daz kindelin
 unde marien die muder sin
@@ -4015,10 +3771,6 @@ Sie bgundin alle clagin
 unde mochten nit ir leit verdragin
 Sie spchin ner uon hiemen fert
 Daz gefinde dz wir nie wert
-
-
-### 0062
-
 Der selbe rok nie wart
 weder zuo brochin ader zuo zart
 Erbleib also daz kein
@@ -4054,7 +3806,7 @@ Allentalbin wol ginc
 Dar nach doer ane vienc
 zuo redin wort mit siner zuongin
 Er indede nit als die ulgen
-kint uon ersten als sie spᷓchen
+kint uon ersten als sie sprachen
 Lernit die wort balde brechin
 Sine wort unde sine rede
 Mit gantzen redin alle dede
@@ -4081,14 +3833,10 @@ Daz diekint die bi eme warin
 vol geten alle sinen siedin
 Siner gemeine sich gnere metin
 Siner geselle schaft alle vro
-
-
-### 0063
-
 warin unde ertin in ho
 Sie iahin er we ein godelin
 Inpiter were der vader sin
-Sie spᷓchen er were ein iager got
+Sie sprachen er were ein iager got
 Ane falsch unde ane spot
 Alle die kint zuo samen quamen
 Ihin zuo erme kunege namen
@@ -4110,7 +3858,7 @@ Do von goze clage geschach
 Do ihert daz kunt gesach
 zuo deme kinde schiere ginc
 un ez bit der hant gevienc
-Er spᷓch stant of unde gant in mir
+Er sprach stant of unde gant in mir
 Ich wil spilin gan mit dir
 Duo salt gesuont drade vf stan
 zuo andner kindn mit mir gan
@@ -4126,7 +3874,7 @@ Daz sie mit deme kinde gesant
 Gothatte in egipten lant
 Do quan hern ioseph ein bode
 Einer engil wart gesant uon gode
-Er spᷓch ioseph damdis sun
+Er sprach ioseph damdis sun
 uon hiemel ich dir kuont duon
 Mim ihin daz kindelin
 unde marien die mnder sin
@@ -4144,12 +3892,8 @@ uon der stat dar alle gingin
 groz leit sie enpingin
 Sie bgundin alle clagin
 unde mochten nit ir leit verdragin
-Sie spᷓchin nin uon himen fert
+Sie sprachin nin uon himen fert
 Daz gefinde dz wir nie wert
-
-
-### 0064
-
 werrdin sint sie her sint kunmen
 han wir gewonnen gozin frunmen
 wanin allen den siebin iaren
@@ -4168,7 +3912,7 @@ Andie aptgode wan sie werin
 ungetruowe unde ungewe
 Sie suoldin in minmer mere
 An keiner stat enbiendin ere
-Er spᷓch ir solsit m alle kerin
+Er sprach ir solsit m alle kerin
 unde geleuobin an einen herren
 An einen got der hiemelrich
 Gemacht hat unde daz ertrich
@@ -4213,10 +3957,6 @@ wan vil we det eine die fart
 Mitbeidin heudin zuoschin yn
 Daz kint fuorten etwan hin
 Ioseph unde marie die reine
-
-
-### 0065
-
 zrbeider arbeit waz nit cleine
 UF deme wege sie quamen
 Do sie ein groz wazzer sahin
@@ -4224,7 +3964,7 @@ Daz wazzer waz ein michil bach
 Do von maria sere erschrac
 zuo deme reinen ioseph sprach
 wie komen wir uerber die bach
-Ioseph spᷓch wir sollen wadin
+Ioseph sprach wir sollen wadin
 Daz enmat uns nit geschadin
 Daz kintich uober dragin sal
 Duo macht dan nach mir waden wol
@@ -4234,7 +3974,7 @@ uof soldehebin erin schoz
 Die niewart geschin bloz
 Ihers daz kint do zuo hant
 nam die munder mit der hant
-Er spᷓch muoder volge mir
+Er sprach muoder volge mir
 woluober kunmen sollen wir
 Do er zuoden wazzer quam
 Bit der hant die muoder nam
@@ -4252,7 +3992,7 @@ Uon denluodin daz vernamen
 Daz marien vader dot waz
 Mit einen anduer manne saz
 Er hiez cleophas
-Der selbe iosepᷓh bruoder waz
+Der selbe ioseprah bruoder waz
 Ioseph vant da sinen bruoder
 Daz erbat manen muoder
 Annen het genomen zu einer frauowin
@@ -4276,10 +4016,6 @@ Ein eygin huobe da verdorbin
 Mit deme dode ir vader vas
 Daz nan io seph unde buwete daz
 Do von bedruogin sich die drie
-
-
-### 0066
-
 Ioseph ihert unde marie
 Ihesus daz kint marien duo
 nam an allin duginden zuo
@@ -4324,7 +4060,7 @@ ume daz beginc er kindis siede
 Daz er den duofil betroch da miede
 Sie sint esil unde auch affen
 Die daz wollent wider claffin
-Sie spᷓchint daz er nie erlachte
+Sie sprachint daz er nie erlachte
 noch kinder kurtzewile megemel
 war unme er duorst unde huonger leit
 un mangerhande arbeit
@@ -4342,10 +4078,6 @@ Daz er deme duofil we vnkunt
 Unde werrde gar mede
 Dar unme zeite er kintlich siede wnt
 Daz er den duofil also uersmede
-
-
-### 0067
-
 Als ihere zuo den kinden quam
 kinclich spil sich ane nam
 Daz vollebrachte er dan also
@@ -4410,10 +4142,6 @@ Nyt wil ich mich din underwindin
 Gant hin uoz uon minen kinden
 Dir in ist nit not miner lere
 Als minc kanst duo mere
-
-
-### 0068
-
 Dau ich umer gelern
 wer du sist daz wist ich gerne
 Do ihert zuo der muder quam
@@ -4442,7 +4170,7 @@ Maria unde iosep weinten beide
 unde cladin ir grozze leide
 Iht daz kint quan zuo hant
 un sie beide weinende vant
-Er spᷓch waz ist uch nuo geschen
+Er sprach waz ist uch nuo geschen
 Daz ich uch beide weinen sal sien
 Ioseph sprach olieber herrr
 wir weinen unser grosze swe
@@ -4452,19 +4180,19 @@ Geholfin hat mit siner truwe
 Dir unde miner lieben frauwin
 Auch hat er grozze liebe zuo dir
 Daz hat er dicke gesat mir
-Ihe spᷓch nuo herre min
+Ihe sprach nuo herre min
 La daz groze truren din
 wilt duo daz er lebindic werde
 vn noch langer lebe of der erdin
 So wil ich dir ein lere gebin
 Daz mie wider wirt sin lebin
-Ioseph spᷓch wie mac dz geschin
+Ioseph sprach wie mac dz geschin
 Daz ist seldin nie gesien
 Daz ieman lebindic werrde wider
 Daz eins dot gelegin ist inder
-Uaria spᷓch nuo hore doch yn
+Uaria sprach nuo hore doch yn
 waz er dir sat dz vor nym
-Ihere spᷓch nuo mirke mich
+Ihere sprach nuo mirke mich
 un duo daz ich heizzen dich
 zuo den manne der dit da lit
 Salt duo gen unde la dez nit
@@ -4479,13 +4207,9 @@ Mit mir lebindit uon hinnen gest
 Der selige ioseph nit en liez
 waz in ihert duoner hiez
 her gienc hin da er dot lach
-
-
-### 0069
-
 un die selben rede zuo mie sprach
 zuo hant der dode lebindit wart
-Do her ioseph gespᷓch dise wort
+Do her ioseph gesprach dise wort
 Der dode zuo der selbin stunt
 wart lebindic unde gesvnt
 Daz kint ihe gebot do daz
@@ -4518,7 +4242,7 @@ Daz die ierdin kint da spilten
 Dez sanudagis vire nit en hielfin
 Er beguonde sie strafin alle
 Mit zorne unde mit grosine schalle
-Er spᷓch ir sit dez dufils kint
+Er sprach ir sit dez dufils kint
 wan ir duot unrechte dinc
 Ir brechint uwer sabaot
 Da mide ir zurnet got
@@ -4526,7 +4250,7 @@ Iht dz machis alliz duo
 Daz die kint gemeine uyn
 Uon dir gewinnet godis zorn
 un werdin durch dich alle verlorn
-Ihert spᷓch nuo wolde got
+Ihert sprach nuo wolde got
 Daz duo dinen sabaot
 Ertest als wol als ich
 Duo in soldis nit strasin mich
@@ -4549,10 +4273,6 @@ Vf in die luft sie flogin alle
 vn indie luft sie flugen
 un den aldin gar betrugin
 Da er die hende zuo same sluc
-
-
-### 0070
-
 un da mide det er einen ruof
 Lip unde fedner sie vingin
 Die vogil unde begunden fliegin
@@ -4575,7 +4295,7 @@ Der her lange irkant hede
 Vor e dan er geborn werrde
 vn vor sinis selbis geburte
 Da elizabech gesach
-Maren frolich zuo ir spᷓch
+Maren frolich zuo ir sprach
 wilkunmen lieben frauwe min
 Mit deme iungin kinde din
 wiskunmen maria mat reine
@@ -4590,7 +4310,7 @@ Da maria sach kunmen
 Elizabet ir liebin minnen
 Frolich ir engene ginc
 un mit liebin gruoz enpinc
-Sie spᷓch wol mich der stunde
+Sie sprach wol mich der stunde
 Daz ich dich han lebindic funden
 Dez lobin ich got uon hiemelrich
 Daz ich han gesien dich
@@ -4617,10 +4337,6 @@ Iherin ir kint mit ir neme
 vn ein wile mit ir blibe
 vn dn mande ader vier uerdribe
 Daz elzabet unme daz
-
-
-### 0071
-
 wen mwelich in komen was
 Maria von deme elende
 vn hette nit vil under der hende
@@ -4628,7 +4344,7 @@ Da von sie sich mochte bedragen
 Ir armut wolde sie doch nit clagin
 Maria die mat do gewerte
 Ir iftel dez sie von ir gerte
-Sie spᷓch heim du nu far
+Sie sprach heim du nu far
 Nach drin dagin kunmen ich dar
 Ich nemen minen suon mit mir
 un bliben wie lange duo wilt bidir
@@ -4684,13 +4400,9 @@ Gemacht hat gar en wicht
 Daz sie der maze hattin nicht
 Ihert dz kint quan zuo hant
 un fro er den knecht vant
-
-
-### 0072
-
 Er sprach waz ist dir geschin
 Daz ich dich so trurich sien
-Liebe mcherre spᷓch der knecht
+Liebe mcherre sprach der knecht
 Diese creine solt ich recht
 Nach einer maze gemachit han
 Nu han ich mie vnrecht gedan
@@ -4705,7 +4417,7 @@ werdin langer gar schir
 an ein ort mit den hendin
 Duo zuch die creine daz ander ende
 ziehin ich uns biz sie langer unde
-werdint dar zuo spᷓch der knecht
+werdint dar zuo sprach der knecht
 her re dz gesach ich noch nie
 Daz man holzer moge ziehin
 Also daz sie lenger werdin
@@ -4722,8 +4434,8 @@ un wrden lant als die maze
 Die mie her ioseph hatte gelazin
 Ihere muder quan dar zuo
 Da daz kint die holzer zoch
-Sie spᷓch waz dust du liebis kint
-Iht spᷓch die holer sint
+Sie sprach waz dust du liebis kint
+Iht sprach die holer sint
 zuo kurtz die sollen wir lenger mach
 Da begunde sie sede lachin
 Daz liebe kint ihere
@@ -4753,10 +4465,6 @@ Daz groze leit ist uns geschen
 uon huo ioseps sun ihesu
 Daz sich er fallin muo
 vnser kint daz izist dot
-
-
-### 0073
-
 uon ioseps sun kdin ich die not
 Da ioseph unde maria gehorten
 Diese rede si vaste fochtin
@@ -4766,7 +4474,7 @@ Sie sprach zuo vme suone
 waz dunkit dich nuo gilt zuo dune
 zuo der luogen die man dich
 Ane lugit unde auch mich
-Ihert spᷓch duo muoder min
+Ihert sprach duo muoder min
 un liebe frauowe dz muoz sin
 Daz man uf mich manger slachte
 Falschis sal tragin unde drachtin
@@ -4781,7 +4489,7 @@ wie er uerlorn habe sin lebin
 Io seph unde maria namen
 Dez dodin frunt mit ihu quamen
 Dar da der dode lar
-zuo deme dodin inhert spᷓch
+zuo deme dodin inhert sprach
 zenge vor diesin ludin allin
 Sage wie bist duo gevallin
 Duo salt uffinbar sagin
@@ -4791,7 +4499,7 @@ Da von der dot dir komen ist
 Obeich dir ye leit gedede
 Daz sage nuo mit warer rede
 Daz dode kint mit vollin wortin
-Spᷓch dz alle die lude hortin
+Sprach dz alle die lude hortin
 Ihert marien kint
 Michil dine gnade sint
 Duo hast mir nie nit leidis gedan
@@ -4804,13 +4512,13 @@ wen ane dich bin ich gefallin
 Daz san ich vor den luden allen
 Dot bin ich vor dir gelogin
 verre nuo gip mir dinen segin
-Ihe spᷓch sit duo mich
+Ihe sprach sit duo mich
 hast gesat unschuldit
 So wil ich dir lone gebin
 Daz duo wider habist din lebin
 Dar sime stant uof unde wis gesunt
 Lebindit in der selbin stunt
-Da ihe gespᷓch daz wort
+Da ihe gesprach daz wort
 Der dode wider lebindir wart
 gesunt unde heil sin werndin
 werrdin in den selbin stundin
@@ -4822,10 +4530,6 @@ uon der stat ein kint zuo hant
 Quan unde druc in siner kunt
 Sinen crut unde do iz auan
 zuo den burne unde wize d am
-
-
-### 0074
-
 ume ein ungelucke geschach
 Daz iz sinen mur zuo brach
 Daz kint vil unde brach den kruc
@@ -4848,7 +4552,7 @@ Daz da wirt ein ganz kruoc
 Daz kint die schir bin alle druoc
 zuo ihur ihs si inder legin
 wreder hiz unde sinen segin
-Uspᷓch unde ganz der kruoc wart
+Usprach unde ganz der kruoc wart
 Der zuo bchin unde zuo zart
 Gar zuo cleinen stuckin was
 Daz wart wider ein ganz vaz
@@ -4889,16 +4593,12 @@ un hortin dez gemein iahin
 Daz ein wnder da geschien
 we daz nie wart gesien
 Bi nazarech stet ein se
-
-
-### 0075
-
 Iheizit mare galile
 Spilin gingin die kint da hin
 unde furtin ihin auch mit in
 zuo deme se die kint nu quamen
 unde in dem wazzer fische sahin
-Ihert spᷓch wir sollin alle
+Ihert sprach wir sollin alle
 Machim ob iz uch wol gefalle
 Si dieseme se nu wierlin
 un leidin wazzer auch dar in
@@ -4919,7 +4619,7 @@ Iz waz der iuodin samzdac
 Da dz selbe spil geschach
 Da quan ein nuode der waz alt
 Die kint mit gozein zorne schalt
-Er spᷓch waz dut ir bose wicht
+Er sprach waz dut ir bose wicht
 war unme viert ir huode nit
 Iz ist der heilge samzdar huode
 unde gvirent auch alle die luode
@@ -4935,7 +4635,7 @@ Duo verleidist uns unser kint
 Daz sie alle verflucht sint
 un werdin alle von dir verlorn
 un uerdinent godis zorn
-Iche spᷓch msiner nicht
+Iche sprach msiner nicht
 Diesin kindin leidis geschit
 uon mir sie sollen alle werdin
 Nich unde selic uf der erdin
@@ -4959,11 +4659,7 @@ In der stat dauber al
 zuo nazarecht ein groz schal
 Geschreye vn stare riten
 uf ihin dz kit ich rt
-
-
-### 0076
-
-Sie spᷓchin alle ioseps suon
+Sie sprachin alle ioseps suon
 Der wil uns leidis vil duon
 Sal erlange bi vns sin
 wir engelden alle sin
@@ -4984,10 +4680,10 @@ Dise rede harte vochtin
 ume ihin dz kindelin
 Doch wistin sie die vnscholt
 un auch der uoden gze vntruwe
-Ioseph spᷓch nu sage vrouwe
+Ioseph sprach nu sage vrouwe
 waz ist din rat daz wir io dun
 ume vnser kint dinen sun
-Maria spᷓch herre ich dz radin
+Maria sprach herre ich dz radin
 Daz wir gen unde suchin drade
 Min liebez kint wa wir dz findin
 wa er si bi anduer kindin
@@ -4998,11 +4694,11 @@ Gingin in dz kint alleine
 Fuondin andem velde gen
 Da dz dinc waz geschien
 Da maria ir kint gesach
-Galde zuo imie ginc unde spᷓch
+Galde zuo imie ginc unde sprach
 Liebiz kint nuo sage mir
 waz hat gedan der uide dir
 Der da ist gelegin dot
-Ihers spᷓch vil groz not
+Ihers sprach vil groz not
 hat mir der selbe inde gedan
 er wolde mich leidis nit er lan
 Er det mir leit mit bosin redin
@@ -5011,7 +4707,7 @@ Min wiher unde die fische
 Die ich dir zuo dime dische
 Dragin wolde die hat er veriagit
 urauwe daz sidir geclagit
-Maria spᷓch min lieber herre
+Maria sprach min lieber herre
 Duo hast in selber gebuozit sere
 Doch so bit ich herre dich
 Dz duo dz dun wllist dch mich
@@ -5019,20 +4715,16 @@ Eip mie wider nu sin lebin
 Daz sie vns die scholt it geben
 wan sie zihin alle dich
 Dz duo schuldic sist unde ist
-Ihere spᷓch duo muder min
+Ihere sprach duo muder min
 waz duo gebudist dz sal sin
 Sie gingin zuo deme dodin hin
 Der iudin vil gingin mit in
 Ihert mit deme fuoze stiez
 Den dodin unde in of sten hiez lebin
-Er spᷓch stant uf unde hale
+Er sprach stant uf unde hale
 Duo en salt usmime vrteil gegebin
 Ab die vnschuldic sint
 Als duo dede uber die kint
-
-
-### 0077
-
 Do iht gesprach ein wort
 Der dode wider lebindir wart
 Er stunt of zuo hant unde sprach
@@ -5081,7 +4773,7 @@ Do die lude sahin kunmen
 Sie dez alle harte erqua men
 Doch si auch daz kint sahin
 Ihin mit deme lewin gahin
-Sie spᷓchin wolt ir won der sien
+Sie sprachin wolt ir won der sien
 Daz kint under den lewin gen
 Daz en ist nit kindisen spil
 Dez er da mit beginnen wil
@@ -5095,13 +4787,9 @@ Er ist e rechter zaubere
 In egiptin er die lere
 gelernt hat da er ist gewesin
 Die kunst hat erdagelesin
-Die andern spᷓchen wie mochte dz
+Die andern sprachen wie mochte dz
 Dz ein so iungis kindelin
 Also kindisch unde also mnge
-
-
-### 0078
-
 Mochte habin die lerunge
 Daz alliz dz uon z auber we
 Dz er gedan hat sint her here
@@ -5111,7 +4799,7 @@ wen uon allein sinen worten
 Sint die dodin lebindic wordin
 uns dualat er si godis kint
 Die engele mie gehorsam sint
-Die andner spᷓchin wi dz sal
+Die andner sprachin wi dz sal
 wesin wen wir keimen wol
 Io sep der sin vader ist
 der lebist gar ane bose list
@@ -5126,7 +4814,7 @@ Den sen si von iie enpingen
 unde wider indie wsten grugen
 Da dz kint wolde heyn gen
 Die lude iz an den wege sten
-vant si spᷓchin sage vns ihert
+vant si sprachin sage vns ihert
 wie dust duo dinen dingin suos
 Dz duo so mnc unde so cleme
 Mit wilden dierin has gemeine
@@ -5136,7 +4824,7 @@ Duo bist gedorstit unde alzubalt
 Du in macht minmer werdin alt
 unde kunmis schire in groze not
 un memist iemlichin dot
-Ihert spᷓch die wilde dir
+Ihert sprach die wilde dir
 vil nuo wiser sint dan ir
 Sie hant er kant wer ich bin
 Da von hant sie wiserin sin
@@ -5144,7 +4832,7 @@ wan sie hant mich reht ir kant
 Da sie mich sahin zuo hant
 Dar unme budin siemir ere
 wen sie wisten wol w ich we
-Sie spᷓchin wer bist duo
+Sie sprachin wer bist duo
 Macht du vns dz sagin muo
 wer wizzen wol wer duo bist
 wen ioseph din vadir ist
@@ -5153,13 +4841,13 @@ Daz we dime libe guot
 Do ginc uon in dz kint ihert
 heim in siner muder huos
 Do maria ir kint gesach
-zuo imie muoderlich spᷓch
+zuo imie muoderlich sprach
 wa bist duo kint gewest huode
 waz hant mit dir geredit di lude
-Ihe spᷓch sie mich beswerint
+Ihe sprach sie mich beswerint
 unde auch dicke mich uerkerint
 waz ich in zuo gude dun
-Maria spᷓch vil lieber sun
+Maria sprach vil lieber sun
 In ist leit din heilgiz lebin
 Sitze laz dir zuo ezzin gebin
 Der imer gerne wissen wolle
@@ -5167,10 +4855,6 @@ wer dez kindis ihe geselle
 In siner kintheit stede were
 Dez wil ich gebin uch die lere
 Dz warin siner muomen kint
-
-
-### 0079
-
 Die bede maria geheizen sint
 Die wil ich mit namen nennen
 Daz waz sumon chana neus
@@ -5182,7 +4866,7 @@ vn iohannes waz auch da bi
 Do iesus waz zwolf iar alt
 als iie sin muoder hat gezalt
 Ein groz hochzit gelach
-zuo iherusalem do spᷓch
+zuo iherusalem do sprach
 Io sep der rein godis truot
 zuo marzen siner brut
 Frauwe maria sage mir
@@ -5195,7 +4879,7 @@ Maria fragete ihin do
 Sage mit suon unde lieber herre m
 waz ist nuo der wille din
 wilt duo zuo dem tempil varm
-Mit uns do spᷓch dz godizbarn
+Mit uns do sprach dz godizbarn
 hiebe muder ich wil auch
 zuo den kirchdage varin mit uch
 Iosep unde maris da namen
@@ -5236,10 +4920,6 @@ hattin er dodisputerin
 Gegunde mit in unde auch sie lerin
 Sie nan dez wonder alle glich
 un duchte sie auch gar wernderlich
-
-
-### 0080
-
 Daz die heilge schrift gemein
 was kunt deme iungen kinde so clein
 Daz er so wol geleinen kunde
@@ -5254,7 +4934,7 @@ un in grozzen sorgin unme dich
 un vil harte gesuocht dich
 Mit flichen dich dn ganze dage
 Mit grozer sorge unde mit clage
-Ihert spᷓch nuo saget unme waz
+Ihert sprach nuo saget unme waz
 Suochit ir mich wizzet ir nit daz
 Daz an dem geschefte muoz ich sin
 uon der hiemelriche dez vader myn
@@ -5267,26 +4947,26 @@ wan mude wirt der heilant
 Er sprach zuo imie nu sage mirherte
 Da duo diese due dage uoz we
 waz schuofe duo in deme tenpil huos
-Bi den iuoden da spᷓch ihesus
+Bi den iuoden da sprach ihesus
 By den meistu ich dasaz
 un horte die letze do man las
-Iosep spᷓch uon weine waz daz
-Ihers spᷓch uon ysavas
-Iosep spᷓch nuo sage vns herre
+Iosep sprach uon weine waz daz
+Ihers sprach uon ysavas
+Iosep sprach nuo sage vns herre
 In welcher stat die letze we
-Ihert spᷓch rechte da dz ist
+Ihert sprach rechte da dz ist
 Gescheidin dz der heilge geist
 uf ein mensche komen sal
 un machit in aller wisheit vol
-Iosep spᷓch kundin sie
+Iosep sprach kundin sie
 wizzen wer der mensche si
-Ihere spᷓch sie kundin nit wol
+Ihere sprach sie kundin nit wol
 ver sten die selbe schrift
 Dar unme han ich vil mit yn
 Gedisputerit wen sie den sin
 uon der schrift nit wol uersten
 Daz ist falsch dez sie da iehint
-Iosep spᷓch die selbe schrift
+Iosep sprach die selbe schrift
 hast duo uerstanden unde gelesin
 wie der mensche sal wesin
 Den got mit sime geiste sol
@@ -5297,19 +4977,15 @@ waz sal ich dir da von sagin
 Duo hast in gehabin gedragim
 Ingedrenkit unde gespiset
 un aut in freinde lant gewiset
-Do spᷓch iosep daz bist duo
+Do sprach iosep daz bist duo
 Daz hore ich ander rede nuo
-Maria spᷓch sun sage mir
+Maria sprach sun sage mir
 wer gap die wile zuo ezzin dir
 un mit weine we duo zuo huos
-Da spᷓch dz suozze kint ihere
+Da sprach dz suozze kint ihere
 Daz det liebiz muoderchin
 Elyzabet die inftil din
 Dez ppheten zacharias
-
-
-### 0081
-
 Frauwe zuo iherusale da waz
 Sie gap mir gne daz ich da az
 In irme huse auch nachtis waz
@@ -5375,10 +5051,6 @@ zuo der lude ane gesicht
 An allin gotlichen dingin
 Die heilgin zwene in gelinge
 Inder wstin lange warm
-
-
-### 0082
-
 un groz andacht sie da plagin
 Gedin fastin contempleren
 Lobin got unde mbelerin
@@ -5442,10 +5114,6 @@ un aller slachte wandils an
 Er waz schone unde wol gedan
 Sin heubit was wiz unde wiz fat
 Gruoner waz doch sin heubit har
-
-
-### 0083
-
 Ein lutzil kruselecht
 Al zit rein unde slecht
 Sine bran die warin smal
@@ -5512,10 +5180,6 @@ Dar uber einen mantil druc
 Als die luode gemein den siedin
 hattin inden selbin zvoin
 keinen schuch plac er zuo dragin
-
-
-### 0084
-
 Nach sinen kinclichin dagin
 Als maria die mat reine
 waz bi irme sune alleine
@@ -5529,7 +5193,7 @@ Sie sprach ich bit dich herre sun
 Daz du kut mir wllitt duon
 Des ich dich nuo wil fragin
 Des mlaz dich nit bedragin
-Ihere spᷓch duo muoder min
+Ihere sprach duo muoder min
 wes auch gert daz hertze din
 Daz laz frauwe wizzin mich
 Dez bescheide ich alliz dich
@@ -5541,7 +5205,7 @@ In hiemel unde of der erdin
 wie geschach daz duo werdin
 wldist min kint unde wa duo we
 Da vor dez gip mir lere
-Iht spᷓch urauwe wizze daz
+Iht sprach urauwe wizze daz
 Daz ich bi minen vader was
 Ie unde ie an ane ginne
 Va ich auch nunmer ende gewinne
@@ -5549,15 +5213,15 @@ Maria sprach so sage mir nuo
 wa waz din vader wa we duo
 Da vor e daz hiemelrich
 Gemachit wrde unde dz ertrich
-Ihere spᷓch miner gothest
+Ihere sprach miner gothest
 un auch miner ewekeit
 wir dri warin vor als glich
 her re unde als geweldic
 Als wir nuosin sint hiemelrich
 Gemacht ist unde daz ertrich
-Maria spᷓch wersint die dri
+Maria sprach wersint die dri
 Die einer gotheit wonint bi
-Iht spᷓch die gotheit heizit
+Iht sprach die gotheit heizit
 Uader sun heilger geist
 Die dn namen sint ein got
 An deme stet aller der werlde gebor
@@ -5578,12 +5242,8 @@ uon dime libe unde han ir korn
 zu einer muoder magit dich
 un din kint bin wordin ich
 Maris zu irme sune do
-Spᷓch waz twant dich dar zuo
+Sprach waz twant dich dar zuo
 Daz duo mensche werlde werdin
-
-
-### 0085
-
 Duo we geweldit of der erdin
 un in deme hiemel ware got
 Sage durch welche not
@@ -5599,17 +5259,17 @@ Da miede er sich unde sin geslechte
 Deme dufil gap mit alleine
 Dz er unde sin kunne we rechte
 Dez dufils eigin umer mere
-Maria spᷓch dez muoz ich iehin
+Maria sprach dez muoz ich iehin
 Dz daz leider ist geschehin
-Ihert spᷓch dar unme bin ich
+Ihert sprach dar unme bin ich
 Mensche wordin daz ich dich
 un alliz menschlich kunne
 Erloste von dez dufils kunne
-Maria spᷓch kint wie wilt du
+Maria sprach kint wie wilt du
 Den menschen uon dem dufil nu
 Erlosin der sin eigin ist
 un auch dil ein mensche bist
-zhert spᷓch ein mensche bin ich
+zhert sprach ein mensche bin ich
 Dar unme han ich genomen dich
 zuo einer muder mat reine
 Daz der dufil moge keine
@@ -5619,11 +5279,11 @@ Ich in bin nit uon den geclechte
 hn adanis dar unme von rechte
 hat der dufil nit an mir
 Ich bin geborn an sunde vondir
-Maria spᷓch duo weist alleine
+Maria sprach duo weist alleine
 Daz ich ane man mat revne
 Dich enpinc druc unde genas
 us̄ ie doch revne mat was
-zhers spᷓch dar unme der duofel
+zhers sprach dar unme der duofel
 Mit hat an mir unde doch her wil
 Mit unrecht angrifin mich
 un wil myn under winden sich
@@ -5635,11 +5295,11 @@ Do maris gehorte die rede
 Die ir suon gesprochin hede
 Ir wart we an irme herzen
 un gewan vil gzen smerzen
-Sie spᷓch awie min kint awie
+Sie sprach awie min kint awie
 we mr mir armin dirnen we
 Auwi der bosin mere
 we mime herzen lieber herre
-waz hast du liebis kunt gespᷓchen
+waz hast du liebis kunt gesprachen
 Myn herze ist sere ir schrocken
 Awie wie sal iz ir gan
 Daz man dich zuo dode sal slan
@@ -5650,26 +5310,22 @@ un sal auch alliz daz geschen
 Daz geschribin ist von mir
 Dz in la nit leit wesin dir
 Duo gedenkis wol der rede
-
-
-### 0086
-
 Die der alde simeon dede
 zuo iherusalem von mir
-In deme tempil spᷓch zuo dir
+In deme tempil sprach zuo dir
 Daz uon minis dodis smerzin
 Sal ein swert gen dch diner hertze
-Marn spᷓch myn kint myn herre
+Marn sprach myn kint myn herre
 Icher mar nit ane goze swere
 von dine dode horen sagin
 Min leit muoz ich mit leide clagin
-Ir spᷓch die werlt erlost
+Ir sprach die werlt erlost
 uon mime dode wirt unde getrost
 Maria sprach la horin mich
 kint min abe man dodit dich
 wie salt duo von deme dufil danne
 Erlosen al wip unde manne
-zht spᷓch als mich uerredit
+zht sprach als mich uerredit
 Der dufil man mich gedodit
 So wil her sich auch miner selin
 Under windin unde die holin
@@ -5697,12 +5353,12 @@ un duo mich salt aber sen
 Maria spch wanne salt duo werdin
 wider lebendit uf der erdin
 Daz ich dich doch lebendic schauwe
-Ihe spᷓch vil liebe reine frauwe
+Ihe sprach vil liebe reine frauwe
 Min sele sal andem dritten dag
 wider kunmen zuo deme grabe
 vn nimit dan den lip ausich
 So salt duo lebindit sehen mich
-Da spᷓch maria die reine mat
+Da sprach maria die reine mat
 hettist duo nit daz gesat
 Daz duo wider of der erdin
 Suldis gesunt unde lebeudic werden
@@ -5710,27 +5366,23 @@ uon grozzeme leide berche min herze
 Doch gewinnen ich starken suler
 Sal ich lebin in den ziden
 Als duo herre den dot salt lidin
-Ihert spᷓch als gzin smerzen
+Ihert sprach als gzin smerzen
 Als duo gewinnes an dime herzen
 uon mime dode muder min
 Grozzer wirt die freude din
 wan ich uon deme dode ersten
 un duo mich salt lebende sien
-Maria spᷓch nuo sage wa
+Maria sprach nuo sage wa
 Salt duo bliben herre dar na
 Als duo wider lebindic bist
 wordin nach dez dodis frist
-
-
-### 0087
-
 Ni minen igern sal ich bliben
-Spᷓch ihert bi den uerdribin
+Sprach ihert bi den uerdribin
 uierzit dage dar nach far ich
 wider of zuo hiemelrich
 Maria sprach duo herre min
 Sage wer sint die iungern din
-Ihert spᷓch zwolfe sal ich
+Ihert sprach zwolfe sal ich
 Druder neinen an mich
 Den sal ich min lere gebin
 Daz sie der werlde daz ewige lebin
@@ -5740,22 +5392,22 @@ Maria sprach vil lieber herre
 Sal ich dich dan nit sehe me
 Als duo vens zuo hiemelrich
 weine wilt duo kint dan lazin mich
-Ilert spᷓch ich lazin dich danne
+Ilert sprach ich lazin dich danne
 Diner swester sime iohanne
 vn den zwelf iungn min
 Daz si frauwe bidir sin
 Dienen dir unde trostin dich
 un auch erin alle glich
-Maria spᷓch myn kint min sun
+Maria sprach myn kint min sun
 Ich mich alliz trostiz abe dun
 Fro werdin ich minmer nacht oder dac
-lhere spᷓch auch sendin ich dir
+lhere sprach auch sendin ich dir
 uon minen vader unde uon mir
 Einen trost so zuo hant
 heiliger geist ist er genant
 Der trostit unde lerit dich
 Alle zit als wol als ich
-Maria spᷓch vil lieber herre
+Maria sprach vil lieber herre
 Sal icher dich danne minmer me
 Mit minen augin an gesien
 wie salez kunt ume mich geschen
@@ -5771,7 +5423,7 @@ un du salt werdin kuneginnen
 un der engel keise rumen
 Iosep horte ein deit der l ver rede
 Die iht zuo manen dede
-Erspᷓch auwi der leidin mere
+Ersprach auwi der leidin mere
 Die duo sagist lieber herre
 wie salt du den dot er liden
 Got helfe mir dz ich vor den zidin
@@ -5779,7 +5431,7 @@ uerre muozze ligin dot
 Daz ich dine grosze not
 Mit mit augin an sehe
 Die an dir herre sal geschefen
-Iherr spᷓchich muoz erfullen
+Iherr sprachich muoz erfullen
 Allin minis vader willen
 Dar unme bin ich kunmen
 un han menschlich fleich an gnomen
@@ -5790,10 +5442,6 @@ ume die truowe die du mir
 un miner muder hast gedan
 wil ich dir dz ewige lon
 In minis vader riche gebin
-
-
-### 0088
-
 Daz duo mit freudin siner lebin
 Salt by mir in deme hiemelrich
 Dar unme herre bit ich dich
@@ -5803,7 +5451,7 @@ Duo salt sie behuden unde bewarin
 wen ich sal ns uon uch varm
 unde beginnen ane hebin
 Inder werlt ein muowe lebin
-Iosep spᷓch mat allen truowen
+Iosep sprach mat allen truowen
 Ich dinen gerneniiner frauowen
 Dch dich ur uft och ir guode
 Mit flizze ir vil ple
@@ -5857,14 +5505,10 @@ Schande groz er gewan
 Derwirt auch nit en wiste
 waz drinkin soldin sine geste
 Damaris dz gesach
-
-
-### 0089
-
 uo irme sune ihn sprach
 hern suon lieber herre
 winis en hat der wirt nit nie
-hert spᷓch waz get daz mich
+hert sprach waz get daz mich
 Ine muoder unde dich
 Des zuober stundin in deme huos
 ndenknechtin sprach che
@@ -5926,10 +5570,6 @@ vf ihin rpm riesin alle
 wez zihist duo vns ihu erilt
 uf viner schaden duo kunen but
 Duo hast gen unnen of uns nit
-
-
-### 0090
-
 Auo wild une vortriben eder zit
 zeichin groz ihert begic
 Do er zuo pdegin ane vinc
@@ -5995,15 +5635,11 @@ Erbegunde zuo in gen
 un hiez sie alle stille sten
 Uber die muoder erbarmte sich
 Ihert unde gine zuo derlich sin
-Erspᷓch zuo der muoder frauwe la
+Ersprach zuo der muoder frauwe la
 Daz clagin unde daz weinen din
-
-
-### 0091
-
 uo deme dodin er drade ginc
 Mit siner hant er in gevinc
-Er spᷓch stant of unde habe din lebin
+Er sprach stant of unde habe din lebin
 uin sele wil ich dir wider geben
 Ihert ppt gesprach daz wort
 Der dode wider lebindit wart
@@ -6025,15 +5661,15 @@ Die luode die zuo mie gingen
 un mithendin ane vingen
 Mit den menschender dufil
 uor ihert fuozzin inder vilin
-Er spᷓch oihere godis suon
+Er sprach oihere godis suon
 Ich fochtin daz duo mir wollez
 Groz leit unde grozze swe
 Auwe mir der leidin mere
 Duo wilt mich zuo der helle dribin
 Da muoz ich armer um rblibin
-Ihere spᷓch die rede la sin
+Ihere sprach die rede la sin
 un sage mir den namen din
-Der dufil spᷓch ich heiz dz here
+Der dufil sprach ich heiz dz here
 wen uncer herre ist hie vil mere
 wan in diesin menschen sint
 Duofil nie dan ses duosint
@@ -6041,7 +5677,7 @@ Miner gesellin unde ses huondert
 wir biedin dich doch alle besunder
 Daz duo vns nit zuo der hellen
 Dribis zuo den leidin gesellen
-Ihert spᷓch ich wil uerdribin
+Ihert sprach ich wil uerdribin
 Auch sage mir wa wilt duo bliben
 Uf den velde gingin swin
 Eine grozze schar sie badin in
@@ -6061,10 +5697,6 @@ un sagetin waz da waz geschen
 un daz sie alle hattin gesien
 DArnach ichr marzen fuon
 Sint wit r zu capharnaun
-
-
-### 0092
-
 Da er sine muder hette
 Gelazzen daz sie sin da beite
 Er fuorte sie do zu nazarech
@@ -6090,7 +5722,7 @@ Sie weine unde clagete sinen dot
 Mit leide unde guch mit iamers not
 An ioseps dode marien clage
 Die horethie gne dz ich uch sage
-Sie spᷓch auwe mir herre min
+Sie sprach auwe mir herre min
 Nuo miz ich andez trostes sin
 Den ich herre hatte von dir
 Alle zit getruwe mir
@@ -6128,10 +5760,6 @@ Daz erste dz duo dz kint enpinge
 von miner hant unde ume ginge
 Mit eine also minnenclich
 unde also rechte duoginclich
-
-
-### 0093
-
 Ald iz uon dime libe we
 komen min vil lieber herre
 Do schuofe duo dz iz wart besinden
@@ -6195,10 +5823,6 @@ Die da heizzet nazarech
 Ein richer man hiz mrus iavrus
 was in dome lande du ihe
 predegin gint den manne geschach
-
-
-### 0094
-
 Ein leit unde groz ungemach
 Er hatte ein dochter dz waz alt
 zwolf iar unde wol gestalt
@@ -6215,7 +5839,7 @@ uber den man erbarmetesich
 Er ginc mit iie zuo hant
 Da er die dodin ncft auwe vant
 Da er quan da sie lach
-Er nan sie mit der hant unde spᷓch
+Er nan sie mit der hant unde sprach
 sant of icfrauwe unde habe din
 Dz wil ich dir uv wider gebin leben
 Die nicfrauwe stunt of an der stunt
@@ -6251,11 +5875,11 @@ Er stunt stille unde unme sich sach
 un zuo sinen ningn sprach
 what gegriffin an myn gewant
 unde mich gerurt mit siner hant
-Sente peter spᷓch wes fragis duo
+Sente peter sprach wes fragis duo
 So wernderlich wen duo sist muo
 Daz die luode dich alle dringin
 uns stozint of dich unde twinigint
-Ichert spᷓch doch wol weiz ich
+Ichert sprach doch wol weiz ich
 Daz man hat geruort an mich
 von einen menschen ist geschen
 gnade von mir den wil ich sien
@@ -6264,15 +5888,11 @@ Daz er die dinc nuo wol wiste
 fuor sinen fuoze vil sie dan
 un sade eme waz sie hette gedal
 un offenbar auch si mach
-
-
-### 0095
-
 Alliz daz ir da geschach
 Daz sie wordin we gestint
 uon irme sichtum inder stunt
 Iht hiez sie of sten
-un spᷓch zuo ir dir ist geschen
+un sprach zuo ir dir ist geschen
 na dinen glauben nu gant iner friden
 Alle gnade si dir miede
 wen ginbrosins schribit dz
@@ -6312,31 +5932,27 @@ un quamen zu imie alle da
 Durch die zeichin unde di lere
 Die ihert det der werlde herre
 Do an den abint ginc der dac
-zu cristo ein deil der iudin spᷓch
+zu cristo ein deil der iudin sprach
 gip den ludin orlaub herre
 wen sie hant zuo gene verre
 Daz sie kenfin mogin brot
 Sie lidin alle hungers not
 Daz sie zuo den dorfen lanfin
 un mugin spise keufen
-gebit ir in zuezzen spᷓch iht
-Di ungner spᷓchin wie redist duo suos
+gebit ir in zuezzen sprach iht
+Di ungner sprachin wie redist duo suos
 wa sollen wir nemen alliz dz brot
 Dz wir in ir hungers not
 Allen mogin mide verdriben
 Beide manne unde wiben
 wen ane wip unde ane kint
 Dman hie fuons dusent sint
-Indreas spᷓch wir han ich wene
+Indreas sprach wir han ich wene
 funf girstin brot vische zwene
 Die mogin diesin ludin komen
 Allen doch zuo clmmen fromen
-Iherr spᷓch zuo deme ingin duo
+Iherr sprach zuo deme ingin duo
 Dragit die selben brot her zuo
-
-
-### 0096
-
 heizzet inder sitzen die lude
 Ich wil sie alle spisen huode
 Ihe nan die selben brot
@@ -6344,7 +5960,7 @@ Nief an sinen vader got
 un gab dar uber sinen segen
 un hiz iz fur die lude legin
 un die zwene fische zuo brach
-un zuo sinen iungner spᷓch
+un zuo sinen iungner sprach
 Deilet die vische vnder die lude
 Daz sie alle ezzen huode
 Alle die luode meder sazzen
@@ -6384,33 +6000,29 @@ Ihert daz in allen was
 Spise zu runnen unde auch brot
 un sie liedin hungers not
 Den mungn rief er allin zuo sich
-un spᷓch die lude erbarment mich
+un sprach die lude erbarment mich
 wen en zuo runnen ist daz brot
 un lidin alle hungers not
 Sie sint uns dri dage na gegangin
 un lident anspise grozin maugi
 Dazzen wir sie nuo vastin gen
 In mat uon hunger we geschen
-Sie spᷓchen alle wasullen wir nemen
+Sie sprachen alle wasullen wir nemen
 Daz wir in nuo zuo ezzin gebin
-zherr spᷓchnmo sagit mir
+zherr sprachnmo sagit mir
 wie manig brot habit ir
-Sie spᷓchen wir han brot
+Sie sprachen wir han brot
 Dez ist uns selbe auch gar not
 un han noch ein lutzel vische
 Dir haldin wir dir zuo dische
-Iherr spᷓch zuo den iungirn duo
+Iherr sprach zuo den iungirn duo
 Dragit die selbin brot her zuo
 Iht nan die selbin brot
-
-
-### 0097
-
 Den ludin allin daz gebot
 Daz sie alle meder sezzin
 Sine spise mit andacht ezzin
-Ihere zuo sinen mgn spᷓch
-un dar na auch sinen segin spᷓch
+Ihere zuo sinen mgn sprach
+un dar na auch sinen segin sprach
 Uber dz brot unde dz zuo brach
 Auch det er also den vischin
 unde hiez sie alle iner freudin ezzin
@@ -6431,15 +6043,15 @@ ht min sinen uinguer quam
 In die stat zuorapharnaun
 Die zoher die da zol namen
 die zuo sente peter quamen
-Sie spᷓchin wilt duo rechte lebin
+Sie sprachin wilt duo rechte lebin
 heiz dinen meister zol geben
 Da sie quamen in daz huos
-zuo sten peter spᷓch ihert
+zuo sten peter sprach ihert
 Die zolner peter hant vondir
 geforderet zol daz sage mir
-Daz ist war spᷓ h sente peder
+Daz ist war spra h sente peder
 Sie hant geheischin zol uon mir
-Ihere spᷓch da wir sin fri
+Ihere sprach da wir sin fri
 von lande unde duont unrechte si
 Sie sullin uon freidin nemen
 Daz ist in zuo lone gegebin
@@ -6470,10 +6082,6 @@ Da von den suostin leide geschach
 zuo ihu einen bodin sie santen
 un in siner truwin mantin
 Daz er dar queme unde sie troste
-
-
-### 0098
-
 un lazarun irin frunt loste
 von siner gozin legit not
 Daz er so it lege dot
@@ -6483,35 +6091,35 @@ un er begrabin waz dri dage
 Die suoster vant ingzer clage
 Sie ihert bede engene gingin
 Mit gerzein weinen in enpingin
-Sie spᷓchin wers duo hie gewesin
+Sie sprachin wers duo hie gewesin
 her re sowe noch wol genesin
 unser bruoder der ist dot
 Da von wir lyden grozze not
 Ihert weinen auch begunde
 Enthaldin sich dez nit enkunde
 Da er weinen marchin sach
-un marien zu in er spᷓch
+un marien zu in er sprach
 Lazzet daz weinen unde daz clage
 gelauobet mir daz ich uch sage
 vwer bruoder sal ersten
 un solt ir innoch lebindit sehin
-Sie spᷓchin herre wir wizzen wol
+Sie sprachin herre wir wizzen wol
 Daz erlebindir werden sal
 Dz sol anden ngistin dage geschin
 Sosollen wir alle mit ime erstin
-Ihert spᷓch wisit mich die stat
+Ihert sprach wisit mich die stat
 Da ir in begrabin hat
 Sie gingin zuo deme grabe hin
 Iuodin der ginc gnnt mit in
 Da sie qnamen zuo deme grabe
-Ihert spᷓch den stein nemet abe
+Ihert sprach den stein nemet abe
 Vf daz grau wide duot
 uwer glauobe der it guot
-Martha spᷓch vil lieber herre
+Martha sprach vil lieber herre
 Er smacket unde stinkit sere
 Iz ist huode der vierde dac
 Daz er leider dot lac
-Ihert spᷓch zuo den frauowen
+Ihert sprach zuo den frauowen
 hat ir gelauoben so mogit ir schan
 wernder groz uon gode noch huode
 Da brachin of die luode daz grap
@@ -6540,10 +6148,6 @@ zuo trostin sie an irme leide
 Da von daz ir bruoder waz
 Dor gelegin do sie daz
 zeichin sahin daz er da dede
-
-
-### 0099
-
 Dz er gemacht lebindic hede
 Der dot vier dage gewesin waz
 Sie gingin hin unde sahin daz
@@ -6606,16 +6210,12 @@ Daz die martil nahe si dir
 Ihere trostin do begunde
 Sine muoder als er kunde
 Mit suozzer rede minnenclich
-
-
-### 0100
-
 Daz sie wol gehabete sich
 Inallen gap er den segin sin
 Er sprach lt uch benolen sin
 Min liebe muoder unde ginc uoz
 uon marchin unde marien huos
-zuo sinen ingner spᷓch ihert
+zuo sinen ingner sprach ihert
 Daz sie quemen zuo deme huos
 zuo iherusalem wirgen
 Dasal mir ungemach geschen
@@ -6674,14 +6274,10 @@ Sazin unde wesels plagin
 Mit zorne die ihert alle uoz dreip
 Mit eime seile dz er begreif
 Der muonzer tauel er unme kerte
-
-
-### 0101
-
 un warf die peinge of di erdin
 Gen sie uoz deme tempel hiez
 Sitzen si da ine nit enliez
-Er spᷓch duot dz alliz hin uoz
+Er sprach duot dz alliz hin uoz
 vunreinet nit daz godis huos
 die prister unde phanse
 vn die schriber von der e.
@@ -6691,7 +6287,7 @@ Daz sie doch gedorstin duon nit
 uor der luode ane gesicht
 Jesus begunde pdegin duo
 Da quamen vil der iudin zuo
-er spᷓch die schriber uon der e
+er sprach die schriber uon der e
 vn die falschen pharise
 vn die prister moyse
 vch heizzent lebin nach der ie
@@ -6741,10 +6337,6 @@ Si sachtent noch in rchint nit
 woz den annen selen geschit
 Sie in ruchent wer di lemer schirt
 Dz in ocker di wolle wint
-
-
-### 0102
-
 Mit glischenheit sie uch bedriegin
 Mit deme herzen sie gode liegin
 Alir hertze unde iren sin
@@ -6808,16 +6400,12 @@ Die ihert in der pdegin dete
 Sie merkent wal shel gselkie
 Alleglich meinte dagerin
 Einen rat sie ane vnigin
-
-
-### 0103
-
 lle gemein zuo samen gingin
 wie sie ihin mochtin doden
 Daz sie nit da von zuo nodin
 kunmen wen die lude in hettin
 Fur einen rechtin godis pphetin
-Sie spᷓchen saler lange leben
+Sie sprachen saler lange leben
 wir muozzen in uns im alle irgebin
 Sal erlange bi vns blibin
 Er mag uns alle gar uerdribin
@@ -6829,7 +6417,7 @@ Sie uerdribet uns uon uneine lande
 So miozen wir groze liden schande
 Ein muode der hiz cayphas
 Dindeme lande bischof was
-Er spᷓch dez ist uns allen not
+Er sprach dez ist uns allen not
 Daz er lyde alleine den dot
 uil bezzer ist daz einer sterbe
 Da wir alle muozin uerderbin
@@ -6865,7 +6453,7 @@ Nach der rechter o iuodin wise
 Do erbiden iungner saz
 un daz ostner mandac az
 Drunclich er sie ane sach
-un er zuo in allin spᷓch
+un er zuo in allin sprach
 un uch allin einer ist
 Der mich hint an dirre vrist
 Den iuodin wil uerradin mich
@@ -6874,13 +6462,9 @@ Sie begundin alle vragin
 un badin in daz er den man sagin
 un mallen zeigin wolde
 Din so uerradin solde
-Ihert spᷓch daz alle wizzit
+Ihert sprach daz alle wizzit
 uf dieseme dische er iner mir me
 Dnrch noch hinit uerradin sal
-
-
-### 0104
-
 Daz in erget mie minmer wol
 we ime daz er ie wart geborn
 Mit libe unde sele ist er uerlorn
@@ -6889,7 +6473,7 @@ Saz aller nehist bi criste
 Erof ihert bruost sich neigete
 vn bat in dz erie zeigete
 Deme ulreder ihert du
-heimelich spᷓch iohan zuo
+heimelich sprach iohan zuo
 Deme ich min in dirre stunt
 Eine brosem stozen in sinen munt
 Der sal noch himt uerradin mich
@@ -6906,7 +6490,7 @@ Do indas was gegangin uoz
 Do beginde der suze ihert
 Sine ngern minnenclich
 Drostin unde vederlich
-Er spᷓch ich manen uchalle glich
+Er sprach ich manen uchalle glich
 Daz ir lebit bruoderlich
 un mit ein habit minne
 Daz die luode des werden inne
@@ -6922,7 +6506,7 @@ Daz mich die merden wollin vahen
 Gindin stozin unde slahin
 Bi mir meinan danne bestet
 Alle fluchtit ir uon mir get
-petrus da zuo ihern spᷓch
+petrus da zuo ihern sprach
 kunmerme daz geschehen mach
 Daz ich lazze herre dich
 Ewolde ich lazzen dodin nich
@@ -6933,7 +6517,7 @@ Ich wil alleine bin dir sin im besa
 Ichwil bi dir lyden den dot
 Ire unde allerslachte not
 Ich wil sterbin unde lebin
-hert spᷓch die rede la sin
+hert sprach die rede la sin
 wen duo salt uerleuken min
 hint indirre nacht dristunt
 Daz ich dir nie werrde kunt
@@ -6944,12 +6528,8 @@ So daz duo mich mit auogin
 habist vor noch nie gesien
 Daz salt dn mit deme eide iehen
 zuo den iungern do allen gemein
-Spᷓch ihert der suozze unde der reine
+Sprach ihert der suozze unde der reine
 Irsollet dar ume nit haben leide
-
-
-### 0105
-
 wan ich mich nuo von uch scheidin
 Ir sult aber ichiere schauwen
 un solt aber da von uch frauwen
@@ -6962,7 +6542,7 @@ wandar kunmen sal auch ich
 Da solt ir lebindic sehin mich
 Do ihert dz rede hatte volbcht
 do waz iz iez uer wordin nacht
-Gen wir uon hinnen spᷓch iherc
+Gen wir uon hinnen sprach iherc
 Da stunt er uf unde ginc dauoz
 Die eilfe gingin alle mit nu
 vn gingen uoz iherusalem
@@ -6983,7 +6563,7 @@ Mit gedenke sie versuchen
 unde kraukin mitt an si sente
 von in ginc or an sin andacht
 In sin gebet er in der lat
-un zuo sinen vader spᷓch
+un zuo sinen vader sprach
 got vader min ich bin bereit
 zuo dragin alle arbeit
 Ich wil lidin gne den dot
@@ -7008,17 +6588,13 @@ vn macht in zuoder martil stede
 Ihert zuo den iguer wider
 Die lagin alle inder
 unde sliefin da er daz gesach
-Sente pef er werket unde spᷓch
+Sente pef er werket unde sprach
 Macht duo nit ein wile ier mir
 Gewachin pet wie ist dir
 wachit noch unde stet of alle
 Sie gent da her min goz ein schalle
 Si sit hiebie di mich vahin
 wollent bindin unde slahin
-
-
-### 0106
-
 In der selbin wile dar
 Iuodin quamen ein goze schar
 Swert sie drugin unde sper
@@ -7028,9 +6604,9 @@ Sie fuorte unde auch ir wiser was
 Ihere in ingene ginc
 un demudeclich er sie enpine
 wa wolt ir hindaz sagit mir
-wir suchin spᷓchin sie ihim
+wir suchin sprachin sie ihim
 Den man heizzit nazarenun
-Iherr spᷓch daz binich
+Iherr sprach daz binich
 umne welche sache suchit ir
 Do sie ihern wort gehortin
 Alle glich uon gozen vochtin
@@ -7038,22 +6614,22 @@ Er schrachin unde kertin wider
 unde vielen of di erdin inder
 zu das ir ungetruwe geuote
 hiz sie of sten uon der erdin
-Auch spᷓch der ungetruowe man
+Auch sprach der ungetruowe man
 Daz zeichin merket alle da an
 Den ich kuossin vor sinen munt
 Daz ist er daz si vch kunt
-Aber ihert spᷓch zuo in
+Aber ihert sprach zuo in
 wen suochit ir wa wolt ir hin
-Sie spᷓchin alle waist der ihert
+Sie sprachin alle waist der ihert
 Der da ist geheizen nazaren
-Iherr spᷓch ich sagete uch e.
+Iherr sprach ich sagete uch e.
 Dz ich iz were waz wolt ir me
 Suochit ir mich solat genesin
 Die mit mir hie nu sin gewesin
 Da gint ierdas ander stunt
 Iherr zuo kunen an sinen munt
-got unde spᷓch aue rabi
-Ihert spᷓch din gruoz ist
+got unde sprach aue rabi
+Ihert sprach din gruoz ist
 valsch untruwe nit unde haz
 wen duo mich ilradin hast
 we dir iudas armer man
@@ -7067,7 +6643,7 @@ vn mie na dem halse sluc
 Dclac ein latzil uerber dinc
 unde sluoch ie dz ore abe gar
 Ihert sach unme unde nan dez war
-er spᷓch peter duo hin daz swert
+er sprach peter duo hin daz swert
 wen izhie vechtins mo en wirt
 Solt ich in nuo wider sin einherl
 So bede ich got uon himel mir
@@ -7084,10 +6660,6 @@ Sazte dz ore mit siner hant
 wider daz wart zuo hant
 wol gesunt unde rechte heil
 An aller slachte werndin mel
-
-
-### 0107
-
 Drade die inden alle duo
 liefin unde gingin zu
 Ihin sie vingin unde slugin
@@ -7115,10 +6687,10 @@ Aurch uns dz alliz lidin wolde
 Da niede er uns losen werlde
 Der bischof in begunde fragin
 un hiz uon sinen zeichen sagin
-Er spᷓch sage vns uon diner lere
+Er sprach sage vns uon diner lere
 vno dinen lebin wie deme were
 Mine lere dy waz uffenbar
-Spᷓch ichr mine zeichin sint war
+Sprach ichr mine zeichin sint war
 unuerborgin det ich
 uor allen ludin schinberlich
 Die da horfin mine lere
@@ -7126,8 +6698,8 @@ Die frage wie si we
 von mynen zeichin salt duo vragin
 Auch di die sie sahin
 Ihin sluoc der iude duo
-vn spᷓch wie antwertist duo nuo
-Deme bischof da spᷓch ilert
+vn sprach wie antwertist duo nuo
+Deme bischof da sprach ilert
 han ich ubele geredet suos
 Dz bewe obe rechte ich han
 geredet warunme wldist mich slan
@@ -7135,26 +6707,22 @@ Nuo sagin doch die warheit ich
 uf ihin begundin zeigin
 Duon ume ich mochte sagin
 Dz sie mochti vf in clagin
-zwene spᷓchin gehort wir han
+zwene sprachin gehort wir han
 Dz er wolde machin san
 Den tenpil in drin dagin wider
 Der den breche gar nuo inder
-Sbischof spᷓch gehort hast duo
+Sbischof sprach gehort hast duo
 Der gezuge rede mil
-Sage waz spᷓchist duo dar zo
+Sage waz sprachist duo dar zo
 Iht sweit vil stille duo
-zuo den wortin er nicht spᷓch
+zuo den wortin er nicht sprach
 Ubischof in do an sach
-un spᷓch bigode beswer ich dich
+un sprach bigode beswer ich dich
 der lebete in deme hiemelrich
 Daz duo sagist ob du sist
 godis sun der ewige mrst
-Ihert spᷓch ich sage die warheit
+Ihert sprach ich sage die warheit
 Dz hat ir ulr erd tuogenheit
-
-
-### 0108
-
 un lazit mich doch dar unme nit
 Doch san ich uch waz dan geschit
 Auch ich uch daz kunt duon
@@ -7163,12 +6731,12 @@ Sehin sitzin ander rechtin hant
 Godis unde dar na zuo hant
 uon hiemel kunmen her meder
 un in den wolken varen herwider
-Sie spᷓchin alle sagit uns min
+Sie sprachin alle sagit uns min
 Der selbe godis suon bist duo
-Iherr spᷓch daz bin ich
+Iherr sprach daz bin ich
 godis suon uon hiemelrich
 Dbischof zerte sin gewant
-un spᷓch horet alle sanit
+un sprach horet alle sanit
 Daz er selbe hat ueriehen
 zuo deme gezuge wir alle sten
 zuo samen si do neffin alle
@@ -7183,27 +6751,27 @@ Sie rauftin in mit sinen barte
 vn hals legetin yn harte
 Die augin sie emne uerbadin
 un slugin in zuo maniger stunden
-un spᷓchin meister min rat
+un sprachin meister min rat
 un sage wer dich geslagin hat
 Petrus waz gevolgit na
 unde stunt under den andern da
 unde er mit grozein ruwe sach
 Sins meistirs ungemach
-Do spᷓch ein wip zuo yme duo bist
+Do sprach ein wip zuo yme duo bist
 Des nger der sich heizit crist
 peter leuokete inder stunt
-unde spᷓch erist mir gar unkut
-Do spᷓch zuo yme dar na ein knechl
+unde sprach erist mir gar unkut
+Do sprach zuo yme dar na ein knechl
 Ich dich indeme gars sach
-peter lenerkente unde spᷓch
+peter lenerkente unde sprach
 Ichin weiz nit waz der rede ist
 An mir duo garbetrogin bist
 Do in die andn iudin sahin
 Alle gemein dez iahin
 Daz er ihert iunger we
 von sime lebin unde siner lere
-Sie spᷓchin wir horin daz
-An diner spᷓche di duo hast
+Sie sprachin wir horin daz
+An diner sprache di duo hast
 Daz duo von galile bist
 unde din meister ihert crist
 peter do begunde leuoken
@@ -7218,10 +6786,6 @@ wen er gedachte da der rede
 Die iht vor gesprochen hede
 Daz eruerleuken solde sin
 uoz deme huse erdradeginc
-
-
-### 0109
-
 Sere zuo weinen er ane vinc
 un clagete daz er hette gedan
 Darunme weinte mangin tran
@@ -7229,7 +6793,7 @@ Do der dar was of gegangin
 iherin gebundin unde gevangin
 fur die bischof unde die prister
 zuo pylato deme richter
-Sie spᷓchin zuo mie diesin man
+Sie sprachin zuo mie diesin man
 wir dar ume gevangin han
 wen er unser e uerkerin
 wil mit siner nuwin lere
@@ -7241,9 +6805,9 @@ pylater zuo den iuden sprach
 Da er ihin an sach
 waz wollet ir alle daz ich duo
 Den manne den ir mir fuorit zuo
-Sie spᷓchin duo salt urteil gebin
+Sie sprachin duo salt urteil gebin
 Daz man yme neme sin lebin
-Da spᷓch pylater zuo ihn
+Da sprach pylater zuo ihn
 Sage mir mensche werbist duo
 Sage mir waz hast duo begagin
 Daz dich die iuden hant gevangi
@@ -7251,11 +6815,11 @@ Ob duo der iudin kunic bist
 Daz sage mir da sprach crist
 Mit einst min kuoicrich
 uon dirre wlde zuo genclich
-pylater spᷓch sohore ich doch
+pylater sprach sohore ich doch
 Daz duo bist ein kuonic noch
-Ein kuit spᷓch ihert bin ich
+Ein kuit sprach ihert bin ich
 Min kunitrich ist ewich
-zuo den inden spᷓch pilat
+zuo den inden sprach pilat
 Der man nit uerdie net hat
 Daz er uerliesin sulle sin lebin
 Man mach mie wol eyn buze gebin
@@ -7279,16 +6843,12 @@ Do ihere erist stunt vor herode
 Siner zungen erso huote
 waz man fragin kuonde
 Daz er me uz sinen munde
-wort gespᷓch er sweit al stille
+wort gesprach er sweit al stille
 her odes hatte doch gozin willen
 Daz er hette gne gesien
 Daz etlich zeichin we geschin
 Die ihert vor ume hette gedan
 Der muoste der kuonic wesin an
-
-
-### 0110
-
 Gerde zeichin unde rede
 Ir keinis ihere vor mie dede
 Dar unme der kunit herot
@@ -7298,12 +6858,12 @@ Ane ziehin dch sinen spot
 Ihin crist erda mide schante
 vn zu pylado wider sante
 Do pylater iherin sach
-zuo den iuoden allen er do spᷓch
+zuo den iuoden allen er do sprach
 Sagit waz sal ich schaffin muo
 Mit diesem gudin manne ihn
-Sie spᷓchin alle duo salt in san
+Sie sprachin alle duo salt in san
 An ein crude heizin clan
-zuo den ierdin spᷓch pylat
+zuo den ierdin sprach pylat
 waz ist sine missedat
 Ich vinde nicht daz er hat gedan.
 Daz man in uon rechte sulle han
@@ -7313,7 +6873,7 @@ Daz erludin sulle den dot
 Ader ander libes not
 Er hat gesant wider in
 gerechtin unde gar unschuldegin
-Die iuoden spᷓchin wir die slechte
+Die iuoden sprachin wir die slechte
 Sagin daz dz uon rechte
 Sal bi vns nit langer lebin
 Duo salt urteil ufyngebin
@@ -7323,21 +6883,21 @@ wen er wider moyse
 Gepredegit hat unde unser e
 zuo storen wil mit siner lere
 vn wil uns nemen unser eere
-pylatus spᷓch so fuort in hin
+pylatus sprach so fuort in hin
 un richtit selber ub in
 Nach deme sieden mver e
 vn nademe gebode moyse
-Die ulden spᷓchin meinan wir
+Die ulden sprachin meinan wir
 In zuo dodin han gegebin
 Daz duo nemest ume sin lebin
-polater spᷓch einen gerechten man
+polater sprach einen gerechten man
 Ich mmer in wil zuo dode slan
 Daz ich gieze vnschuldit blut
 Achuo wer willen daz in were nit gilt
 An uns gerochen worde of der erde
 vn uf unser kunne kunme
 Beyde zuo schadin unde zuo frunmen
-Zuo den ierdin spᷓch pylat
+Zuo den ierdin sprach pylat
 horit ir herren minen rat
 waz ihit dirre gnde man
 wider uch alle hat gedan
@@ -7351,10 +6911,6 @@ Daz wirt yme allez abe genom
 Lat i also da von komen
 Mit deme libe ane den dot
 wen goz guuoc wirt doch sin not
-
-
-### 0111
-
 Dye iudin swigin dar zuo stille
 wen iz waz ir aller wille
 Daz sie gerne hettenngesten
@@ -7400,7 +6956,7 @@ Uf sazten yme dz sin swarte
 Die dorne stachin imie so harte
 ein ror gabin sie mie indi hant
 unde kineten vor in alle samit
-un spᷓchen ane rer der uiden
+un sprachen ane rer der uiden
 unde groz laster ume boden
 An sin antlitze sie yme spieten
 Als einen dor sie muo sine heten
@@ -7411,17 +6967,13 @@ Sluogin sie yn mit dem rore
 Mit sime gewande sie yn aber cleiten
 zu pylado wider leitin
 Do pylater ihin sach
-zuo den uode allen spᷓch
+zuo den uode allen sprach
 Schauwit alle daz ist der man
 Duch leit hat gedan
 Den han ich unme sin missedat
 wen eruch erzurnet hat
 vaste mit den geisseln geslan
 Dannede ich in gebuzit han
-
-
-### 0112
-
 Da mide gebezzert sy uch allen
 Diebuozze sal uch allen wol gevallen
 ume daz sollet ir in lazzen leben
@@ -7431,27 +6983,27 @@ Nufen mit grozeme schalle
 Dolle tolle crucfige
 Fuor in hin unde heiz in haben
 Duo salt man ein crude slahen
-zuo den iuoden spᷓch pylat
+zuo den iuoden sprach pylat
 Ir mich dez geheizen hat
 Daz ich uvn kinic haben
 Sal unde anein eruode slahin
-Die iuodin spᷓchen alle gemein
+Die iuodin sprachen alle gemein
 wir en han kunit kein
 Der keyset ist unse herre
 Ser hat ume wider saget sere
 Ssich einen kunit heizet
 wanne er daz gefreischet
-Mit deme worte spᷓch pylat
+Mit deme worte sprach pylat
 Sinen lip nit uerlorin hat
 hat er anders nit gedan
 ume dz in wil ich yn minmer gehan
-Der inden spᷓchen nach der ee.
+Der inden sprachen nach der ee.
 unde uon deme gebode moyse
 Sal man yn nit lazzen leben
 han sal yn anein crude heben
 wen er hat geheizen sich
 Godis suon uon hiemelrich
-Do spᷓch pylatus zu ihn
+Do sprach pylatus zu ihn
 Sage mesche wer bist duo
 von deme lande bistu geborn
 wie hastuo duser hulde uerlorn
@@ -7459,11 +7011,11 @@ waz hastun leydis in gedan
 Daz sie dich nuo heizzen haben
 Ihere sweir al stille duo
 nicht reden wolde erdar zuo
-pylater spᷓch in wilt dunit mir
+pylater sprach in wilt dunit mir
 Antwortin nuo helf ich doch dir
 uber dich gewalt han ich
 zuo lazzen wol unde zuo dodin dich
-Ihert spᷓch nicht hettist duo
+Ihert sprach nicht hettist duo
 gewalt obe dir nit enwe nuo
 Auch die selbe gewalt gegebin
 Dien duo hast uerber myn lebin
@@ -7484,18 +7036,14 @@ Do die rede pylatus horte
 Da von gewan er grozze vochte
 vf sin hende er wazzer goz
 un die vor allen den luodin wersch
-Er spᷓch reine unde unschuldic
+Er sprach reine unde unschuldic
 uon dez mannes dode bin ich
-
-
-### 0113
-
-Die indin spᷓchen uf sin blut
+Die indin sprachen uf sin blut
 kunmen muoze unde auch sin dot
 uf alliz unser kunne ge
 Daz auch uns da von gesche
 pylater wip iren manne enbot
-un spᷓch zuo vme mich dunkit guot
+un sprach zuo vme mich dunkit guot
 Daz mit deme heilgen manne ihern
 habist nit zuo schaffin duo
 wen er gar unschuldit ist
@@ -7547,15 +7095,11 @@ Sin wiste vor leyde waz siede
 Da sie zuo ir selber quan
 ein lutzel iren geist gewan
 Den bodin weinende ane sach
-un iemerlich zuo mie spᷓch
+un iemerlich zuo mie sprach
 we mir we nu sage mir dz
 wamin liebiz kint da waz
 Da dao zuo leste bi vme we
 wawaz min kint myn lieber herre
-
-
-### 0114
-
 waz er lebendit ader dot
 we mir we dez iamers not
 Ich muoz gen zuo mime kinde
@@ -7568,7 +7112,7 @@ Die da hiez maria cleophe
 Martha unde ander frouwen me
 Da vf deme wege maris gine
 grozze clage sie ane vine
-Sie spᷓch auwe min kint min fun
+Sie sprach auwe min kint min fun
 we mir we waz sal ich duon
 Let man mich dich nu nit sehen
 Auwe waz sal mir da geschehen
@@ -7618,16 +7162,12 @@ Ich in kundiz ands muniuerme uerwinden
 Da in die stat maris quam
 ume ginc unde war nam
 wa sie iren suon funde
-
-
-### 0115
-
 Daz sie zuo vme mochte komen
 Sie vant marien magdalenen
 Sten unde sach sie vaste weinen
 Da sie weinen sach marien
 Sie begunde iemliche schinen
-Sie spᷓch maria auwe auwemir
+Sie sprach maria auwe auwemir
 Sage mir maria wanun si
 Myn kint myn sun auwe auwe
 Ist erlebindit ader dot
@@ -7679,14 +7219,10 @@ Daz erude gip zuo bragin mir
 Auowe suon ein luotzel beide
 unde vil meder uon gzein leide
 Eine wile sie vf der erdin lat
-uon gzer unmacht si nit en spᷓch
+uon gzer unmacht si nit en sprach
 Da iht zuo deme dore quam
 Daz cruode eine wile von imie nan
 Edeler frauowin eine goze schar
-
-
-### 0116
-
 Ihuo engene qnamen dar
 Sie weintin vaste dz gze leit
 Dz der suozze ihert leit
@@ -7704,14 +7240,14 @@ Muod lich sie yn unme vinc
 Iren suon fuor sinen mit
 kilste nie dan duosent stunt
 vorweinen itin mochte sie
-gespᷓchen dan auowe wauwe
+gesprachen dan auowe wauwe
 Sie neiget ir heubit of sin herze
 Mit weinen clagete sinen smerzen
-Sie spᷓch anders nit dan auwie
+Sie sprach anders nit dan auwie
 Liebis kint auowie auowe
 Sine muoder trostin erbegunde
 Iherr mit fime suozzen munde
-Er spᷓch vil liebe muoder min
+Er sprach vil liebe muoder min
 Daz dz groz truren din
 Dz duo hast derch den willen myn
 Suoze muoder swig al stille
@@ -7745,15 +7281,11 @@ Abe zogin alliz samit
 Daz er stunt da nackit gar
 Sine reine muoder nan dez war
 Magdalenen ane schrey
-un spᷓch maris auw auwe
+un sprach maris auw auwe
 Gloz myn kint unde nackit stat
 keingewant hane hat
 Ein wiz duch maria gevinc
 Salde zuo einen manne ginc
-
-
-### 0117
-
 Da z er dz balde wlde bindin
 Ihuo daz duch unme sine lenden
 Maris ihere muder duo
@@ -7817,10 +7349,6 @@ Die ierken wie mit gzzer swere
 Ir hertze da bekun mert we
 Da sie yn uf dz erude strecken
 Sach unde uz ein ander recken
-
-
-### 0118
-
 Sine fuozze unde sine hende
 An dez selbiz cruzes ende
 Sie vil iemerliche schre
@@ -7885,10 +7413,6 @@ Godit mich mit mime kinde
 habit mich andez crudes ende
 we mir we we mit we
 Auwe geschruwen umer me
-
-
-### 0119
-
 Au wi myn kint vil minnenclich
 war unme dodit man dich
 Da vil meder uf die erden
@@ -7905,14 +7429,14 @@ vor inhinc gemartilt sere
 Do ihe andeme cruode leit
 den dot der barmehtzekeit
 Sit uergaz zuo hiemel er sach
-un zuo sinen vader spᷓch
+un zuo sinen vader sprach
 Ich bit dich vader herre daz duo
 Den ir scholt uergebist mo
 die mich dodint wen sie sint
 un wis unde gar der sinne blint
 die heidin unde bosin iuodin
 Ihn groz smacheit erbidin
-Sie spᷓchin zuo vme ob duo bist got
+Sie sprachin zuo vme ob duo bist got
 Godis suon der ewige crist
 un kumen bist uon hiemelrich
 uon de sn nie truode nu lose dich
@@ -7951,10 +7475,6 @@ von slegen unde uon blude rot
 Da von gewan sie iamers not
 auch sach sie sine wizen siten
 Daz sie warin also weidin
-
-
-### 0120
-
 Geslan mit geisel riemen
 Fot unde swartz waren diestrinen
 Auch die dornen cronen sie sach
@@ -7967,7 +7487,7 @@ Dez nan die reine mit iamer war
 Sie begunde mit leidegin herzen
 Sunderlich al die smerzen
 Die sie an sime libe sach
-weinen clagin unde spᷓch
+weinen clagin unde sprach
 weinir we vil liebiz kint
 we mir we wie mangerslacht
 dine werndin sint
@@ -8019,10 +7539,6 @@ Lidin liebiz kint fuor dich
 Druder suon weine lezzest duo mich
 weine lezist duo mich lieber suon
 waz sal din arme muoder duon
-
-
-### 0121
-
 wer sal mir nuo andiner stat
 gebin trost helfe unde rat
 Ich blibin nuo weiselos
@@ -8073,7 +7589,7 @@ Daz la kint erbarmen dich
 Ihesus andez cruris aste
 Do begunde weinen faste
 unde sine muoder ane sach
-Mit heisir stunme er do spᷓch
+Mit heisir stunme er do sprach
 Neine muoder magit her
 Duo salt nit habin groze swer
 vine mine groze martil not
@@ -8085,15 +7601,11 @@ Dan al die martil unde der smerze
 Der un lidit der licham min
 So dut mir wirs der iamer din
 Sen iohan ewangeliste
-
-
-### 0122
-
 Stunt auch da bi ihern criste
 vn weinet auch sinis meisters dot
 un sin grozir martil not
 Do ihe sente iohan sach
-Er zuo siner muoder spᷓch
+Er zuo siner muoder sprach
 Suoze muoder mat rein
 Ich mlazzin dich nit allein
 wen din nefe iohan fur mich
@@ -8101,7 +7613,7 @@ Sal zuo einer muder dich
 habin unde an miner stat
 Dir gebin trost helfe unde rat
 Mit iemerlicher stunne duo
-Ihert spᷓch iohanne zuo
+Ihert sprach iohanne zuo
 Iohannes lieber iunger myn
 Ia dir bevolin sin
 Mine muoder of dietruowe din
@@ -8128,7 +7640,7 @@ IEsuos andeme truode schre
 Do yme die martil det so we
 hely help got vader min
 La mich dir benolinsin
-Dar nach spᷓch er mich durstit sere
+Dar nach sprach er mich durstit sere
 von durste lidin ich grozze swere
 Ezzich da ein uuode nam
 Den ezzich goz er inen swam
@@ -8145,17 +7657,13 @@ Ich den durst den er da dulte
 Da ihert den ezzich gedraut
 Durch gzin durst der indo twant
 nuo ist alliz daz geschin
-Spᷓch er an mir dz solde ergan
-Er spᷓch dar na von hiemelrich
+Sprach er an mir dz solde ergan
+Er sprach dar na von hiemelrich
 uader ich benelin mich
 un minen geist in dine hende
 Mit den wortin da zuo stunt
 Sin reine heubit er inder hinc
 uon sime libe sin sele ginc
-
-
-### 0123
-
 Mit so gzir iamer not
 Leit godis suon den bittner dot
 Maria die mat alliz daz sach
@@ -8219,10 +7727,6 @@ un sach dez nuowen sterren schin
 hre an der geburte din
 un auch die kunege die zuo dir
 Quamen unde zeigetin mir
-
-
-### 0124
-
 Mit irme oppir daz duo we
 Got unde all der werlde herre
 grozze freuode ich do gewan
@@ -8286,10 +7790,6 @@ An siu augin streich er daz
 Da von wart ume schire baz
 Er wart inder selbin stunt
 wol sehende undege sunt
-
-
-### 0125
-
 Do ihere mit der martil not
 an deme truode leit den dot
 Groze zeichin da geschahin
@@ -8354,10 +7854,6 @@ uf in sie die arme hine
 Sie kuoste sine arme unde sine wan
 zehersach sie da ane hangin
 Mit irme sleiher sie izabe streich
-
-
-### 0126
-
 Sin antlitze schone waz ume bleich
 Gludit unde geswellin gar
 Mit iam gros nan sie dez war
@@ -8398,7 +7894,7 @@ Daz gedot sin meister waz
 Auch so clagete er unde weinete
 Daz er sin ver leukete hete
 Daz er die vntruwe ie gedede
-Erspᷓch auwnder goze swere
+Ersprach auwnder goze swere
 Ich han uerlorn minen herrm
 Auwe dz ich ie geborn
 wart wie han ich nuo uerlorn
@@ -8420,10 +7916,6 @@ Da mit uerleulon minis herren
 wez hatte ich armer mensche gedacht
 Daz ich hynit indirre nacht
 Also sere vochte den lip
-
-
-### 0127
-
 Daz ich dch ein bose wip
 Minen meister han gelazzen
 Dez muoz ich umer verwazin sin
@@ -8473,7 +7965,7 @@ MAria magdalena hup
 Mit gzer clage einen ruof
 ume irs lieben herren dot
 un dch sine groze martil not
-Sie spᷓch auwi der grozzen sween
+Sie sprach auwi der grozzen sween
 Erslan ist myn lieber herre
 Erist mir zuo dode irslagin
 Auowi daz muoz ich unmer clagin
@@ -8487,10 +7979,6 @@ Geweldeclich uon mir uerdriebin
 er selbin dufil warin siebin
 Da ich quam zuo vme gegangin
 Mit fundin groz waz ich bevangen
-
-
-### 0128
-
 Mimeclichen er mich enpinc
 Da ich weinende zuo vme ginc
 weschin liz her mich sine fuoze
@@ -8553,10 +8041,6 @@ Sinen heilgin licham an sich
 Lebindic wart er undoclich
 Do die sele de den lip ge vmnc
 uz deme grabe lebindic ginc
-
-
-### 0129
-
 uon deme grabe irstunt iht
 Got unde mensche undeginc her uoz
 Daz grap in wart nit of gedan
@@ -8603,13 +8087,13 @@ Daz duo wollis by mir sin
 daz ich mich gemede din
 Mit ureudin nadem leyde min
 Ich wil unmer bu dir sin
-Iherr spᷓch duo muder myn
+Iherr sprach duo muder myn
 uuo en salt min minner werdin an
 Doch mit deme libe den ich han
 Macht duo nit stede sehin mich
 Biz daz duo kunmes zuo hiemelrich
 Maris sprach wa von ist daz
-Icherr spᷓch die wile ich waz
+Icherr sprach die wile ich waz
 In deme libe der doclich
 waz do mochte man stede mich
 horen grifin unde sehin
@@ -8620,10 +8104,6 @@ zuo deme die iuoden drugin haz
 wen er zuo pylito quan
 un orlaup uon ieme nam
 Daz er zuo deme crilte queme
-
-
-### 0130
-
 un ihin uon deme cruode neme
 Iosep der vil heilge man
 Orlanp uon pylato gewan
@@ -8666,7 +8146,7 @@ Noch fulen mochte der lip so reine
 Da sie zuo deme grabe nahin
 Begundin einen stein sie sahin
 Groz ligin of sime grabe
-Sie spᷓchin do wer meinet uns abe
+Sie sprachin do wer meinet uns abe
 Den stein der wart schiere ab ge
 I
 Da zuo den gbe verrauer verraier annamen nomen
@@ -8688,10 +8168,6 @@ Balde die selben frauwen liefin
 Den insign allin zuo samen riesin
 unde sagetin daz erstanden were
 von deme dode ir lieber herre
-
-
-### 0131
-
 Die iungner liefin inder stunde
 zuo den grabe unde iz lere furdin
 Da iht lip was in gebundin
@@ -8707,7 +8183,7 @@ unde ihin da sten vant
 Sie vil nider zuo hant
 unde wolde ime kussin sine fuoze
 Dez ir nit der suoze
-Er spᷓch maria la dz sin
+Er sprach maria la dz sin
 zuo minen mgner gant nuo hin
 un sprich dz sie gen zu galile
 Da sollin sie mich lebindir sehen
@@ -8735,7 +8211,7 @@ Duschin den ungner stunt er mitten
 un sprach nuo sit mit godis uride
 die ign irschrackin alle sere
 Sie wandin daz er ein geist we
-Ihert spᷓch her zuo mir get
+Ihert sprach her zuo mir get
 Mime hende unde mine fuoze siet
 un al minis libes wndin
 Die sint noch frisch ungebunden
@@ -8756,10 +8232,6 @@ zuo ierusalem sie quamen alle
 In ein hus sie alle sazzen
 Alle mit ein ander azzen
 zuo den ulgner in daz huos
-
-
-### 0132
-
 Offinbar qugin ihert
 Er gap in lere manic valt
 un gap in auch da sine gewalt
@@ -8767,7 +8239,7 @@ Daz sie die lude von iren sundin
 Losin mochtin die sie fundin
 Mit truowin unde in lere gebin
 wie sie soldin rechtin lebin
-Er spᷓch nuo vart in alle lant
+Er sprach nuo vart in alle lant
 Daz ich uon uch werde erkant
 zu allin landin ich uch sende
 vn vart auch zuo der wlde ende
@@ -8811,7 +8283,7 @@ Er troste sie mit guder leie
 Daz sie nntwunen swere
 vme sine vart zuo hiemelrich
 Daz sie wol gehabetin sich
-Er spᷓch ich sal nuo varin
+Er sprach ich sal nuo varin
 Doch so wil ich uch bewarin
 Mit enne der an miner stat
 uch troste lere unde gebe rot
@@ -8820,28 +8292,24 @@ uch sendin wil uon hiemelrich
 Dar unme biein ander sult ir alle sin
 unde wartet biz ich her wider
 uch uon hiemel sende her inder
-Dar unme spᷓch er als ich var
+Dar unme sprach er als ich var
 Soblibit by ein ander gar
 Ander stat da sult ir beidin
 uon em ander nit scheidin
 Diz an den dar unde die zit
-
-
-### 0133
-
 Daz ich uch sende
 Von dez hiemelrichis ende
 Den heiligen geist an mine stat
 Der uch lere gebe unde rat
 An deme glaubin vestin mut
 Sip her uch unde helfe guot
-MAria spᷓch min kint min sun
+MAria sprach min kint min sun
 waz sal din arme muder duon
 wilt du nuo herre von mir varen
 Auwe wer sal mich bewarin
 Duo verst of zuo hiemelrich
 Liebes kint weine lezzest du mich
-Ihert spᷓch o muoder reine
+Ihert sprach o muoder reine
 Ich in lazzen dich frauwe nit allei
 Ich han benolin dich iohanne
 Mime frunde den liebin manne
@@ -8857,19 +8325,19 @@ Sin dinstis unde helfe bi
 Dez biedin ich al gemeinsi
 Maria sprach min trost ist clein
 Als duo von mir verst allein
-Ihe spᷓch duo muoder min
+Ihe sprach duo muoder min
 Ich lazzin dich alleine sin
 Einen troster ich dir sende
 von hiemelrichin diz elende
 Daz sal sin der heilige geist
 Der dich trostit lerit unde wist
-Maria spᷓch do wanne sal ich
+Maria sprach do wanne sal ich
 Lieber herre schin dich
 Als uon dir din sele gescheidin
 Sal mit den dode dez salt duo beiden
 zuo dir kunmen ich dan her wider
 uon hiemelrich urauwe her inder
-Maria spᷓch min kint vil liebe
+Maria sprach min kint vil liebe
 waz sal geschehin mime libe
 Als min rorpus ligit dot
 Daz ist miner sorgin not
@@ -8893,15 +8361,11 @@ Sine muoder er sente minnenclich
 un fur of zuo hiemelrich
 Alle die luode die da warin
 Sahin yn zil hiemel varin
-
-
-### 0134
-
 Do er uf zuo hiemel ginc
 Ein wiz wolkin m enphinc
 unde alle die da waren daz sahin
 Engel zwene by ieme stan
-Sie spᷓchin selegin man unde urauwen
+Sie sprachin selegin man unde urauwen
 waz wolt ir hin zuo hiemel schauwen
 Ihert den ir hat gesien
 zuo hiemel varin daz sal geschin
@@ -8937,7 +8401,7 @@ Da sie den heiligen geist enpingin
 Uz dem selbin hus sie gingin
 Mit allen zuongen sie begunden
 Sprechin unde wol kundin
-unemen al die spᷓche der luode
+unemen al die sprache der luode
 Die in der werlt lebint huode
 Der heilige geist daz zeichin dede
 Daz sie kunden alle rede
@@ -8961,10 +8425,6 @@ Uz der stat sie alle dribin
 unde wolden nit daz sie da lil bin
 Da sie von dannen solden varen
 Alle die ihere igner warin
-
-
-### 0135
-
 zuo der mat manen gingin
 Den sen sie von ir enpingin
 Sie sprachin muder unde mat
@@ -8977,7 +8437,7 @@ wir wollen frauwe malle lant
 Da er uns hat hine gesant
 Daz wir sinen glauben leren
 uon sunden auch die lude kerin
-Do spᷓch maria iert muoder
+Do sprach maria iert muoder
 Auwi min vil liebin bruoder
 Mit leit daz hebit sich aber an
 Dez ich nuo waz wordin an
@@ -9003,7 +8463,7 @@ Daz ir alle dan hie sit
 An mines lebins iugester zit
 unde mir gebit uwern sen
 unde miner begrebede wlt plegin
-die iungn spᷓchin alle wir
+die iungn sprachin alle wir
 Er wider kunmen frauwe zuo dir
 Ob uns helfin wil din suon
 Daz wir mogin dz geduon
@@ -9030,10 +8490,6 @@ da maria die reine magit
 Dar na zuo hiemelrich
 Ir suon hette irhabin sich
 Sredis grozzer heilekeit plac
-
-
-### 0136
-
 Mit reinem leben mangin dac
 Allin rin uliz sie dar of kerte
 Daz der gelaube sich auch merte
@@ -9099,10 +8555,6 @@ un danckete ime unde ginc fuor
 Als sie zuo den tenpil quan
 un godis dinst dauernan
 Daz man da sant unde las
-
-
-### 0137
-
 Daz sloz sie iniris herzin vaz
 An enne orte der kirchin saz
 Nechter andacht sie nit uergaz
@@ -9167,11 +8619,7 @@ Sie huoben uof einen spot
 Siezuogin mie an einen roc
 uon pellin dz dadin sie im zuo schande
 py later in da lazzin wolde
-unde spᷓch er we an alle schulde
-
-
-### 0138
-
+unde sprach er we an alle schulde
 Daz wider retin unde uerbudin
 ume die vngetruwin zuoden
 Marien herre daz machte
@@ -9205,7 +8653,7 @@ gabin sie zuocketin den zuo hant
 An sin heuobet da mit in sluogin
 In irein spotte sie in ume zuogin
 uf iren kine wen da neigetin sich
-unde spᷓchin kunnc wir gruozen dich
+unde sprachin kunnc wir gruozen dich
 Sie begundin an in spien
 Dz machte goz in ruwin marien
 Als sie rechte gedachte dar an
@@ -9238,10 +8686,6 @@ Ein ruode da zuo samen goz
 Ezzich unde gallen die bosen werden
 Ihu zuo drinkin buodin
 Da aber of sin heubit uron
-
-
-### 0139
-
 Sazren eme dornen crone
 Den suozzen ihin also nackete
 Vf daz cruote meder strecketin
@@ -9263,7 +8707,7 @@ Da er sie troste vederlich
 unde beval sie iemerlich
 Sente iohanne daz er we
 An sine stat ir sin unde ir herre
-Ihert spᷓch mich durstet sere
+Ihert sprach mich durstet sere
 Ein swarn do an ein sper
 Stachten ezzich unde gallen dar in
 guozzen wer eineme sper uf in
@@ -9310,10 +8754,6 @@ von huondert blumen eme erone
 Den wie dewen git er einen huot
 uon seszic blumen als guot
 Die auch drant heilic leben
-
-
-### 0140
-
 Den sal er drizzit bluomen
 gedachte maria
 Aucher
@@ -9369,7 +8809,7 @@ Als sie von werke muozic was
 Solt sie zuo dem tempil gen
 underwilen muste daz geschin
 An den mitten dage none
-Spᷓch maria die mat urone
+Sprach maria die mat urone
 Dar nach mit dem engil got
 Santen ir daz hiemelsche brot
 Mit grozen ureudin man sie daz
@@ -9382,10 +8822,6 @@ Als maris die mat gaz
 Mieder anir werk saz
 Daz sie mit irme werke gewan
 Daz deilete sie mit den armen da
-
-
-### 0141
-
 Den siechen half sie auch da mide
 Daz waz marien steder siede
 Dez man bedor fre zuder kirchen
@@ -9393,7 +8829,7 @@ Dez plac die reine mat zuo wirken
 Stolin twelen elter duchgnnc
 Daz machte sie wol unde schone
 Als danne begunde sich der dac
-Nleigin maria vesp spᷓch
+Nleigin maria vesp sprach
 Dar er na eine cleine wile was
 Daz I sie auch conplete las
 Als iher maris mit andacht groz
@@ -9452,10 +8888,6 @@ Als sie zit unde wile hede
 Sie rete litzel unde selde
 Sie enkunde fluchen noch schelden
 wasie daz horte da vonsie floch
-
-
-### 0142
-
 un sich von boser rede zoch
 Nunmer sie zuo swen plac
 Mit eiden sie nie wort gesprach
@@ -9466,7 +8898,7 @@ Daz sie auch da miede merte
 Den glaubin der cristenheit
 Der waren minne reynekeit
 hinder rede nit en plac
-Nunmer nicht die fuozze spᷓch
+Nunmer nicht die fuozze sprach
 Da ieman uon betrubet werrde
 Also huote sie irre worte
 Daz sie alzit rete daz beste
@@ -9519,10 +8951,6 @@ an deme crude leit den dot
 Dyomsins was genant
 Ein man unde waz unbekant
 Ume noch ddie cristenheit
-
-
-### 0143
-
 Doch alle sunde waz ume leit
 zuo iherusalem der stat
 Quan unde sente iohannes bat
@@ -9557,7 +8985,7 @@ uoz dem selbin gadem ginc
 mn suozz smac do den enphint
 wo din sins er huob.
 Myt gzer stinme einen ruof
-un spᷓch nuo weiz ich wol dz ist
+un sprach nuo weiz ich wol dz ist
 Godis suon uon hiemelrich erist
 der uon marien ist geborn
 Got der hat sie selber erkorn
@@ -9587,21 +9015,17 @@ unde sin glaube waz erkant
 worden uber alle lant
 Do sente iohan dez inne wart
 Dz daz heilge godis wort
-
-
-### 0144
-
 un cristen glauben hatte zuo genomen
 un wit in die lant waz komen
 zuo der mat marien ginc
 unde die rede gne vinc
-Erspᷓch maris waz dunkit dich
+Ersprach maris waz dunkit dich
 Uf daz dinc stet almyn muot
 Daz ich gerne fuore auch uoz
 Dinis kindis glauobin ihert
 wlde ich in der werlde merin
 Die lude von den sunden keren
-Maria spᷓch zuo sente iohanne
+Maria sprach zuo sente iohanne
 weine lest duo lieber herre mich danne
 wilt duo lazzen mich alleine
 Iohannes sprach ofrauwe reine
@@ -9609,7 +9033,7 @@ Sente iacob den vil heilgin man
 Dinen nefin ich gebedin han
 Daz er dir an miner stat
 diene troste unde gebe rat
-Maria spᷓch die cristenheit
+Maria sprach die cristenheit
 So liep mir ist dz alle arbeit
 Ich derch die werlt wil lydin
 Dez laz ich dich zuo diesin zidin
@@ -9656,10 +9080,6 @@ di machte si sprechen zuo allen stund
 deindz uergicht brach sine glieder
 Dem half maris die mat wieder
 der uon den wazzer wazge
-
-
-### 0145
-
 dem half die mat unbewollen
 uns ein buch vur war dz sat
 Dz maris die reine mat
@@ -9723,10 +9143,6 @@ Dz er von ir heilekeit
 unde von irre grozzen demudekeit
 hat gehort unde uon irre lere
 wie suozze unde wie recht sie we
-
-
-### 0146
-
 Iohannes ume des orlanpda
 Gerne gap unde doch also
 Ob iz marien wille we
@@ -9789,10 +9205,6 @@ unde uerngin waz do ane was
 wider einen brief zuo hant
 Sante den brief schreipsie mit mi
 In den brnes stunt diese rede
-
-
-### 0147
-
 en maria geschribin hede
 ie arme godis dieierinnen
 aris ihesus iungerinnen
@@ -9856,10 +9268,6 @@ In dz hiemelriche enphahin
 unde sie nit lenger wolde lazin
 uf erdin blibin zuo ir sante
 Einen engil uon sines vader lande
-
-
-### 0148
-
 Dbracht ir ein palin gruone
 vn ein gewant wiz unde schone
 In deme paradyse genomen
@@ -9867,7 +9275,7 @@ waz di palin unde auch waz kunmen
 uon hiemel daz gewant
 Gemacht mit dez engils hant
 Der engil zuo marien duo
-Qwan unde spᷓch ir die rede zuo
+Qwan unde sprach ir die rede zuo
 Frauowe maria ich gruozzen dich
 uon dime sune uoz hiemelrich
 Daz duo frauwe salt wesin uro
@@ -9924,10 +9332,6 @@ dz sie quemen fuor daz huos
 ame diemuoder waz ierere
 Daan ein ander sahin sich
 Die isign unde sich bruoder lich
-
-
-### 0149
-
 Enpingin unde kostin sich
 un duchte sie alle wernderlich
 uon uerrin landen dar gevarin
@@ -9964,7 +9368,7 @@ godis muder ane werden
 ver weisit blibin of der erdin
 Maria mit irme suozzen munde
 Grostin sie alle begunde
-Die spᷓch vil liebin min
+Die sprach vil liebin min
 Lat uwer goze clage sin
 ume mine vart unde minen dot
 Asal uch allen wesin guot
@@ -9987,15 +9391,11 @@ unde mit suozzin stume clungen
 In dem hus ein hecht erscheyn
 grozzir dan der sunnen schin
 Ihert siner muoder duo
-Spᷓch mit suozzer rede zuo
+Sprach mit suozzer rede zuo
 Frauwe dich reine muoder min
 Ich binz ihert der sundin
 den duo mat hast gedragin
 In dime libe ich wil dir sagin
-
-
-### 0150
-
 Ich bin kunmen zuo dir
 Daz ich von dirre werlde mit mir
 vil reine muder wil fuorin dich
@@ -10005,7 +9405,7 @@ un salt dich unmer mit mir frauo
 Duo salt werden kuneginnen
 Dez hiemels gebiederinnen
 Da ierin suon maris gesach
-Mit gozin freudin zuo mie spᷓch
+Mit gozin freudin zuo mie sprach
 wilkum suon unde herre min
 zuo der arme muoder din
 wilkun min vil liebiz kint
@@ -10060,10 +9460,6 @@ die vnsin meister ihin crist
 gedragin hat unde doch magit i
 Da di iden hortin daz
 Dz maria verscheidin waz
-
-
-### 0151
-
 un horten auch die mgn clagin
 az sie die reinen uoz solden dragin
 hie woldin ierin aldin haz
@@ -10088,7 +9484,7 @@ man der waz wordin lam
 uo sente peter weinen quam
 Er bat daz er nie beneme
 in leit unde ume z uo helfe que
-rspᷓch gedenke herre dar an
+rsprach gedenke herre dar an
 az ich bin der selbe man
 er dir half unde zuo dir ginc
 Inden garten da man ihin vinc
@@ -10100,13 +9496,13 @@ Dselbin truowen ich dich mane
 der la iu gemezin mich
 hilf mir uon mune vngemache
 Dz mir geschehin ist an dirre sache
-petrus spᷓch nuo biede duo di reine
+petrus sprach nuo biede duo di reine
 Marien di mat dir helfe eine
 unde auch gleube an ihin crist
 der uon ir geborn ist
 ver inan begunde vaste schrien
 An die reinen mat marien
-er spᷓch maris reine mat
+er sprach maris reine mat
 Alliz daz mir ist gesat
 uon dir unde dime kinde ihn
 Dez geleubin ich alliz nu
@@ -10128,10 +9524,6 @@ der wirt in der selbin stinn
 uon siner suochtin gar gesuont
 uon sente ohanes dipalnen en pinc
 der man indie stat ginc
-
-
-### 0152
-
 Die sichin alle zu ime quamen
 Densen von der palmen namen
 Die gleilbin woldin daz
@@ -10196,10 +9588,6 @@ Mit dem engil michahele
 vn fuorte sie in daz hiemelrich
 Dez frauweten alle engel sich
 un sie suongin alle gemeine
-
-
-### 0153
-
 Gelobit min si maris di reine
 relobit sy got der sie erkorn
 at unde ist uon ir geborn
@@ -10263,10 +9651,6 @@ Da sie warin e gewesen
 Da von ich daz hangelesen
 Daz sie wieder in die lant
 Fuorte der heilige geist zuo hant
-
-
-### 0154
-
 Ihe beval sente michahele
 Daz er fuorte lip unde sele
 Siner muoder sente marien
@@ -10328,10 +9712,6 @@ Alliz hiemelisch gesinde
 von diner offart frauwet sich
 Duo salt sin in dem hiemelrich
 Frauowe unde ewege kuneginnen
-
-
-### 0155
-
 un unser freuden ane ginne
 zuo bist bezeichint bideme chrone
 er deme kunege salsmone
@@ -10347,7 +9727,7 @@ Der principater ist genant
 Die engel vor dem chore zuo hant
 fupingin sie alle vrolich
 Mit eime sange wimeclich
-die spᷓchin wilkun mat reine
+die sprachin wilkun mat reine
 az er wolde geborn werdin
 ondime libe mensche of erdin
 zuo bist die gesenete arche
@@ -10393,10 +9773,6 @@ wen duo bist allis lobis wert
 Duo salt unser frauowe sin
 wol uns wart der kuonfte din
 Duo bist des gadises brunne
-
-
-### 0156
-
 Des meris sterre dez hiemels sune
 Duo bist die gerte di moyses drilc
 Da er an den stein miede sluoc
@@ -10458,10 +9834,6 @@ Duo bist bezeichint bin den bainne
 Dez balsames unde dez cynamom
 wen din lip vil reine unde vil hei
 hat alle die wlt gemacht selic
-
-
-### 0157
-
 DAr na fuor moris fur sich
 uf baz in daz hiemelrich
 unde quan zuo deme achten chore
@@ -10525,10 +9897,6 @@ Lop unde ere si dir gesat
 Duo bit bezeichint bi den wol ken
 Dz dem israhelschin volke
 gap schadin dan soldin varen
-
-
-### 0158
-
 Durch die werstin mit iere scharen
 Duo bist die in auch hecht
 gap dz in die vinstermsse ncht
@@ -10581,7 +9949,7 @@ Dez alle kumeriche sint
 Auch der dauofer sente iohan
 grozze vreude gewan
 Da er marien sinen niftelen sach
-Er enpinc sie unde spᷓch
+Er enpinc sie unde sprach
 wilkun maria frauwe myn
 In daz kuomcriche din
 Lop unde ere wir alle dir sagin
@@ -10591,10 +9959,6 @@ vir driebin unde auch ir missedan
 Daz lam erkant ich unde vor win
 uon yme da ich noch vir spart
 In miner muder libe was
-
-
-### 0159
-
 Do si dich swanger sach
 Daz lgin zuo dem iordan ginc
 unde uon mir den dauof enpinc
@@ -10631,7 +9995,7 @@ Die suozzin marien sine bruot
 In den hiemel kunmen sach
 uine sogroze vrende geschach
 Daz meinan daz gesagin mac
-Er enpinc si unde spᷓch
+Er enpinc si unde sprach
 wilkzun liebe vrauwe min
 wilkun minis hertzin schrin
 wilkun ere unde ureudemrn
@@ -10656,10 +10020,6 @@ bi dinein liebin sverne ihn
 Den wir urauowe ich unde duo
 han gezogin minnenclich
 der sal uns machin ureudin rich
-
-
-### 0160
-
 Die heilgin quamen alle duo
 vn die engele auch dar zuo
 vn marien die mat urone
@@ -10706,7 +10066,7 @@ Der sun unde sie vrolich enp nic
 Mit freuoden frauwete sich zuo han
 zuo sines chroius rechten hant
 uf einen chron er sazte sie
-Er spᷓch muoder hie salt du sitzen
+Er sprach muoder hie salt du sitzen
 hie wil ich dich frauwe ergetzen
 Allez dez leidis dez du dich mich
 Erliedin hast hie wil ich dich
@@ -10724,10 +10084,6 @@ Auch mit der merteler lone
 wol gezieret marien crone
 der lerer unde der p degere
 Ir blimen drut di mat here
-
-
-### 0161
-
 Die zwolf apostolen alsant
 Ir blimen hatten dar gesant
 Such die vier ewangelisten
@@ -10746,7 +10102,7 @@ her lobte si von aller ir dugint
 die sie hatte von irre iugint
 Gedraginin gozir heillekeit
 Mit iris libis kuscheit
-Er spᷓch wilkun reiniz vaz
+Er sprach wilkun reiniz vaz
 Da min gotheit inne laz
 Mit den siebin gabin min
 Daz waz daz reine hertze din
@@ -10790,10 +10146,6 @@ Daz ich miner sunde schulde
 vor mines libis ende gebuoze
 Dez hilf muoder unde mat suozze
 tuch sendin ich min diz buchelin
-
-
-### 0162
-
 uon der liebin uranwin min
 Aller der irstuheit gemeine
 Daz sie wizzen wie d
@@ -10849,5 +10201,3 @@ der marien huder was
 Die ihert godis sun genas
 Der selbe ihert muoz uns gebin
 trost dch siner muoder lebin
-
-

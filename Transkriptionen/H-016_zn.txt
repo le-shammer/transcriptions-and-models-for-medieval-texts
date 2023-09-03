@@ -1,7 +1,3 @@
-
-
-### 0001
-
 MAria mutteer konigen
 alle der weerter eȳ erloseern
 Voerleihe mir volkunliche sȳne
@@ -32,10 +28,6 @@ maget wesen an man
 Dys buch heist maria leben
 Dy muß uns ewige frewde geben
 Nu hebz sich das buch an
-
-
-### 0002
-
 Us lert diz buch deer altn ee
 Das in den land zu galiee
 In eyneer stadt was genant
@@ -68,10 +60,6 @@ Dy heylich fraw sent anan
 lebt recht mit irem manne
 An alleer slacht trub sol
 In was mit eȳ andeer wol
-
-
-### 0003
-
 dez gutes warn sie rich
 Do hatten sie gelich
 De teilt ir gut in drey teil
@@ -104,10 +92,6 @@ Do er ru den alter ging
 Sin oppher er in die hant enphing
 Do er es uff den alter legen wolte
 Mit andacht als er solte
-
-
-### 0004
-
 Da daz der prister er sach
 nu moget ir horn waz er sprach
 der prister der hieß ysachar
@@ -141,10 +125,6 @@ und weynund uß den tempel ging
 Anna da von grosses leit ge wan
 daz ioachim ir liber man
 leyt so gros unge mach
-
-
-### 0005
-
 Do von ir hercz leit geschach
 uff rieffen sie zu gotte beyde
 daz er hn urem grossen leyde
@@ -177,10 +157,6 @@ den sussen got uon himel reich
 daz er schir wolde vorkern
 In gros leit und ir swern
 und iren man her wider sende
-
-
-### 0006
-
 do er was in den elende
 do erczeyget yn got sein gutte
 wan wer yn mit de mute
@@ -215,10 +191,6 @@ mit seinen gnadn uber dich
 du solt eyn kint gewȳne
 daz wil er fulle gotlich mȳne
 Ein geburt sol uon dir kunmen
-
-
-### 0007
-
 Dir und aller werld zu fromen
 Daz kint sol ein tochter wesen
 als du wol selber haist gelesen
@@ -252,10 +224,6 @@ Er grust sie vnd sprach zu ir
 Gotes fride sey mit dir
 du wist ein vil selig weyp
 Selig sey deyn sele vnd dein leibp
-
-
-### 0008
-
 Alles dein leid hat ein ende
 Gar an alle misse wende
 daz wil got uon dir treybn
@@ -290,10 +258,6 @@ Do der engel sein botschafft het
 Der frawen gar und gancz getet
 Er fur zu hymel dan
 Do frawet sich sant Anne
-
-
-### 0009
-
 Do Anna fur gein iherusalem
 Joachim enge gen
 Ghir santa Anna quam
@@ -325,10 +289,6 @@ mir ist leit deyn gros swere
 mit grossen frewdn er zu ir sprach
 nu ist leit hein und ungemach
 nu lob ich got uon himel reich
-
-
-### 0010
-
 Daz ich vil liebe frawe dich
 Gesunt und lebende fundn han
 daz macht mich aller sorgn an
@@ -363,10 +323,6 @@ des die reich alle sint
 mit diser rede quamen sie hin
 Anna vnd her ioachim
 Do anna wart maeria swanger
-
-
-### 0011
-
 Je zeit stund nicht langer
 Anna die wart swanger
 doch nicht zu lange daz heilge wip
@@ -400,10 +356,6 @@ In der tauff in ypnd namen
 aller sunde dis kindelin
 In den libe der mutte sin
 wart ledig und loß ge gebn
-
-
-### 0012
-
 also bestund sein heilges lebn
 also wart es ge heiliget
 und uon allen sundn gereyniget
@@ -435,10 +387,6 @@ salem und opphertn marien daz kint
 Gachcig tage daz kint waz alt
 als im sein mutter hatte geczalt
 Anna vnd her ioachim
-
-
-### 0013
-
 dy furen hin gen iherusalem
 und opphertn daz kint gotte
 noch hern meyses gebotte
@@ -471,10 +419,6 @@ Do maia i dem sibende iar wart
 Ju dem tempel ge sint
 O drier lar daz kindelin
 waz alt noch der geburt sein
-
-
-### 0014
-
 Anna vnd her ioachim
 furtten daz kint gen iherusalem
 Ir oppher sye mit yn nomen
@@ -508,10 +452,6 @@ vil gern globte erez yn
 und fur frolich uon danne
 mit yme sin frawe vanne
 Sy furttn mit yn ir liebes kant
-
-
-### 0015
-
 mit fliße phlagn ye sin sint
 der vatte vnd die mutter sin
 lorttn schon daz kindelin
@@ -546,10 +486,6 @@ zu dem tempel ge surt
 D saget uns dy schrifft voer war
 do alt was werdn sibn iar
 maeria daz reyne kindelin
-
-
-### 0016
-
 Joachim der vatte sin
 hEr nam daz kindein bey der hant
 Vund gab ein eyn gut ge want
@@ -582,10 +518,6 @@ wes in dem tempel gebras
 waz zu den alter tuchern gehortn
 der phlagen sie an allen orten
 Sie vorchtn zu alln gezittn
-
-
-### 0017
-
 pfellel ulczig mit syden
 Sament und baldekin
 vanen stoln und bortelin
@@ -619,10 +551,6 @@ daz die Ingfrawen alle glich
 maian hattn sundelich
 lieb in grosser myne
 mit trawen und mit synen
-
-
-### 0018
-
 Sie larten sie wircken und lesen
 dy schrifft und wy soe soltn wesen
 Rechte chlung und uon jugunt
@@ -656,10 +584,6 @@ dye nam alle wunder daz
 maia mochte in Jungn tagen
 also wisen sin getrag
 Sye lobtn sie vnd ir bottn ir Ere
-
-
-### 0019
-
 und dintn ir als ob sye were
 Ir frawe vnd ir konnyge
 Sye erczeigtn ir lieb und gancz myne
@@ -694,10 +618,6 @@ den lalff sye gern daz sye genas
 uber sichn und ub armen
 ließ sie sich gern erbaermen
 Sy fleys sich wo sie mochte komen
-
-
-### 0020
-
 Dan liten allen zu fromen
 kein mensch sie beswete
 alle lute sye ge memlich erte
@@ -732,10 +652,6 @@ ließ sye sich nye gekrenckn
 Sy was gutig und milte
 allen lutn gab sye gutbilde
 mit gutn sitn und mit zuchten
-
-
-### 0021
-
 begnd sye dye werld er luchtn
 han der lichthe mägen sterre
 der schmet in dy werld fere
@@ -768,10 +684,6 @@ und zweheln uber dy bucher
 Gamet schon und baldekin
 Gurtellin und borttellin
 Daz heyssen sye die gotes knechte
-
-
-### 0022
-
 und waz zu gotes dinst zu rechte
 daz sie daz sunge enphingn
 Syne rayt sie angesingn
@@ -804,10 +716,6 @@ Ingotes dinste vnd an yrem gebete
 wan sie gebetes nicht enphlag
 Nu keiner zyt sie mussig lag
 wan also stund ir lebn
-
-
-### 0023
-
 Das irzu wirthin was ge ie bn
 das macht so so meinistlich
 und so rechsubeerlich
@@ -838,10 +746,6 @@ nu mitten iag her ge das bot
 Du alle leg speis sy war
 In den buche ich das lat
 War dah brot das ir gesant
-
-
-### 0024
-
 Von dem wart bendes engess hant
 dy spiß dy ir dy st prist gabn
 dy sant sy das man lubn
@@ -873,10 +777,6 @@ Das ir here mogt g schrenken
 Und falch es icht geden
 Dan vemen kan zude susn
 der du wolt grusse
-
-
-### 0025
-
 Si ankwert demeteclich
 Maia die togentlich
 yeman vollen mag gebreiten
@@ -911,10 +811,6 @@ Ir nas was slecht und wol gethan
 aller slacht wandels an
 Ir mun delin daz waz wunnecklich
 und ir an sehen loblich
-
-
-### 0026
-
 Ir anczlet licht und rosen var
 luter on gebresten gar
 Ir zen war slecht
@@ -951,10 +847,6 @@ daz maia were sunderlich
 Gnaden vol gotes voer himelrich
 Do die prister marien zu manne
 wolten geben
-
-
-### 0027
-
 Sin daz lant uber al
 marien lob erschal
 do virzehn iar alt waz die maget
@@ -992,10 +884,6 @@ noch den gebot moyse
 daz uon deine leibe kone
 Ein frucht der werlde zu frome
 do maria dise rede vor ham
-
-
-### 0028
-
 un meslich sere sie des erkam
 Ir schoene varbe wart voerkert
 wan sie magtis ye be gert
@@ -1031,10 +919,6 @@ Dusent stund schoner dan der man
 des lichtes ist do nyeman an
 der prutegan und der herre myn
 der gib den landn lichtn schin
-
-
-### 0029
-
 Er gib auch den selbe lande
 list und frend mancher hande
 Die frewd nymer ende genyt
@@ -1071,10 +955,6 @@ des landes here hat mich ge nome
 In selbes zu libe vnd mir zu fromen
 Ich han mich ym gegebn
 mit leibe vnd auch mit lebn
-
-
-### 0030
-
 Gost wirt ich nymer mannes weip
 Syn ist mynsele vnd auch myn leip
 Ich wil blibe maget reyne
@@ -1109,10 +989,6 @@ Maia sprach mit mȳne magetunne
 Ich och keinen schadn thun
 Er en mag wer d nicht zu storn
 mit gotes hilff solt ir erhorn
-
-
-### 0031
-
 Daz mein magtim sal komen
 aller werlde zu fromen
 Je prister zu rate gingn
@@ -1146,10 +1022,6 @@ Got undir reynes lebn
 wan ir vatter sie so hies
 Ane wider rede sie es also lies
 Er hatte sie da mit gebundn
-
-
-### 0032
-
 Est sprechtn kunde
 do het he si zu einer brut
 Got gelobet uber lut
@@ -1184,10 +1056,6 @@ So solt ir wissn san zu hant
 und auch mercln daby
 welche ichlich gerte sey
 den edelsten prister sol man gebn
-
-
-### 0033
-
 die gerten in die hant vil ebn
 dur uber sal er den segen
 Sprechn und zu den alter legen
@@ -1222,10 +1090,6 @@ Sie gingen voer des tempels hus
 der prister gegen in er uf
 frolign gegen in ging
 die gertn er uon in enphing
-
-
-### 0034
-
 Er zeichet sie noch der stonme wort
 und saczte sie an des alters ort
 die zndn wartn alle tage
@@ -1261,10 +1125,6 @@ waz sein beuder den sant anne
 noch ioachms tod nam zu manne
 vnd auchuon im eins kindes genas
 daz auch maeria geheissn waz
-
-
-### 0035
-
 Joseph waz ein zimerman
 mit seiner kunst er genag gewan
 alles sein lebn waz gerecht
@@ -1299,10 +1159,6 @@ kusch waz sein reden kusch waz sein sin
 kusch waz sein gen und sein sten
 Er waz kusch und rein
 frawen gewan er nye kein
-
-
-### 0036
-
 Daz der sele geschaden kon
 der sonden waz er aller on
 O die stin war widder komen
@@ -1337,10 +1193,6 @@ do die daz gros zeichn sohin
 Sie alle mit ein ander johin
 daz ioseph wer eyn heilig man
 dem gode die gnade hette gethan
-
-
-### 0037
-
 mit den zeichn wanderlich
 vor aller der werlde schinberlich
 Sie sprochn er wer wert alleyne
@@ -1375,10 +1227,6 @@ die prister sprachn eyn mus sein
 und was unkunt daz lebn din
 Got hat uns ge zeichent dich
 mit eyme zeichn sunderlich
-
-
-### 0038
-
 Joseph der vil heilig man
 In sein sein gebete rieff eran
 Got uon himel daz er sine
@@ -1413,10 +1261,6 @@ daz nye reyner maget wart geborn
 Got hat sie ym selber uß erkorn
 Zu einer frundn us alln wiben
 Sie wil auch umer maget blibn
-
-
-### 0039
-
 Sie hat zu brutegan yn genomen
 dez wil sie nemer wydder komen
 und wil in allem irem lebn
@@ -1454,10 +1298,6 @@ Er fur zu himel rich
 der bothschafft frewet ioseph sich
 Do die prister marien geboten
 Joseph zu neme nr
-
-
-### 0040
-
 Je prister und die pischoff
 Geboten manien in den hoff
 Daz sie zu in queme
@@ -1492,10 +1332,6 @@ du bist mein here vnd mein knecht
 Ich din dir gern daz ist mein recht
 dubist mein hilff und myn rad
 An dir alle myn sele stad
-
-
-### 0041
-
 Du bist man schonste clarheit
 durch dics leit ich gern erbeit
 Du bist mein frende vnd nyn spil
@@ -1530,10 +1366,6 @@ kensch und rein ist auch sein lebn
 den man dir zu mann wil gebn
 her hat blibet alle wip
 kein ist sein sele kenschist sein leip
-
-
-### 0042
-
 Joseph heisset der selbe man
 dar umb saltu dirs nicht swere lan
 wan er ist gotes drit
@@ -1568,10 +1400,6 @@ Je prister und die varise
 Goben noch dem gebot meyse
 Joseph und maren zu samen
 In dem ewigen gotes namen
-
-
-### 0043
-
 do man joseph den gotes trut
 marien zu einer byt brut
 die snden eines siten phlogen
@@ -1609,10 +1437,6 @@ daz zu marien quamen
 die engel gotes uon himeleich
 und retten mit ir schiuberlich
 Sie trosten und larten sie
-
-
-### 0044
-
 und waren ir mit dinste bey
 Synes tages maeria vndr geselle
 Gingen uß den tastelle
@@ -1653,10 +1477,6 @@ Der engel und heillige crone
 ffrewe dich mag reyne
 auß herwelt hat dich got alleyne
 dir wirt gegebn zu lone
-
-
-### 0045
-
 De solt segn uff gotes trone
 In seliger zeit bistu geborn
 Got hat dich zu eniner brut uß erkorn
@@ -1692,10 +1512,6 @@ Ar nach an den trittn tage
 ein newes geschach als ich uch sage
 maeria die gute dleine waz
 In irem gebette als ich laß
-
-
-### 0046
-
 In irer kennaten daz ist war
 Die andern megde do vor warn gar
 die eine ires gebetes phlagen
@@ -1732,10 +1548,6 @@ Er hohet got wil im gebn
 her daidis kongrich
 und gewalt auch in himel rich
 Er wirt auch mit rechte
-
-
-### 0047
-
 konig in jacbs geslechte
 Sin rich sol auch an ende beste
 vnd sal auch munmer zuge
@@ -1772,10 +1584,6 @@ Gotes son uon himel quam
 Er fur uß seines vaters schon
 In maien leib er sich beslos
 dar in mischt er sein gotheit
-
-
-### 0048
-
 In diser kranckn menscheit
 Do dise botschafft do er ging
 maeria maget got enpphing
@@ -1813,10 +1621,6 @@ als der engel hat gesaget
 uff hub sich die werde maget
 Nu irer minen sie do ging
 die sie mit frewden enphing
-
-
-### 0049
-
 Der selbe megde dey sie nam
 Dye ir huttn und quam
 Nu elzabet irer minen
@@ -1857,10 +1661,6 @@ Sie hub do an und sang
 Der sang hat sussen anevang
 Anina mea magmfsat
 donn mein sele hat
-
-
-### 0050
-
 Nu lobene got uon himelrich
 wan er hat geneyget sich
 mit seiner gotlich myne
@@ -1898,10 +1698,6 @@ Gros leit und smerczn
 Er klagte got uon himelrich
 In sin herczn togenl lich
 Sin leit und sein ungemach
-
-
-### 0051
-
 Daz er an maien sach
 Er ge trute dez gote nicht
 daz maeria die maget icht
@@ -1939,10 +1735,6 @@ wir dun dir alle gemenlich kunt
 daz marien reiner munt
 Do du von iherusalem
 Schiet und fur heim
-
-
-### 0052
-
 wir waren bey ir stete
 Sie waz alczeit an irem gebete
 kein mensch uon ir gesprechn mag
@@ -1982,10 +1774,6 @@ Dor umb wolt er nicht unew
 Ir leit noch brenge zu schalle
 Oder i boese rede valle
 doch bat er unsn heren
-
-
-### 0053
-
 Got uon himel daz er lern
 In durch sin gute wolte
 wie er mit maien lebn solte
@@ -2023,10 +1811,6 @@ daz er sie het beswert
 der bet wart er schir gewert
 zu nazareth sie bliben
 mir frewdn sie die zeit utabn
-
-
-### 0054
-
 wan daz ende schir nam
 Der minde mande ane quam
 Die zeit daz die maget here
@@ -2067,10 +1851,6 @@ wan es waz in den geczeitn
 daz man dein konig solt er erbiten
 als ich uch im sagn wil
 do was volckes an zil
-
-
-### 0055
-
 Daz iosech nicht enhette
 Ein eigen herberg nochein bette
 Dez mist er mit marien yn
@@ -2107,10 +1887,6 @@ Der engel quamen dar
 daz sie der megde an ir geburte
 vnd dem kinde zu hilff wurde
 Do wart vuser here geborn
-
-
-### 0056
-
 den got zu sin het erkorn
 von maerren der reinen maget
 als ysaias het ge saget
@@ -2149,10 +1925,6 @@ Dez ich nu genesen bin
 Do ioseph daz kint gesach
 mit frenden er zu im sprach
 wol mich wart daz mus ich schen
-
-
-### 0057
-
 wol mich wart mein angen sehen
 minen got und mynen heren
 minen trost und mynen schoppher
@@ -2190,10 +1962,6 @@ duff ir knye villen sie inder
 und stnden uff wdder
 keynes essen sie do phlogen
 mit wunder sie daz kint on sohen
-
-
-### 0058
-
 wo frawen dar quamen
 do sie von maien vernomen
 daz sie waz eins kindes genesen
@@ -2233,10 +2001,6 @@ we mir daz mir ye geschach
 die torheit daz ich reine
 Greyff an die mannes gemeine
 von got hat ein kint gewonnen
-
-
-### 0059
-
 Ich han mich ubel be sunnen
 Sie begunde die maget maien
 vaste an ruffen und schrien
@@ -2277,10 +2041,6 @@ wer gesach ye den glich
 An gebrochn und an unflat
 wiplicher dinge sie ein kint hat
 Gewunnen und an ungemach
-
-
-### 0060
-
 Daz wuderne noch ne mer geschach
 D maia irs kindes genas
 Zu mitter nacht daz wordn waz
@@ -2316,10 +2076,6 @@ D die rede die hurtn so
 Gnomen sie liffen do
 Sein bechlehem daz kint sie sundn
 In ein rein tuchelin gewundn
-
-
-### 0061
-
 In ein krippn wiz es geleit
 als in der engel hat geseit
 maien und iosph sie sohen
@@ -2354,10 +2110,6 @@ und wert lenger den ein iar
 Daz ist werlich offenbar
 In daz wasser daz do vynet
 und die tiber ist genennet
-
-
-### 0062
-
 In der selbn nacht ging bs
 Der ronnsche konig angusch
 Er hub uff die angen sei
@@ -2399,10 +2151,6 @@ als er geboten het E
 Er het yn allen landen geboten
 daz man in zu einen gote
 zaln solt in allen landen
-
-
-### 0063
-
 Dor umb er sin bilde sante
 In alle sin kongriche
 daz die lute alle gliche
@@ -2443,10 +2191,6 @@ und ein spot dar uz machten
 und alles ob daz nȳmer mochte geschern
 daz die frawe het ge sehen
 Sie hiessn schribn uff die tir
-
-
-### 0064
-
 und graben uff die stein dar fur
 wan ein masset swanger wirt
 maget wesind ein kint gebirt
@@ -2482,10 +2226,6 @@ Daz sie zu tal nicht rinen
 Sie erbuten ere dein ewign bronne
 von dem sie alle woren komen
 und orspenng uon im genmen
-
-
-### 0065
-
 Do er solt geborn werdn
 uon mer muntter hie vff erdn
 sist ein ungellachte mnde
@@ -2523,10 +2263,6 @@ daz got geborn werde wolte
 Do sach man an dem himelrich
 dey sinen sten glich
 Auch sach man sten do by
-
-
-### 0066
-
 voller man dry
 Do dey sonnen zu sannen gingn
 und ein sonne schin enphingn
@@ -2564,10 +2300,6 @@ Sie wolth farn dye fart
 Schir be reitet als wart
 daz sie zudem wege habn solten
 do sie varn wolten
-
-
-### 0067
-
 Golt mirt und whrach sie mit yn nomern
 und zu ein ander sie do quamen
 mit irem ge sinde
@@ -2605,10 +2337,6 @@ Do maeria ir kinde enphing
 der stern sinen schin angefing
 Dy dey kolige in uren kanden
 den stern sahn und auch erkantn
-
-
-### 0068
-
 Daz gotasen gotes sen an sin gotheit
 Genomen het viser menscheit
 uff die stregsn sie wurdn bereit
@@ -2649,10 +2377,6 @@ als der Juden buch gestrib ist
 Noch den konigen sante herodes
 heymeliche fragte er sie des
 wo sie hetten zu dem ersten gesehen
-
-
-### 0069
-
 des stern schin daz sie daz zehen
 die konig die zit die stunt
 Do der stern schin begind
@@ -2674,7 +2398,7 @@ der in den weg erzeiget
 Su bethlehem er sie leyt
 und uff den hus stund der sterne
 dar ynne waz der here
-ffrende groß sie do enphinḡ
+ffrende groß sie do enphing
 In daz hus die konige ging
 die mutter und daz kint sie funden
 daz kint en ein reyn dich gewunnen
@@ -2689,10 +2413,6 @@ des himela vnd der erdn here
 mirren golt wyrach yr vecklich
 dem kinde sie gabn alle glich
 do die konige dei kindelin
-
-
-### 0070
-
 Erpoten Ere daz kint sein
 hand uff hub in engege
 als ob es in geb seinen segen
@@ -2729,10 +2449,6 @@ Su hebde wan er hot
 uff uch gewonen boesen rat
 Die konige mit ieln geferte
 Ein andern strasse sie vber kerten
-
-
-### 0073
-
 und quamen nicht widder zu iherusalem
 Ein andern weg sie furen hein
 Do heodes des Innen war
@@ -2769,10 +2485,6 @@ wan daz er uon romen queme
 vnd wider sein gewalt neme
 von der vort ein iar voer treibt
 Als lange er zu rome bleip
-
-
-### 0074
-
 virzig tag daz kint waz alt
 die ym sein mutter hat gezalt
 Isech nam daz kindel
@@ -2809,10 +2521,6 @@ An sein herze er es zwang
 und hub an und sang
 nnen dinitt donnen
 Gernun tunun in pare
-
-
-### 0075
-
 mit frawden las mich here scheidn
 uon diser werls mit den geleiden
 nu laß mich here lign tot
@@ -2850,10 +2558,6 @@ die do waren uon zwen iarn
 und noch zunger waren
 Ein engel uon himelrich got
 Sant zu soseph und im gebot
-
-
-### 0076
-
 Daz er in egipten lant
 mit dem kinde fur zu hant
 Der engel sprach ioseph dandes son
@@ -2890,10 +2594,6 @@ uff dem felde sie des nachtes lagn
 kleins gemachs sie do phlogen
 die sonne krant sie vber tag
 des nachte in auch we geschach
-
-
-### 0077
-
 Won frost und uon kolten winden
 Daz macht munde daz heillige gesinde
 Dey dem regen und unge witter
@@ -2932,10 +2632,6 @@ Der selbe brim zu tal flos
 daz waz ein zeichn gros
 Sie lobten got uon himelrich
 mit seine zuichn wunderlich
-
-
-### 0078
-
 mit grossen frewdn truncken sie
 vnd dranckten auch daz vieh
 der bawm do sie vnder sossen
@@ -2973,10 +2669,6 @@ do sie gebrachn ire masse
 vnd ir seche fultn uff die strassn
 Jhesus daz libe lindelin
 dem banim gebot daz er sin
-
-
-### 0079
-
 Este vff richte vnd wusche als E
 und dinge seiner fruchte me
 Dey dein baum sie die nacht blibn
@@ -3015,10 +2707,6 @@ und betten an das libe kint
 Sie lieffn uon dann sint
 do daz gesinde gesach daz
 Sie lobten got und furen vobaß
-
-
-### 0080
-
 Je dier in den walde
 die quamen allentalben
 wolff bern und fuchse
@@ -3054,10 +2742,6 @@ Sie wonden es wern ir frawen
 Sie hetten allen iren sin
 Gesagt uff ge win
 Sie sprachn wir seint beratn
-
-
-### 0081
-
 Gegen den gesinde sie balde troten
 do sie sohen an
 daz iosesh der alte man
@@ -3093,10 +2777,6 @@ der selbe schacher het ein wip
 daz waz in lip als sin leip
 do sie daz gesinde sach
 vil sere sie do von erschrag
-
-
-### 0082
-
 mit grossen fliß sie begnde schawen
 maren die sunge frawen
 und auch ir libes kindelin
@@ -3132,10 +2812,6 @@ daz irem kinde zu heil quam
 In sact sie daz libe kindelin
 In ein bat veselin
 und wusch im sein zartn lin
-
-
-### 0083
-
 dor zu haß des sthacheis unp
 Dar zu halff des schachers wip
 Ein schones bet sie iin be reyt
@@ -3173,10 +2849,6 @@ vnd baden sie vmb gnade
 daz sie in ugebn daz leit
 daz sie in hettn in geleit
 Der wirt uon dein hus sich zu hant
-
-
-### 0084
-
 Des selben wassers unkwant
 her behilt es frolich
 und wart do von vil riche
@@ -3212,10 +2884,6 @@ ber do gotes gesinden
 mit ihesu mit dein libn kinde
 mange strassen unbekant
 furen in egipten lant
-
-
-### 0085
-
 Sie furen auch in freide hute
 Do von daz gemute
 Joseh sere wart biswert
@@ -3253,10 +2921,6 @@ und weyne auch mit ir began
 daz waz sein heerczn ungemach
 Do er maniam weynde sach
 Er sprach reyne frawe mein
-
-
-### 0086
-
 waz meint daz wein dein
 nu sage mir reyne marie
 waz bedutet dein wein und schrie
@@ -3294,10 +2958,6 @@ und slieff uff seiner mantter schoz
 daz wasser aus iren angn flos
 uff daz kint daz es erwachte
 Sine mutter es an lachte
-
-
-### 0087
-
 Daz kint sach hangn
 die zeher an seiner mutten wangn
 und sach daz ir augen
@@ -3333,10 +2993,6 @@ Sein dem wetter san zu hant
 begund sich daz wetter lasen
 Seyderalbn bey der strassn
 und macht als ob ein vog were
-
-
-### 0088
-
 Gesazt uber daz gesinde here
 Daz sie nie wurdn naz
 Dez kindes heilickeit macht daz
@@ -3371,10 +3027,6 @@ vß dein banm die teuffel alle
 waz schaffes du ihns hie zu lande
 du wilt werdn unser schande
 we vnd der leydige geste
-
-
-### 0089
-
 wir missen varen zu der helle
 mir mussen rimen vuser este
 disen banm mussen mir rumen
@@ -3409,10 +3061,6 @@ von einer magt ist her geborn
 wir sint vonz im vo lorn
 Er wil uns uon hunnen triben
 we wo sol wir dan bliben
-
-
-### 0090
-
 hnzubrochn sint vuser huset alle
 we iesen du alter lerting
 war frrstu her daz kint
@@ -3448,10 +3096,6 @@ dem einen warn as die hende
 die fusst stechten in der wende
 Der eu lag do bstunmet
 der ander clein zu drunmet
-
-
-### 0091
-
 Zu brochn waz im der rucke
 der ander ge hackt an clein stucke
 dem einen warn ob die bein
@@ -3488,10 +3132,6 @@ wir hetten yn irer not
 Gehulffen bis in vusern tod
 Er herczog enflodisme
 der herr hies alsus
-
-
-### 0092
-
 Der horte den grossen schal
 Inder stad uber al
 Er ließ fragn waz daz were
@@ -3529,10 +3169,6 @@ maiam die maget reyn
 Ir kint in wer schn saß
 Do daz der keyser gesach
 und auch den heiligen selign man
-
-
-### 0093
-
 Joseph bey der frawen stan
 In sinen herczn er sere erschrack
 do er die freide gestesach
@@ -3572,10 +3208,6 @@ mit siner ler gebn schin
 und auch mit den zeichn sin
 uon den kinde jerennas
 der in diß lant vertriben waz
-
-
-### 0094
-
 und einer der heisset ysaas
 der ange ein wyssage was
 die habn gestribn uon dem kinde
@@ -3615,10 +3247,6 @@ unsa gote sal er bergeibn
 Sie mugn nicht uon im blibn
 wan er ist in sere widder
 dar umb fullen sie alle inder
-
-
-### 0095
-
 Und mogen vo im nicht gesten
 als hie nu leider ist gescheen
 auch sag ich uch ver war
@@ -3657,10 +3285,6 @@ Die warheit uon dem kindelin
 und uon den sungen frawelin
 Josaph marim an sach
 verholn er ir in ir er sprach
-
-
-### 0096
-
 Sage mu waz dir ge valle
 Sal ich voer den luten alle
 von dinen kinde vnd uon dir
@@ -3701,10 +3325,6 @@ Daz nu geborn were
 dez himels und der erdn here
 Noch des sterns schin quamen
 und die warheit uon den kinde vnomen
-
-
-### 0097
-
 Do sie noch zu betlehein waren
 Sie quamen und daz kint geborn
 fundn und im oppher brachtn
@@ -3743,10 +3363,6 @@ Do mit ge wan sie genng
 Daz sie sich schan do mit beteng
 uon der stad die frawen
 Enomen und wolten schawen
-
-
-### 0098
-
 Daz kint so mymcklich
 und die mutter soleblich
 Nu diist sie erboten sich
@@ -3784,10 +3400,6 @@ hat sie gemacht daz gewant
 Su massen lang und weit ging
 waz dem kinde ihun der rocd
 mit dem kinde der rock wuschs
-
-
-### 0099
-
 Don den heubt uff den fuß
 also daz er alle zit
 waz lang gung und wyt
@@ -3827,10 +3439,6 @@ also tet nicht der libe ihung
 Sine wort sprach er gang us
 als kindisch und also sunge
 Sine wort er schon gereden knn kunde
-
-
-### 0100
-
 Aia etwan irn son
 den vil liben ihesum
 hiez zu andern kindern geen
@@ -3865,10 +3473,6 @@ Spilen sie zu im gingn
 frewde sie do von enphing
 frolich zu im sie lieffen
 Gelobt sey vuser konig sie rieffen
-
-
-### 0101
-
 Er kinde eins uff einen sten
 Ser fiel und brach ein bein
 Do von gros clage geschach
@@ -3906,10 +3510,6 @@ do daz voleh dez ge war wart
 uon der stad sie do gingn
 Gros leit sie do von enphingn
 Sie begunde alle clagn
-
-
-### 0102
-
 und mochten ir leit nicht wol gesagn
 Sie sprochn nu von hine fert
 daz gesinde der wir nie wurdn wert
@@ -3948,10 +3548,6 @@ daz sie von in solten varen
 uon maren und irem barn
 Sie boten got durch sin gute
 dazer sie mit frewdn wolie behute
-
-
-### 0103
-
 Dseph mit sein ge sinde
 Je maget mit irem kinde
 von egipten furen hein
@@ -3992,10 +3588,6 @@ Jheyn daz kint san zu hant
 nam die mutter bey derhant
 Er sprach mutter volge mir
 wol uber sollen komen wir
-
-
-### 0104
-
 Do es zu den wasser quam
 dy miter es bey der hant nam
 Do er der mutter hant gefig
@@ -4038,10 +3630,6 @@ do von betrngn sich die drye
 pschh ihnd und marye
 hesus manian son do
 nam an allen togende zu
-
-
-### 0105
-
 Er begund mit grosser togent
 an hebn in seiner jagent
 Er udite schir daz
@@ -4082,10 +3670,6 @@ dar d umb det er kindes site
 daz er den teufel deoge do mutte
 die sint esel und eselin
 die daz widder blise myn
-
-
-### 0106
-
 die sprachn daz er ne gelachte
 vnd auch kint spil machte
 Er leit hinger und torst
@@ -4122,10 +3706,6 @@ dez waz daz kint bereit
 mit yrem son ging dy meyt
 und ioseph zu der schul
 daz kint sie dem meinster bewal
-
-
-### 0107
-
 Daz er daz wolt lern
 dar umb wolten si in Eren
 als williglich mit urem lone
@@ -4164,10 +3744,6 @@ much duncket du ein engel bist
 ader von himel goten trist
 Du enhast nicht eins menschn sin
 worden ich daz ge war bin
-
-
-### 0108
-
 Du bist wiser vil dan ich
 nicht mag ich gelorn dich
 Du salt w mimer schul gan
@@ -4208,10 +3784,6 @@ Er sprach waz ist och gescheen
 daz ich uch beide weynde sehen
 Joseph sprach o liber herp
 wir weinen unser gros sw
-
-
-### 0109
-
 ruser frunt ist nu tod
 Der und uz glosser nod
 halff mit siner ken
@@ -4252,10 +3824,6 @@ kuez wil und kindes spil
 do waz sunger kinder vil
 Jhin sie mit in namen
 uff daz velt sie quamen
-
-
-### 0110
-
 Do lein und erde gegbn was
 ihns do iider sus
 mit siner hant zu samen berte
@@ -4296,10 +3864,6 @@ Jhund im des nicht vertrng
 mit sinen hendn er zamen sing
 Er rieff sie an mit einen schalle
 Die fegel wurdn lebendig alle
-
-
-### 0111
-
 In die lifft sie flugen
 den alten indn sie betrugn
 Si flugn mit den andern uon danne
@@ -4339,10 +3903,6 @@ vor frewden sie irs leides vergassn
 die kinde auch zu sanen gingn
 mit frewdn sie sich enphingn
 Jhesus marien son
-
-
-### 0112
-
 Vind daz heillige kint Johan
 Susse waz der kinder rede
 die ir eins zu den andn tet
@@ -4382,10 +3942,6 @@ Der da spricht daz ihn nicht er
 Johes den trufer sehe
 dan er zu dem zordan ging
 und den tauff uon im enphing
-
-
-### 0113
-
 Do habn sie an gelogen
 und sin dar an betrogn
 Sant iohannes des truffers mutte
@@ -4421,10 +3977,6 @@ wan die holczer warn verlorn
 Er stund drurig und ufro
 be den tremen die er so
 hatte gemacht unrecht
-
-
-### 0114
-
 vidd waz gar vuslecht
 Daz kint ihum quam da zu
 Gar unfro vnd den knecht fint mi
@@ -4461,10 +4013,6 @@ die in ioseph her gelossn
 Jhnd mutten quam do zu
 Do daz kint die holhzer zoch
 Sie sprach waz tu tustu libes kint
-
-
-### 0115
-
 Jhns sprach die holczer sint
 Nu kurcz die sollen wir lenger machn
 Do beginde maia tugentlich lachn
@@ -4499,10 +4047,6 @@ uon ihn leidn wir die not
 Do maeria vnd ioseph hortn
 dise rede sie sere forchtn
 Doch wist maeria wol daz
-
-
-### 0116
-
 Daz ir kint unschuldig was
 Sie sprochn zu im lieber son
 waz duncket dich gut daz wir thin
@@ -4536,10 +4080,6 @@ Jhns manna kint
 Gros din gnade sint
 Du hast mir leides nicht gethan
 ungemachs bin ich on
-
-
-### 0117
-
 nuon dir liber here
 Mir ist leit dein swe
 die du leidest durch mich
@@ -4574,10 +4114,6 @@ zu im sie quamen gemeyn
 Geyde gros und kein
 Sie erkanten wol daz
 Daz er ir schoppher waz
-
-
-### 0118
-
 Sie nygn in und erten in
 als ob sie hettn menschn sin
 ver im sie lusfn und spragn
@@ -4612,10 +4148,6 @@ Die andn sprachn mit mocht daz sin
 daz ein so inges kindelin
 mocht behaltn die lere
 Die vo jauber were
-
-
-### 0119
-
 Sint es quam in dise stat
 vil wunders es begangn hat
 wan uon sinen heillign woertn
@@ -4650,10 +4182,6 @@ du komest do von in grosse not
 und nyst semerlichn tod
 Jhun sprach die wyldn ter
 vil wyser seint dan ir
-
-
-### 0120
-
 Sie habn erkant wer ich bin
 Do von sie habn wysen sin
 Sie habn erboten sich mich zu bren
@@ -4688,10 +4216,6 @@ mit namen und geheissn waz
 Joseph und er barabas
 Eowaren auch zwen Jacobi
 Johannen ewangelista waz auch do bye
-
-
-### 0121
-
 ihelin furten und do dry tage warn
 dihns waz zwelff zar waz alt
 als im sein mitter het gezalt
@@ -4727,10 +4251,6 @@ vff der strasse sie gingn
 Sie suchten ihn bey iren feindn
 Sie gingn ein tag weyde
 vnd siechtn daz kint beide
-
-
-### 0122
-
 Do sie sin nirgen fundn
 widder kern sie begundn
 In die stad sie gingn widder
@@ -4767,10 +4287,6 @@ wir suchtn dich dey tage
 mit sorgn und mit clage
 Jhnd sprach sagt umb waz
 Suchet ir mich wysset ir nicht daz
-
-
-### 0123
-
 Ich an dem geschefft mus sin
 des himelischen vatter myn
 Doch ging uon iherusalem
@@ -4808,10 +4324,6 @@ wer der selbe mensch solle wesen
 den got mit snen geist ul
 Machen aller wisheit vol
 Jhns sprach din gotes erist
-
-
-### 0124
-
 kennest du wol wer er ist
 waz sal ich do von sagen
 du hast in ge habn und getragn
@@ -4851,10 +4363,6 @@ wy do vor sin lebn were
 Dez worn wol mirzehn iar
 Des denhan und nicht bwar
 die ver ewangelisten beschribn
-
-
-### 0125
-
 wan daz ein um ist bliben
 Daz er in dryn saren beging
 do er an gesing
@@ -4894,10 +4402,6 @@ der pheten buch alle gemes
 larte ihein ihuns der reyn
 In der wustenunge die zwen ppheten
 maucher hinde frende hetten
-
-
-### 0126
-
 Ingeistlicher kurcz wil
 und die engel quamen untter wil
 Sie dinten ihn nem hern
@@ -4933,10 +4437,6 @@ und an sinen sine wennecklich
 Grosses lobes in die lute zohn
 die in hoten ader sohen
 wan alle wort und alle ding
-
-
-### 0127
-
 Die der susse ihnd beging
 die warn bescheidn und recht
 kusch warhafft und slecht
@@ -4975,10 +4475,6 @@ daz win i rot und rosen var
 On allen wandel gar
 Sin zen warn wis und rein
 Glich dem nuwen helffen bein
-
-
-### 0128
-
 wiß und rot sin wangelin
 warn zertlich und sin
 ditten hette daz kine ein grubelin
@@ -5017,10 +4513,6 @@ Susse rede sie ane fing
 Sie wil ich sagn wie sie ging
 Maucher frage sie begunde
 mit uren son die er wol kunde
-
-
-### 0129
-
 Uß gerichten gar wol
 wan aller wysheit waz er vol
 Sie sprach ich bit dich herr son
@@ -5062,10 +4554,6 @@ Der drer einer wo von ist
 Daz du allem bist my kint
 wordn und auch die andn sint
 Sey dir blibn dey die mit ir gemein
-
-
-### 0130
-
 Ir dey in einer gotheit eyn
 Jhus sprach muntte my
 wyr dey in einer gotheit seyn
@@ -5104,10 +4592,6 @@ den menschn uon den tifel me
 Erloesen der sein eign ist
 und du seller ein mensch bist
 Jhn sprach ein mensch bin ich
-
-
-### 0131
-
 und han genomen dich
 Su einer mutte reyn
 daz der tufel ir kein
@@ -5147,10 +4631,6 @@ daz uon mir geschribn ist
 daz laß dir nicht zu dirre frist
 Du gedenckest wol der rede
 die er suneon tet
-
-
-### 0132
-
 Su iherusalem uon mir
 In dem tempel und sprach zu dir
 uon mynes todes smerczn
@@ -5188,10 +4668,6 @@ fro widder wirt das herze din
 als ich uon den tode erste
 vnd mich salt widder lebendig sehe
 vaia sprach saltu lebendig werdn
-
-
-### 0133
-
 widder uff erdn
 Daz ich dich lebendig schawe
 Jhnd sprach mutte libe frawe
@@ -5231,10 +4707,6 @@ bredign und leren
 In meines vater eren
 do mit die lute die sel behaltn
 In gotlicher gewalte
-
-
-### 0134
-
 Maia sprach lieber here
 Sol ich dich dan nicht sehn mere
 als du ferst zu himelrich
@@ -5272,10 +4744,6 @@ und der engel kesteein
 Jo seph hort ein teil der rede
 die chns mit seiner miltter tette
 Er sprach owe lieber herre
-
-
-### 0135
-
 Die not und die grosse swer
 wie saltu den tod erlydn
 Got helff mir daz ich voer den zydn
@@ -5313,10 +4781,6 @@ und kam zu dem zondan
 uon dem truffer Johan
 Jhns trist din tauff enphing
 Do er sr un der tauff ging
-
-
-### 0136
-
 Der heillig grist uon himel rich
 In ein wwssn tuben glich
 uff ihn stz vil schon
@@ -5353,10 +4817,6 @@ Er bat marian daz sie dar quem
 und ihin iren son mit ir nem
 und daz sie bes siner brute were
 des hette er gros Ere
-
-
-### 0137
-
 Jhesus sin singn man
 und zu der hochzyt mit ir quam
 So sie zu dische sassen
@@ -5395,10 +4855,6 @@ die knecht sohen her myn
 daz wasser ist wordn win
 In die krunge wir wasser gossn
 daz sie alle vber flussen
-
-
-### 0138
-
 Daz hat ihund gemacht zu win
 daz reddn wir bey den holtn din
 Do hieß der selbe schencke
@@ -5436,10 +4892,6 @@ mit seiner ler eristn glawbn
 In die lant uber al
 Jhesus vil schir erschal
 Sin zeichn und sin lere
-
-
-### 0139
-
 wurdn wyte mere
 von im man gros wunder sach
 daz man uon meschn ne gesach
@@ -5477,10 +4929,6 @@ die an dein heubt warn sich
 daz sie nicht Eseme sich
 die do vlorn hattn ire sine
 Sie sie wurdn sunen
-
-
-### 0140
-
 Daz in ihus zu hilff gean quam
 und in ir leit benam
 welcher hande die sichte waz
@@ -5517,10 +4965,6 @@ Er begund zu in gehen
 und hieß sie alle salle sten
 uber die mutter erbarmt er sich
 und ging togetlich zu der lich
-
-
-### 0141
-
 her sprach zu der mutteer las sin
 daz weynde vnd daz clagen din
 zu den toten iln ging
@@ -5558,10 +5002,6 @@ Jhnd sprach die rede luß sin
 und sage mir den namen din
 Er sprach ihnd liber heerre
 vuser ist hie inne noch mere
-
-
-### 0142
-
 In disem menschn snt
 vuser tufel mer den sechs tusnt
 und sechs hundirt
@@ -5601,10 +5041,6 @@ vnd maian cleopha
 Ein edel fei ohhma
 vnd die rein susanna
 vnd frawen ein michel teil
-
-
-### 0143
-
 die ihesus hat gemacht heil
 von iren gebrechn die gingn do
 Mana vnd ihn no
@@ -5638,10 +5074,6 @@ Du wer myn lieber brutegan
 Das my reyner magtam
 uon dir ne gelrencket wart
 Min kuscheit waz mit dir bewaert
-
-
-### 0144
-
 min knecht myn kanrerrer
 miner kuscheit du ein schirmer were
 Du huttest myner jogent
@@ -5677,10 +5109,6 @@ als dich der engel hat gemant
 die lute muw und erbeit
 durch und und groß heczeleit
 daz kint du vff din rucde trage
-
-
-### 0145
-
 alzit du mich uber hube
 Erbeit lieber herre my
 Michel waz die truwe din
@@ -5716,10 +5144,6 @@ din tot ist mir swere
 nu bleibe ich leider allein
 und enfinde trost dekeyne
 wan mein liber son ihunc
-
-
-### 0146
-
 Ist gegangn pdign un
 Indie kint und du bist tot
 Swe mir der grossn not
@@ -5752,10 +5176,6 @@ Er nam sie bey der hant und sprach
 Stand uff und hab din lebn
 daz wil ich dir widder gebn
 Sie stunt uff und wart gesunt
-
-
-### 0147
-
 Wol an der selbn stunt
 Do daz die lute sohn alle
 Sie lebten got mit schalle
@@ -5789,10 +5209,6 @@ Er stunt salle vnd sich vine sach
 und zu sinen zungn sprach
 wer hat ge griffn an my gewant
 und ge rurt mit siner hant
-
-
-### 0148
-
 Sant peter sprach wez fragstu
 wen du wol sihest nu
 daz die lute vff dich dringn
@@ -5827,10 +5243,6 @@ Ein bilde von ein stein hawe
 daz ließ seczn die selbe frawe
 In iren garten daz sie schawen
 machte ihin mit allen treuwen
-
-
-### 0149
-
 und in gehabn mochte in irer an dacht
 dar umb hatt sie daz bilde erdacht
 bie des bildes fussen
@@ -5866,10 +5278,6 @@ do mitte wir in des hingers not
 In alln moeergn btrybn
 beide manne vnd wibe
 wan an wip und an kint
-
-
-### 0150
-
 Der manne sunff tusent sint
 Gwey hindet pheng brot
 Sint hie lugel uoner des hunges sot
@@ -5907,10 +5315,6 @@ daz ihns were ein wir pphete
 den got den werlt gesant hette
 mit ein ander sie do trachtn
 daz sie ihn zu konig machtn
-
-
-### 0151
-
 Daz waz nicht verborgn triste
 Ir aller rede er wol wiste
 Er ging uon in uff einen berg
@@ -5946,10 +5350,6 @@ der ist und selber harte not
 und habn ein liczel fische
 der ist zu klein zu disem tische
 Jhund sprach zu in do
-
-
-### 0152
-
 Tragt brot und sischher zu
 Aus nam die brot
 Den luten allen er gebot
@@ -5985,10 +5385,6 @@ Jhus sprach dil wirst sin fry
 Je doch unrecht tin sie vnd hie
 daz si vff uns icht habn kranckn sin
 habn so ganer hin
-
-
-### 0153
-
 Eynen angel nyn gang fischn
 Eynen fisch salt du erwischn
 dem griff uff si kin
@@ -6026,10 +5422,6 @@ und enphingn in mit lplicher hant
 Sie sprochn hre werstu hie gewesen
 So wer wol ge nesen
 unser bruder der ist nu tot
-
-
-### 0154
-
 Do von wir leidn gros not
 Jhus weyne mit n begunde
 lichaltn er sich nicht enkunde
@@ -6068,10 +5460,6 @@ alles daz ich bittn dich
 daz ich dich in russn hute
 daz din ich durch die lute
 daz sie glaubn alle sant
-
-
-### 0155
-
 Daz du der de wald mich hist gesant
 dar nach let riff ihud
 lazare gang er un
@@ -6110,10 +5498,6 @@ die waz zu bethama
 Jh marthan und marien hud
 do daz zeichn ted uß ihesns
 Jhesus in den ge zyten
-
-
-### 0156
-
 wolt die martir litn
 Do er hin gen solte
 Do er die martr lidn wolte
@@ -6151,10 +5535,6 @@ Jhus trosten do begunde
 Sine mutter als er wol kunde
 mit siner rede mynicklich
 daz sie wol ge hette sich
-
-
-### 0157
-
 In allen gab er den segn sin
 und sprach lat uch be velen sin
 Ain mutte vnd gung un
@@ -6190,10 +5570,6 @@ die jungn wol vor antwten daz
 wir sagn uch daz ane haß
 unser here ist noturtig sin
 do sprachn sie furt es hin
-
-
-### 0158
-
 den esel die Jungn gote brachten
 mit dren sie in darvff brachtn
 dar uff leite sie ire kleit
@@ -6228,10 +5604,6 @@ Einen vad sie mit ein ander hatten
 uff ihns tot sie alle riten
 MIt den luten ging ihun̄s
 In dem tempel salo moien hus
-
-
-### 0159
-
 Do vant er Inne wechselere
 kaufflit und phragnere
 vil hattn alle die
@@ -6268,10 +5640,6 @@ und den engeln ungekein
 und den luten wid der zein
 Sie sprechn und loren wol
 doch ist ir hercz sundn vol
-
-
-### 0160
-
 Vugetrewe vnd falsch sie sint
 und mit gesehendenangn blint
 Sie wisen mit blindn augn
@@ -6308,10 +5676,6 @@ Ir solt den grebern glich
 do man sine begrebet die rich
 die vzsene sint geziret wol
 und sint Jine stanckes vol
-
-
-### 0161
-
 hoeren sie yeman gebn
 lob umb sin rechtes lebn
 Do habn sie haß und myt
@@ -6348,10 +5712,6 @@ und in ahit vermahet
 der och zu gebis nicht en hat
 dich huser ir gern suchet
 wan ir nicht enruchet
-
-
-### 0162
-
 Daz sie vch so erfulln
 daz sie selber hingers swilln
 Je schriber und die pharise
@@ -6386,10 +5746,6 @@ Sie alle trachtn begundn
 wie sie ihm urate kindn
 Ir under den zungern einer waz
 der waz geheissn Judas
-
-
-### 0163
-
 der waz scheffner
 der pungern und kemerer
 Indas sich uon gote schiet
@@ -6424,10 +5780,6 @@ Sie begundn alle fragn
 und in sagn sie botn
 daz er in zeige wolte
 der in braten solte
-
-
-### 0164
-
 Jhus sprach daz wisset
 ober disem tisch er siczet
 der mich noch hint uratn sal
@@ -6461,10 +5813,6 @@ daz ir lebt brnderlich
 und mit ein ander lebt ubde
 daz die lute sin Jinen werdn
 daz ir myn singern syt
-
-
-### 0165
-
 wan nu komen ist die zot
 daz ich sol vo vch scheidn
 Ge dulticlich ir solt beittn
@@ -6500,10 +5848,6 @@ hast voer ne gesehn
 daz saltu mit eidn zehen
 zu den pngn do ge mem
 Sprach ihunc der reyn
-
-
-### 0166
-
 Ir ensult uch nicht gedenckn leide
 wan ich uon uch scheide
 Ir solt mich schire schawen
@@ -6538,10 +5882,6 @@ daz er sie icht betrubn mochte
 vnd mit gedanckn icht usuchte
 vnd in branckheit gesende
 von in ging ihins an ein ende
-
-
-### 0167
-
 An dem gebete sin er inder lag
 und zu sein vatter sprach
 Got vatter myn ich bin bereyt
@@ -6576,10 +5916,6 @@ wachet und stet uff alle
 Sie kome mit grossem schalle
 die mich nu wolln vahen
 pingen und zu tode slahen
-
-
-### 0168
-
 In der selbh wil dar
 Anam ein michel schar
 Swert sie trugn und sper
@@ -6616,10 +5952,6 @@ und sprach ane rabt̄
 unser herr sprach dem gruß ist by
 Gorn untrewe vnd haß
 wan du mich bratn hast
-
-
-### 0169
-
 we dir judas du armer man
 war umb hastu daz gethan
 wie han ich daz ver dint umb dich
@@ -6653,10 +5985,6 @@ rate die Inden alle do
 den fingn und lieffn zu
 vusern hern sie bundn und flungn
 als eine dip sie vmb zugn
-
-
-### 0170
-
 und auch in den selbn stundn
 wurdn im in hende gebundn
 als gebundn furten sie yn
@@ -6691,10 +6019,6 @@ En snd slng vusern hern do
 vnd sprach wie antost tu so
 dem bischoff do sprach ihud
 habe ich ubel geret sus
-
-
-### 0171
-
 Do widder ich die warheit han
 Geret war umb wiltu mich slan
 Geznge sie suchn beginden
@@ -6729,10 +6053,6 @@ Sie sprochn alle sage vnd mu
 Gotes sin daz bistu
 vuser here sprach daz bin ich
 Gotes son uon himeleich
-
-
-### 0172
-
 Der bischoff zu reiß sein gewant
 Er sprach ir hort alsant
 daz er sin selb hat gesehn
@@ -6765,10 +6085,6 @@ Ich weis nicht waz die rede ist
 An mir du betrogn bist
 Do in die andn Indn sohn
 Gememcklich zohen
-
-
-### 0173
-
 Daz er ihus sung wen
 uon sin lebn uon siner lere
 Sie sprochn wir hoern daz
@@ -6802,10 +6118,6 @@ wil mit siner niwen lere
 Er hat ge sehn man sol nicht gebn
 Den keisser zins umb unser lebn
 und ein konig heist er sich
-
-
-### 0174
-
 und gotes son uon himel rich
 pilath zu den sudn sprach
 Do er vusern hern an sach
@@ -6842,10 +6154,6 @@ uon den keister phlag er des
 Gu iherusalem waz er do
 leodes und alle die sinen dar zu
 von pilate wart gesant
-
-
-### 0175
-
 vuser here heedem zu hant
 do er vor heodem quam
 kein wort er uon ihn me vnam
@@ -6881,10 +6189,6 @@ Er hat in unschuldig gelan
 mir widder gesant als ein rechtn man
 Die Judn sprochn wir dir sagn
 mit richt mir in soln zu tode slahn
-
-
-### 0176
-
 und sal by und nicht lengerlebn
 du solt urteil uber in gebn
 daz man im anlege den tod
@@ -6920,10 +6224,6 @@ waz er uch leides hat gethan
 daz wirt im alles abgenomen
 und last in also derkomen
 mit den libe an den tot
-
-
-### 0177
-
 wan gros genag ist sin not
 die suden swngn salle
 Diß waz ir aller wille
@@ -6961,10 +6261,6 @@ Do wart er uon der sul ge nomen
 pilatz hieß die knecht kumen
 Dytriben do iren spot
 Gnen alten phellile roch
-
-
-### 0178
-
 Im siean zugn zu smacheit
 Ein dornen kron do zu bittekeit
 Ein rar gabn sie im in sin hant
@@ -6998,10 +6294,6 @@ Ir mich daz geheissn hat
 daz ich van konig slahe
 vnd in an ein trucz hahe
 do sprachn sie gemein
-
-
-### 0179
-
 wir enhabn konig kein
 der keiser ist unser herr
 widder sagt hat her im vil sere
@@ -7040,10 +6332,6 @@ daz du totest mich
 pilach wolde vnst hern han
 lebn laßen und sin strasse gan
 do begundn rusfn die zudn alle
-
-
-### 0180
-
 mit zorn und mit schalle
 Si sprochn lessestu lebn n
 So enhastu nicht rechtn sin
@@ -7079,10 +6367,6 @@ one sine vnd ane rede
 Sie enwuste nicht waz sie tet
 do sie zu ir selber quam
 und ir sine in iren geist genan
-
-
-### 0181
-
 den boten sie weynde an sach
 Jemerlich sie zu im sprach
 we mir nu sage mir daz
@@ -7118,10 +6402,6 @@ des ich mich lange han bsehn
 wan ich han uon langer zyt
 den hast gewust und den nyt
 Groß smacheit durch sin lere
-
-
-### 0182
-
 Sie im erbuten do von mir men
 dicke quamen alsie daz begen
 woltn daz nu ist gescheen
@@ -7158,10 +6438,6 @@ Stend und ser weynden
 do sie sach marian weynde
 Sie begunde seinlich scheyen
 Sie sprach maia owe owe
-
-
-### 0183
-
 Sage mir wo myn kint sy
 Ist er lebend ader tod
 Oder welcher hande lydet er not
@@ -7198,10 +6474,6 @@ mit mutliche stunne sie riese
 we mir myn kint myn lieberson
 Ich waz wil man dir thun
 we mir herze libes kint
-
-
-### 0184
-
 wie swer dine birden sint
 uff dein rucke waz diegstn
 we myn libes kint ihun
@@ -7238,10 +6510,6 @@ voer weynen sie nicht mochte me
 Gesprechn den owe owe
 Sie neygte ir heubt uff sin herge
 vnd clagten sinen grossen smerczn
-
-
-### 0185
-
 Sie sprach nicht den alles we
 min libes kint owe ewe
 vus trosth do be gunde
@@ -7277,10 +6545,6 @@ die galgata den nomen hat
 dem susse gote sin gewant
 Sie abzogn san zu hant
 daz er stund mackent gar
-
-
-### 0186
-
 die susse maeria nam des war
 Marien magdalenen sie an scheye
 Sie sprach owe mym herczn we
@@ -7317,10 +6581,6 @@ und mit den fussen iuder zogn
 Sie wolten auch die fusse habn
 mit zwen nagln geslagn
 des mocht ge nicht getham
-
-
-### 0187
-
 wan es nicht state getes sen
 Er waz nachet und bloß
 Ein bein er mit den andn beslos
@@ -7358,10 +6618,6 @@ Si mit grosser clage schre
 we mir armen dirne we
 we myn kint daz ist ni tot
 we mir we der grossn not
-
-
-### 0188
-
 we daz ichye wart geborn
 wie han ich myn kint ulorn
 helfft frawen und man
@@ -7399,10 +6655,6 @@ do ich hot der engel sang
 und sach des sterns schin
 herr an der geburte din
 und die konig zu dir
-
-
-### 0189
-
 Enamen und zeigtn dir und mir
 mit irem oppher daz du we
 Ert und dir werld here
@@ -7440,10 +6692,6 @@ Owe mir der grossn mot
 wolt mir komen nu der tot
 daz er ente myn lebn
 und ich mueste an dein trucz clebn
-
-
-### 0190
-
 und ich mein ende dar an nem
 daz ich des samers abe quem
 Aria die mayt daz alles sach
@@ -7480,10 +6728,6 @@ do stund sie vff und hin vil sie indder
 auch sag sie dar und er widder
 An welcher nod were
 Ir kint ir lieber here
-
-
-### 0191
-
 Sie sach daz erncz uff hebn
 und iren sondar an klebn
 mit negeln dar an geslagn
@@ -7521,10 +6765,6 @@ die dir leyder ist geschehn
 laß mich mit dir ersterbn
 Ich muß doch noch dir beerbn
 Ich mag nicht ge lebn an dich
-
-
-### 0192
-
 Nent ir hern und totet mich
 mit myn libn kinde
 hohet mich an daes auczes ende
@@ -7560,10 +6800,6 @@ du hast er lost vil der lute
 nu her loß dich selber hute
 du woltest machn den tempel widder
 In dryen tagn vil er inder
-
-
-### 0193
-
 Guser frawen clage die waz gros
 Aria die mayt do zu lieff
 mit jemerlich stunne sie riesf
@@ -7600,10 +6836,6 @@ die yn in sin heubt stach
 Uz siner swarten dranck daz blit
 Do von betrubt wart ir mit
 auch sin anczlet mynecklich
-
-
-### 0194
-
 vufletig und bespnet gar
 Dez nam sie mit samer war
 Sie begundn mit irme herczn
@@ -7640,10 +6872,6 @@ vil suses kint gewere much
 des ich nu bite dich
 mit dem tode in disem leide
 las mich uz disem leide scheydn
-
-
-### 0195
-
 we mir kint meyn vil liber son
 waz sal dein arine mutter thun
 mit jamer mus ich viner weynen
@@ -7680,10 +6908,6 @@ we mir der tode auch mich
 Daz ich mit meinen libn kinde
 mein vil armes lebn ende
 we mir we der grossn not
-
-
-### 0196
-
 we rnes kindes tot
 daz ich den nu mus an sehn
 wan ich mag do von iich gegen
@@ -7719,10 +6943,6 @@ reine mutter maget here
 habe mit so grosse swere
 vmb mime grosse matir not
 und meinen seilerlichn tot
-
-
-### 0197
-
 wan susse mutter und frawe
 daz samer daz ich an dir schaw
 vil mer krencet myn hercz
@@ -7759,10 +6979,6 @@ Geredn do sprach her here
 Awe mir der grossn swere
 daz du lieber her solt leidn
 den tot und uon uns salt scheydn
-
-
-### 0198
-
 Min frawe dy reyne mutter dein
 dy sal mir wol befeln sein
 Ich wil gern ir diner sein
@@ -7799,10 +7015,6 @@ Sein reines heubt her inder hing
 uon sine libe dy sele ging
 mit so grosser matir not
 leyt gotes son den bitterntot
-
-
-### 0199
-
 uden und heydn do
 In der weyle gugn zu
 Si quamen zu den schechern zwen
@@ -7837,10 +7049,6 @@ der sonnen schein do vging
 Do hund an den trucze hing
 Ein gros vinsternß do geschach
 an der sonnen umb den mitten tag
-
-
-### 0200
-
 der man verloß sinen schin
 Mlt var wart die frawe sin
 und die toten lebenig und gesunt
@@ -7880,10 +7088,6 @@ In abe zu lose an ungn
 maeria valde lieff dar zu
 vnd halff yn als sie wol mochte do
 mn daz irnz sie ir hende hing
-
-
-### 0201
-
 mit armen ir kint umb fing
 Jemerlichn sie in an sach
 Do her tot voer ir lag
@@ -7921,10 +7125,6 @@ hatte gemacht us enen steyn
 Daz waz nu vnd rein
 In daz grab den lichnan do
 lechtn und dechtn zu
-
-
-### 0202
-
 mit einen stey der waz breyt
 Den hattn sie dar zu bereyt
 maeria die maget waz do
@@ -7962,10 +7162,6 @@ daz ich so schir uon minen wortn
 meines heren solde leuckn
 So daz ich yn mit mynen angn
 hette noch yn nye ge sehn
-
-
-### 0203
-
 wie waz mir zagn so geschehn
 daz ich wolde mein eyd swern
 da mit verleuchn mynes hern
@@ -8004,10 +7200,6 @@ daz hat gemacht die vitrew mein
 Auch entar ich komen mit
 an meines mensters an gesicht
 wan her von dens tod auff stet
-
-
-### 0204
-
 und widder zu seinen Inng get
 Durch sein gute trost er mich
 daz her noch erbarmet sich
@@ -8045,10 +7237,6 @@ her ließ mich waschen sein fisse
 mit mynen den vil sissen
 uon mynen sundn er luch loste
 vnd mit seinen wortn troste
-
-
-### 0205
-
 des muß ich nu gnadesagn
 und seinen tod mit leyde clagn
 Ich und auch myn liebn swester
@@ -8087,10 +7275,6 @@ In sein hute vnd fur heim
 In die stat zu iherusalem
 Do dint er ir mit gangn trawn
 und trost sie an ire ruwe
-
-
-### 0206
-
 wie ihesus zu der helle fur
 D ihuns yn leyt den tot
 dy sele mit grosser not
@@ -8126,10 +7310,6 @@ und trost sie vil mynnicklich
 Marian grosse frewde geschach
 do sie iren son an sach
 Daz her lebenig werdn waz
-
-
-### 0207
-
 mit grossen frewdn sie vgas
 allen des leides und des smegn
 den sie hat an irem herczn
@@ -8168,10 +7348,6 @@ doch mit dem libe den ich han
 machst du nicht stete gesehn mich
 wan so du kamest zu himelrich
 maeria sprachwo von ist daz
-
-
-### 0208
-
 Jhesus sprach dy wil ich waz
 In dem lebn daz totlich
 waz do mocht man steclich
@@ -8207,10 +7383,6 @@ wan daz ihnd uon tode
 Erstund daz gelobte er gote
 Vus im erschein umb daz
 Su hant do er erstandn waz
-
-
-### 0209
-
 s sant peter ihunon do quam
 und ym sein grosse cagebenam
 die her hatte allein umb danz
@@ -8244,10 +7416,6 @@ Ir lieber her ihun̄s trist
 daz sie gen zu galibe
 da solln sie in alle sehn
 die selben frawen alle lieffen
-
-
-### 0210
-
 den zungn alle zu samen riesfn
 und sagten daz er stand were
 von den tode vnser lieber here
@@ -8285,10 +7453,6 @@ und sein fusse kosten sie
 Sine wundn auch da by
 Trst trost sie mit guten wortn
 do von sie alle gefrewet wurdn
-
-
-### 0211
-
 DI iungern uon der Judn sorgn
 war in ein huß voborgn
 die thur waren fast bespart
@@ -8326,10 +7490,6 @@ wie sie soldn recht lebn
 her sprachim furt alle lant
 daz ich werde von euch bekant
 Ju allen landen ich uch sende
-
-
-### 0212
-
 und vart auch zu der werld ende
 daz ir meinen geaubn leret
 uon sunde auch die lute beberet
@@ -8369,10 +7529,6 @@ Sie alle bey eyn ander fant
 her trost sie mit susser lere
 Daz sie nicht gewine swere
 vmd sein furt zu qunelreich
-
-
-### 0213
-
 daz sie wol gehetten sich
 her sprach ich sal nu von hyne varn
 doch so wil ich uch bewarn
@@ -8410,10 +7566,6 @@ Auch bit schalle zungn meyn
 daz sie woldn schon phlegn dein
 mit dinst und mit ratellere
 vnd dir benemen alle swere
-
-
-### 0214
-
 auch bit ich dise frawen
 Daz si dir mit allen trumen
 mit dinst und mit hulff sembey
@@ -8454,10 +7606,6 @@ O die rede man ende
 Jhuns trist hub uff sein hende
 vnd seget alle de dol war
 und begende vff zu himel varn
-
-
-### 0215
-
 Sine mutter ge segel er myneclich
 und fur aus schon zu himelrich
 alle die lete di da warn
@@ -8494,10 +7642,6 @@ ms der hente ereiget sich
 furige zungn gar gehelich
 uff den gesten di da zu samen
 komen warn in gotz namen
-
-
-### 0216
-
 Der heillige grist fur in sie
 vnd macht sie von sorgn fry
 Trost und lere gab her in
@@ -8519,7 +7663,7 @@ Dar aimen lute vnd ferr gesarn
 und ir icklich da erkente
 vnd heit die sprach uon sinen lande
 hesus qugn uz da gingn
-und zu sdiḡ an vingn
+und zu sdig an vingn
 Eristen glaubn eber al
 do ben zu hant eyn gros schal
 und haß er heb sich uonden indn
@@ -8534,10 +7678,6 @@ Gu der maget marian gingn
 Den segen sien uon ir enphingn
 Sie sprachn mutter und maget
 unser not sey dir geclaget
-
-
-### 0217
-
 wir missen fraw uon hynen varn
 Got dei kint miß dich bewarn
 Do sprachmala ihnon mutter
@@ -8575,10 +7715,6 @@ daz sie icht blibe alleyne
 auch maeria magdalend bleib eyn wil
 und ander frawen vil
 und der maget swester zwe
-
-
-### 0218
-
 Gant prob bleib auch do
 wan im zu brachn waz eyn beyn
 daz hernicht wol mocht gege
@@ -8613,10 +7749,6 @@ den hatt ihus daz ge heissn
 daz her ihus miger were
 vnd wolte felgn siner lere
 wir lesen uon dein selben manne
-
-
-### 0219
-
 daz her gelihn hat sant Joganne
 Ein hus dar znme dy maget he
 Maria gocz mutter wen
@@ -8656,10 +7788,6 @@ als gotes dinst man dyn ende
 Nu got reicht maeria ir hende
 Sie befel sich got und ging do v
 widder zuchtentlichn hein zu iren hus
-
-
-### 0220
-
 Aulich in den selbn stundn
 wart bebart uon sinen sundn
 Do kam her zu iherusalem
@@ -8696,10 +7824,6 @@ und gabn alle der warld here
 daz ihuns epns gocz sun we
 Der umb alle der werld not
 An dein erncz leyt den tot
-
-
-### 0221
-
 vonusias genant
 wol eyn man und wol bekant
 waz im noch die tristenheit
@@ -8738,10 +7862,6 @@ Er spracham weys ich wol dazist
 Doh sun uon himel trist
 der uon maria ist ge born
 Got hat sie selber auß erkorn
-
-
-### 0222
-
 Nu einer mutter und ir gethan
 hatt gros gnade die ich han
 mit mynen angn nu gesehn
@@ -8776,10 +7896,6 @@ her sprach fraw was duncht auch git
 uff daz ding stet alle meyn mut
 daz ich gerne fur auch uß
 dines kindes glauben ihesnch
-
-
-### 0223
-
 wolt ich in der werld leren
 Dy lute von den sundn bekern
 maia sprach zu sant Johanne
@@ -8817,10 +7933,6 @@ Eu iherusalen und ir shlung
 Sant jacob ir swester son
 uon den herendnt ich thun
 daz her ihn waz glich
-
-
-### 0224
-
 An sinen auczlet mymclich
 uon allen landen die lute quamen
 Eu marian und uon ir namen
@@ -8859,10 +7971,6 @@ wir anngn mrgel vor dir blibn
 dia maget reynet maget
 du hast uns dich bsaget
 Ein kint voerborgn vor uns trugst
-
-
-### 0225
-
 mit den kinde vns alle er slagst
 Do daz kint geborn wart
 man im eyn groß oppher tat
@@ -8900,10 +8008,6 @@ dar umb schreyb her mir seiner hant
 Einen briff und alzu hant
 Sant malein ignach
 der selbe briff sprach alsus
-
-
-### 0226
-
 Er reynen gotz tragerey
 der tristenheit be gynerm
 Der sussen mutte vnd maget
@@ -8942,10 +8046,6 @@ Ist glich als er sein brnder we
 Sie von vatter und uon muttere
 wir woltn den auch gene sehn
 mocht daz mit deinen wiln geschehn
-
-
-### 0227
-
 mag daz an dinen gnadn gesein
 Eo sent uns frawe ein briffelin
 Sollen wir kumen ader dlbn
@@ -8986,10 +8086,6 @@ Noch so hat er selber gesehn
 Dy zelichn dy der sein geschehn
 uon mynen kinde offenbare
 In der werlt gemnen ware
-
-
-### 0228
-
 Do her waz und daz geschach
 waz myn aben binde geschach
 Daz her mit grosser matr not
@@ -9027,10 +8123,6 @@ Der engel zu marian da
 kam und sprach ir dise erde zu
 fraw maeria ich grusse dich
 uon dinen son uon himelrich
-
-
-### 0229
-
 daz du fraw solt wesen fro
 wan du hast gelebet also
 daz alle die zu hienl sint
@@ -9072,10 +8164,6 @@ Sie wenten beide tugetlich
 wan sie gescheidn solde werdn
 uon ein ander uff der erdn
 In der zeyt di zingern sant
-
-
-### 0230
-
 der heillige geist auß alle lant
 Su iherusalem hu samen
 Do sie zu ein ander quamen
@@ -9117,10 +8205,6 @@ dazir alle kinnen seyt
 Su meiner libn lecztn zeit
 min uscheidn solt ir alleer sehn
 und mein bigrafft schon be gen
-
-
-### 0231
-
 den lichnan solt ir auch bewarn
 als ich sol uon hin varn
 die mugn fur die maget here
@@ -9162,10 +8246,6 @@ In dei libe ich dir sage
 Ich bin kumen nu zu dien
 Daz ich uon diser werlde mit mir
 vil reine mutter furen dich
-
-
-### 0232
-
 In daz ewige himelrich
 do saltu frenne schawen
 und solt dich uner mit mir frawen
@@ -9205,10 +8285,6 @@ Jhns zungn dar gngn
 Den heillign lichnen mit der bar enphingn
 und gnagn do gein josaphat
 Durch iherusalem die stat
-
-
-### 0233
-
 die balne trug der heilligeman
 vor der bar sant johan
 Sie begunden alle clign
@@ -9244,10 +8320,6 @@ liff da zu mit grossen schalle
 mit seinen henden an die bure
 Greiff daz wart ym zu swere
 her wolde den heillign lichnan zihn der nyder
-
-
-### 0234
-
 Da von ym leyt geschach der wydee
 Weyde sein hende wurdn lam
 Daz lon her seyner losheyt nam
@@ -9288,10 +8360,6 @@ wart der sebe man gesunt
 petes sprach do zu den munne
 nym die balme von iohane
 vnd ganck mitten in die stat
-
-
-### 0235
-
 wer suchen an sinen libe hat
 Glewbet er daz ihnd tist
 uon eines maget geborn ist
@@ -9333,10 +8401,6 @@ die sungn und auch dy reynen wyp
 die nomen do den heillign leip
 recht und schon daz berentn
 In daz selbe grob sie regten
-
-
-### 0236
-
 uber habn sie danicht enkunden
 alle zemerlich begandn
 weynen clagn und schreyen
@@ -9378,10 +8442,6 @@ In der selben wil waz
 vo de andi vz gegangn
 Sin gebet hat er in gesangn
 Do her an sin gebet lag
-
-
-### 0237
-
 Schinbarlich er daz alles sach
 Daz also mit sant michael
 furte beyt llb und sele
@@ -9420,10 +8480,6 @@ Sie baachn uff und namen abe
 den stein ub den grabe
 vnd anders nicht enfundn da
 wan limel brot daz do heisset manna
-
-
-### 0238
-
 alle glaubtn sie glich
 Daz maeria zu hiel reich
 were gefarn mit libe vnd mit sele
@@ -9461,10 +8517,6 @@ Jhus mutter und trutina
 alle lobten da glich
 daz maeria zu himelach
 Sie vert her uff uon der erdn
-
-
-### 0239
-
 und wil konign werdn
 Sie wil auch vuser frewde gemeren
 umb daz solln wir sie eren
@@ -9501,10 +8553,6 @@ die engel enphingn die reyne
 vnd er hubn einen lob sang
 do von alle der himel er edn kiang
 wilkim seystu himelunn
-
-
-### 0240
-
 var uff zu dinen brutgan
 uon duler himel vart frawet sich
 alles da ist in den himelrich
@@ -9541,10 +8589,6 @@ kuntlich gicht uns die schafft daz
 do wart maeria schon enphangn
 und sungn mit sussem gesange
 vnd furten sie mit grossen schalle
-
-
-### 0241
-
 wilkem maeria der engel trost
 uon dir istalle dy werlt erlost
 var uff reyne maget mii
@@ -9580,10 +8624,6 @@ Su marian alle sant
 Sie quamen und frolichn enphingn
 und sulchn sanch sie an fingn
 wilkim maria maget schon
-
-
-### 0242
-
 wilkim fraw der engel kron
 Du bist lichter den die sonne
 du bist der sufe gartn bedne
@@ -9620,10 +8660,6 @@ wir solln frewd uon irgewynen
 maeria do du we vff der erdn
 do wen du bezeichel bey der gertn
 dy der prister aaron trug
-
-
-### 0243
-
 uz der selbn gertn slng
 Erine lanp und grosse blumen
 und uon der blumen frucht ist kumen
@@ -9659,10 +8695,6 @@ Sein ir mit gesange gingn
 Sie srewtn sich daz ir konigen
 kinne waz und ir losereȳ
 Die heillign und die sele sing
-
-
-### 0244
-
 daz die himel alle erclngn
 und mit susser armoneyen en
 Enphingn sie die reynen maren
@@ -9697,10 +8729,6 @@ Des saltu nu vnd ewiglich
 wanen by mir in den himeleich
 Egen seiner mutter ging
 der sih und frolich sien enphing
-
-
-### 0245
-
 mit frewdn furt er sie zu hant
 Eu seines trones rechtn hant
 Dff einen stul er saczte sie
@@ -9738,10 +8766,6 @@ des waz meyn gotheyt dir bereyt
 wan du wast milde vnd gut
 Gewaldig und wol gemunt
 du wast auch mit rechtn synen
-
-
-### 0246
-
 du hattest libe war myne
 Nu got und zu aller eristenheyt
 alle sunde warn dir leyt
@@ -9779,10 +8803,6 @@ Auch stnde ich dicz buchelin
 uon der libn frawen mey
 alle der cristenheyt gemen
 daz sie wissn wie daz reyne
-
-
-### 0247
-
 maiin lebn sey gewesen
 wer daz gerne hert lesen
 und auch stribn heyssn wil
@@ -9818,10 +8838,6 @@ Ich enkundes nicht gemeystern baz
 alle die an disem buch
 lesen der gnade ich such
 daz sie walln haben stete
-
-
-### 0248
-
 mich durch got an irm gebete
 vnd biten ihesun daz er sich
 wolde erbarmen uber much
@@ -9861,5 +8877,3 @@ daz alle menschliche diet
 ver leyde qnelende get
 daz fur daz sol uns daz virde brengn
 mit also grosser hiez enczundin
-
-
