@@ -207,7 +207,7 @@ dez dy rich alle sint
 Er wirt auch aller werlde her
 der heillign lon der engel ere
 von im wirt dy werld erlost
-und alles menschlich koēnne getrost
+und alles menschlich koennne getrost
 dar umb saltu nicht en lan
 Du salt zu hant heym gan
 Trost dein frawe in irem leyde
@@ -1879,7 +1879,7 @@ und ir phlege sich an nemen
 Daz sie nicht alleyne were
 wan sie irkint gebere
 Do her joseph ging hin us
-uon den frawen uß dem huns
+von den frawen uß dem huns
 Ein gros licht uon himelreich
 Daz ach der sonnen glich
 und uon himel ein gros schar
@@ -2398,7 +2398,7 @@ der in den weg erzeiget
 Su bethlehem er sie leyt
 und uff den hus stund der sterne
 dar ynne waz der here
-ffrende groß sie do enphing
+ffrende groß sie do enphinḡ
 In daz hus die konige ging
 die mutter und daz kint sie funden
 daz kint en ein reyn dich gewunnen
@@ -2791,7 +2791,7 @@ Er sprach zu ioscph liber man
 du salt wesen sorgn an
 dir ensol nicht leides geschen
 Ich wil daz wol understen
-und voer ungemach uch bewaren
+und voer vngemach uch bewaren
 mit frendn saltu von hinen varn
 Ich schaff uch gut gemach
 noch hind und mbne den tag
@@ -3808,7 +3808,7 @@ sprich im verholn in sin or
 hit daz es yeman hor
 Ich gebet dir daz du vff stest
 mit mir lebende von hien gest
-Sy den der uber tod uon uber lebn
+Sy den der uber tod uon vber lebn
 halt ge walt und hat uns gegebn
 Dy sele zu einer frit
 der aller der werls ein scheppherit
@@ -5613,7 +5613,7 @@ do sessen und wechseln phlogen
 Jhund die alle vs treib
 mit einer swippen die er begreifs
 Er sprach du hin daz uz
-unreynt nicht meys vatter hud
+vnreynt nicht meys vatter hud
 die prister und die pharise
 vnd die schriber uz der r
 ubel ihn dar umb redten
@@ -5948,7 +5948,7 @@ Sucht ir mich so last genesen
 Die ir mit mir sint gewesen
 do ging Judas in der stund
 und kust vusern hern an sinen munt
-und sprach ane rabt̄
+und sprach ane rabnt
 unser herr sprach dem gruß ist by
 Gorn untrewe vnd haß
 wan du mich bratn hast
@@ -6857,7 +6857,7 @@ Sint mit unflat gar behangn
 Owe dines heubtes swarte
 vsert ist mit dornen hate
 owe din augn rot
-uon ungemach sint in grosser not
+uon vngemach sint in grosser not
 owe myn libes kit
 alle din glider sint
 uon ein ander gerecket
@@ -6978,7 +6978,7 @@ Johannes daz her wenig kende
 Geredn do sprach her here
 Awe mir der grossn swere
 daz du lieber her solt leidn
-den tot und uon uns salt scheydn
+den tot und uon vns salt scheydn
 Min frawe dy reyne mutter dein
 dy sal mir wol befeln sein
 Ich wil gern ir diner sein
@@ -7663,7 +7663,7 @@ Dar aimen lute vnd ferr gesarn
 und ir icklich da erkente
 vnd heit die sprach uon sinen lande
 hesus qugn uz da gingn
-und zu sdig an vingn
+und zu sdiḡ an vingn
 Eristen glaubn eber al
 do ben zu hant eyn gros schal
 und haß er heb sich uonden indn
@@ -7689,7 +7689,7 @@ daz wil ich doch vil gerne sehn
 daz die werld nu werde bekent
 und meines kandes lob werd gemert
 und meyn libes kint bekant
-uon uch werde alle lant
+uon vch werde alle lant
 Dar umb solt ir mit fride farn
 der heillige geist sol uch bewarn
 auch sal uch dch kint mey
@@ -7853,7 +7853,7 @@ Noch danne waz des lichtes d
 auch sach er daz die engel sich
 Ir alle erbuerten demnttiglich
 Nu dinst maeria eyn kron
-Ir sact̄ uff licht und schon
+Ir sacnt uff licht und schon
 auch us den selben gadenging
 Ein susser ruch den dan enphing
 Wen sals her uff hul
@@ -8295,7 +8295,7 @@ frahel in gutu
 von uns ist gescheidn mi
 vnser frawe vnd vuser trost
 uon der wie alle sint erlost
-Sie ist uon uns nu gescheydn
+Sie ist uon vns nu gescheydn
 die vns weyste vnd leyte
 Solde durch des libes clende
 Dy hat genanen ir ende
